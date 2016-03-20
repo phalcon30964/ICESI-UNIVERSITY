@@ -1,0 +1,10 @@
+	public Collection preOrden(Collection lista){
+		
+		lista.add(this);
+		for (int i = 0; i < ciudadesHijas.size(); i++) {
+			Ciudad otraCiudad = (Ciudad) ciudadesHijas.get(i);
+			Collection rutas = otraCiudad.preOrden(lista);
+			lista.addAll(rutas);
+		}
+		return lista;
+	}

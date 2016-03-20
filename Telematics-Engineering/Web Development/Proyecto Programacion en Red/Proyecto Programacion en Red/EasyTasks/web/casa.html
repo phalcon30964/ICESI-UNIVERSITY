@@ -1,0 +1,325 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" type="image/ico" href="assets3/css/images/favicon.ico"/>
+<title>Easy Task</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+<link rel="stylesheet" href="assets2/css/main.css" />
+<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+</head>
+
+<body>
+
+<!-- Header -->
+<div id="header"> 
+  
+  <!-- Logo -->
+  <div id="logo"> <span class="image avatar48"><img src="images2/logo.jpg" alt="" /></span>
+    <h1 id="title">Nombre Usuario</h1>
+  </div>
+  
+  <!-- Nav -->
+  <nav id="nav">
+    <ul>
+      <li><a href="#top" id="top-link" class="skel-layers-ignoreHref"><span class="icon fa-home">Inicio</span></a></li>
+      <li><a href="#about" id="about-link" class="skel-layers-ignoreHref"><span class="icon fa-user">Crear Tarea</span></a></li>
+      <li><a href="#tareas" id="portfolio-link" class="skel-layers-ignoreHref"><span class="icon fa-th">Lista de Tareas</span></a></li>
+      <li><a href="#contact" id="contact-link" class="skel-layers-ignoreHref"><span class="icon fa-envelope">Tarea en Detalle</span></a></li>
+    </ul>
+  </nav>
+  <h1 id="logo">&nbsp;</h1>
+  <nav id="nav"> 
+    
+    <!-- Aqui para cerrar sesion -->
+    <ul>
+      <li><a href="#" class="button special">Cerrar Sesion</a></li>
+    </ul>
+  </nav>
+</div>
+<div class="bottons"> 
+  
+  <!-- Social Icons -->
+  <ul class="icons">
+    <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+    <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+    <li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+    <li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+    <li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
+  </ul>
+</div>
+</div>
+
+<!-- Main -->
+<div id="main"> 
+  
+  <!-- Intro -->
+  <section id="top" class="one dark cover">
+    <div class="container">
+      <header>
+        <h2 class="alt">Hola! Bienvenido a <strong>Easy Task</strong>.</h2>
+        <p>Esta cuenta es completamente gratis y usted tiene habilitadas <br>
+          todas las funciones de la aplicación</p>
+      </header>
+      <footer> <a href="#about" class="button scrolly">Agregar Tarea</a> </footer>
+    </div>
+  </section>
+  
+  <!-- Seccion para agregar una tarea -->
+  <section id="about" class="three">
+    <div class="container">
+      <header>
+        <h2>Nueva Tarea</h2>
+      </header>
+      <a href="#" class="image featured"><img src="images2/task2.jpg" alt="" /></a>
+      <form method="post" action="#">
+        <div class="row">
+          <div class="6u 12u$(mobile)">
+            <input type="text" name="nombreTarea" placeholder="Nombre Tarea" />
+          </div>
+          <div class="6u$ 12u$(mobile)">
+            <input type="date" name="fecha" />
+            <input type="time" name="hora" />
+          </div>
+          <div class="6u 12u$(mobile)">
+            <input type="text" name="descripcion" placeholder="Descripción" />
+          </div>
+          <div class="6u$ 12u$(mobile)">
+            <input type="text" name="tags" placeholder="Tags" title="Escriba los tags seguidos de un coma (,)"/>
+          </div>
+        
+          <div class="6u$ 12u$(mobile)">
+            <input id="address" type="text" name="ubicacion" placeholder="Ubicacion" title="Direccion o lugar del evento"/>
+            <div class="6u$ 12u$(mobile)">
+              <input name="checkUbicacion" type="button" id="checkUbicacion" value="Check" onclick="codeAddress()"/>
+               <input type="hidden" name="ubicacionTareaNueva" id="ubicacionTareaNueva" />
+            </div>
+            <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script> 
+            <script>
+				var geocoder;
+				var map;
+					function initialize() {
+						  geocoder = new google.maps.Geocoder();
+						  var latlng = new google.maps.LatLng(3.341812, -76.530879);
+						  var mapOptions = {
+						    zoom: 15,
+						    center: latlng
+  						}
+			  map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+}
+
+				function codeAddress() {
+					  var address = document.getElementById('address').value;
+					  geocoder.geocode( { 'address': address}, 
+	  function(results, status) {
+    if (status == google.maps.GeocoderStatus.OK) {
+      map.setCenter(results[0].geometry.location);
+      var marker = new google.maps.Marker({
+          map: map,
+          position: results[0].geometry.location
+      });
+	  alert('Se ha guardado su Ubicación: '+ address +', Position is: ' + results[0].geometry.location +'.');
+    } else {
+      alert('Geocode was not successful for the following reason: ' + status);
+    }
+  });
+}
+	google.maps.event.addDomListener(window, 'load', initialize);
+
+    </script> 
+          </div>
+          <div class=""12u$"">
+            <select name="prioridad">
+              <OPTION value="">Prioridad</OPTION>
+              <option disabled>- - -</option>
+              <OPTION VALUE="uno">1</OPTION>
+              <OPTION VALUE="dos">2</OPTION>
+              <OPTION VALUE="tres">3</OPTION>
+            </select>
+          </div>
+          <div class=""12u$"">
+            <select name="categoria">
+              <option value="">Categoría</option>
+              <option disabled>- - -</option>
+              <OPTION VALUE="trabajo">Trabajo</OPTION>
+              <OPTION VALUE="personal">Personal</OPTION>
+              <OPTION VALUE="estudio">Estudio</OPTION>
+            </select>
+     		 <script>
+	  
+   				function nuevaCategoria(){
+						var nombreUsuarioRestablecer = prompt("Por favor nueva categoria: ");
+                        document.getElementById('elemento').value=nombreUsuarioRestablecer;
+									   }
+            </script>
+          </div>
+          <div class="12u$">
+            <input name="crearTarea" type="button" id="crearTarea" value="Crear Tarea"/>
+          </div>
+        </div>
+      </form>
+        <form>
+        <input type="hidden" name="nuevaCategoriaNombre" id="nuevaCategoriaNombre" />
+        <input type="submit" class="special" value="Nueva Categoria" onClick="nuevaCategoria()" />
+        </form>
+    </div>
+  </section>
+  
+<section id="tareas" class="two">
+  <div class="container">
+    <header>
+      <h2>Tareas</h2>
+    </header>
+    <form method="post" action="#">
+    <div class="row">
+    
+    <div class="12u$"> 
+      <!--  En este punto se escoje como se va a organizar las tareas  -->
+      <select name="ordenarPor" >
+        <option value="">Ordenar Por :</option>
+        <option disabled>- - -</option>
+        <OPTION disabled>Prioridad :</OPTION>
+        <option value="porPrioridad1">... Prioridad 1</option>
+        <option value="porPrioridad2">... Prioridad 2</option>
+        <option value="porPrioridad3">... Prioridad 3</option>
+        <option value="porPrioridadNull">... Sin Prioridad</option>
+        <option value="porPrioridadMasAMenos">... Mayor a menor</option>
+        <option disabled>- - -</option>
+        
+        <!-- Aqui pendiente si se agrega una nueva categoria -->
+        <OPTION disabled>Categoría :</OPTION>
+        <option value="porTrabajo">... Trabajo</option>
+        <option value="porEstudio">... Estudio</option>
+        <option value="porPersondal">... Personal</option>
+        <option disabled>- - -</option>
+        <option disabled>Fecha :</option>
+        <OPTION VALUE="porFechaLimite">... Fecha Limite</OPTION>
+        <option value="porHoy">... por hoy</option>
+        <option value="porAtrasadas">... Atrasadas</option>
+      </select>
+    </div>
+    </form> 
+    
+    <div class="12u$">
+    <script LANGUAGE="JavaScript">
+			function envia(pag){ 
+			document.form.action= pag 
+			document.form.submit() 
+			} 
+		</script>
+    <form >
+      <select name="tareas" multiple>
+      </select>
+    </div>
+    <div class="12u$">
+    	
+       	  <input name="eliminar" type="submit" id="eliminar" value="Eliminar Tarea(s)"  />
+          <input name="editarTarea" type="button"  id="editarTarea" value="Editar/Detalle Tarea" onclick= "document.form.action = 'index.html'; document.form.submit()" />
+          </form>
+          <input name="enviarCorreo" type="button"  id="enviarCorreo" value="Enviar Tarea(s) por email"/>
+          <div class="12u$">
+          
+          <a href="pdfs/2.pdf"><input name="reportePDF" type="button"  id="reportePDF" value="Generar Reporte PDF" />
+          </a>
+          </div>
+          <!-- Se debe usar una función que referencie usando a href="Usuario.pdf" y onclick()el descarga el archivo pdf -->
+        </div>
+      </div>
+   
+  </div>
+  </section>
+  
+  <!-- Tarea en detalle, se actualiza esta sesion cuando dan click en el boton con id="editarTarea" -->
+  
+  <section id="contact" class="four">
+  <div class="container">
+    <header>
+      <h2>Tarea en Detalle</h2>
+    </header>
+    <form method="post" action="#">
+    <div class="row">
+    <div class="6u 12u$(mobile)">
+      <input type="text" name="nombreTareaEdit" title="Nombre de la tarea" />
+    </div>
+    <div class="6u$ 12u$(mobile)">
+      <input type="text" name="fechaHoraEdit" title="Fecha y hora de la tarea">
+    </div>
+    <div class="6u 12u$(mobile)">
+      <input type="text" name="descripcionEdit" title="Descripción de la tarea"/>
+    </div>
+    <div class="6u$ 12u$(mobile)">
+      <input type="text" name="tagsEdit" title="Tags de la tarea"/>
+    </div>
+    <div class=""12u$"">
+      <select name="prioridad" title="Prioridad de la tarea">
+        <OPTION value="">Prioridad</OPTION>
+        <option disabled>- - -</option>
+        <OPTION VALUE="uno">1</OPTION>
+        <OPTION VALUE="dos">2</OPTION>
+        <OPTION VALUE="tres">3</OPTION>
+      </select>
+    </div>
+    <div class=""12u$"">
+      <select name="categoria">
+        <option value="">Categoría</option>
+        <option disabled>- - -</option>
+        <OPTION VALUE="trabajo">Trabajo</OPTION>
+        <OPTION VALUE="personal">Personal</OPTION>
+        <OPTION VALUE="estudio">Estudio</OPTION>
+      </select>
+    </div>
+    
+    <style>
+      #map-canvas {
+	  	position:relative;
+		alignment-adjust:auto;
+		width: 280px;
+        height: 260px;
+        padding: 20px
+      }
+      #panel {
+        position: overflow;
+        top: 0px;
+        left: 40%;
+        margin-left: 50px;
+        z-index: 5;
+        background-color: #fff;
+        padding: 9px;
+        border: 1px solid #999;
+      }
+    </style>
+    <div id="map-canvas"></div> 
+    
+      <div class="12u$">
+        <input name="guardarCambios" type="button" value="Guardar Cambios" />
+      </div>
+    
+  </div>
+  </form>
+</div>
+</section>
+</div>
+
+<!-- Footer -->
+
+<div id="footer"> 
+  
+  <!-- Copyright -->
+  <ul class="copyright">
+    <li>&copy; Easy Task All Rights Reserved.</li>
+    <li>Design: By EasyTask <a href="http://www.easytask.com"></a></li>
+  </ul>
+</div>
+
+<!-- Scripts --> 
+<script src="assets/js/jquery.min.js"></script> 
+<script src="assets/js/jquery.scrolly.min.js"></script> 
+<script src="assets/js/jquery.scrollzer.min.js"></script> 
+<script src="assets/js/skel.min.js"></script> 
+<script src="assets/js/util.js"></script> 
+<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]--> 
+<script src="assets/js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TestColaPrioridad.java&apos; to &apos;EstructurasChristian/src/TadCola&apos;&#x0D;&#x0A;- Original project: &apos;AED_Practico1_2014-2_Esqueleto&apos;&#x0D;&#x0A;- Destination element: &apos;EstructurasChristian/src/TadCola&apos;&#x0D;&#x0A;- Original element: &apos;test.TestColaPrioridad.java&apos;" description="Copy compilation unit" destination="=EstructurasChristian/src&lt;TadCola" element1="/tests&lt;test{TestColaPrioridad.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1409970108443" units="1" version="1.0"/>
+</session>

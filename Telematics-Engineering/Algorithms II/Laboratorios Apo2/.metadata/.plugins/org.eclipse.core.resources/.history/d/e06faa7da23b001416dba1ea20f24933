@@ -1,0 +1,13 @@
+package TadLista;
+
+public class ListaDoble<T> implements ILista<T> {
+	
+	private int longitud;
+	
+	private NodoDoble<T> primero;
+	
+	private NodoDoble<T> ultimo;
+	
+	
+
+}

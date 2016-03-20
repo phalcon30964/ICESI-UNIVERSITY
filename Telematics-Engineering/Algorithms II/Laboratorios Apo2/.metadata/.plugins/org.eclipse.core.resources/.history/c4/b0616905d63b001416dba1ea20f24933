@@ -1,0 +1,41 @@
+package TadLista;
+
+public class ListaOrdenada<T extends Comparable<T>> implements ILista<T> {
+	
+	
+	// ----------------------------------------------------------------------------
+	// ATRIBUTOS
+	// ----------------------------------------------------------------------------
+
+	private int longitud;
+	
+	private boolean ascendente;
+
+	private NodoOrdenado<T> primero;
+	
+
+
+	// ----------------------------------------------------------------------------
+	// CONSTRUCTOR
+	// ----------------------------------------------------------------------------
+	/**
+	 * Metodo constructor que crea una instancia de la clase Lista Ordenada de
+	 * longitud 0 y orde pasado por parametro
+	 * 
+	 * @param boolean ascendente true si se quiere orden de menor a mayor y false si se quiere 
+	 *                de mayor a menor 
+	 */
+	public ListaOrdenada(boolean ascendente){
+		
+		this.longitud = 0;
+		this.ascendente = ascendente;
+		this.primero = new NodoOrdenado<T>(null);
+		
+	}
+	
+	// ----------------------------------------------------------------------------
+		// METODOS
+		// ----------------------------------------------------------------------------
+
+
+}

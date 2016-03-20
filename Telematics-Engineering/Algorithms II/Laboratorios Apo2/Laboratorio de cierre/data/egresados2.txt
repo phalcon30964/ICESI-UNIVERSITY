@@ -1,0 +1,3637 @@
+%Santiago Reyes tiene reconocimiento en el medio politico.
+1;Santiago;Reyes Alvarez;1198570706;3111074691;santiago.reyes.alvarez@correo.icesi.edu.co
+%Natalia Reyes tiene reconocimiento en el medio politico.
+2;Natalia;Reyes Alvarez;1157653606;3113821693;natalia.reyes.alvarez@icesi.edu.co
+
+%Juan Reyes debe actualizar la información de contacto.
+3;Juan;Reyes Alvarez;1119378016;315077614;juan.reyes.alvarez@icesi.edu.co
+
+%Manuel Reyes tuvo uno de los mejores promedios de su promocion.
+4;Manuel;Reyes Alvarez;1124907367;3162210172;manuel.reyes.alvarez@gmail.com
+%David Reyes tuvo uno de los mejores promedios de su promocion.
+5;David;Reyes Alvarez;1127354000;3147041837;david.reyes.alvarez@hotmail.com
+
+%Maryi Reyes participa activamente en los eventos.
+6;Maryi;Reyes Alvarez;1147150158;3168966387;maryi.reyes.alvarez@gmail.com
+
+
+%Angela Reyes colabora con la universidad constantemente.
+7;Angela;Reyes Alvarez;1131205688;3111502513;angela.reyes.alvarez@hotmail.com
+%Liliana Reyes tiene un gran compromiso con la institucion.
+8;Liliana;Reyes Alvarez;1190540181;3115120055
+
+
+%Lorena Reyes tiene reconocimiento en el medio politico.
+9;Lorena;Reyes Alvarez;1161538199;3187450899;lorena.reyes.alvarez@icesi.edu.co
+
+%Idalia Reyes debe actualizar la información de contacto.
+10;Idalia;Reyes Alvarez;1190122404;3111604833;idalia.reyes.alvarez@hotmail.com
+
+%Viviana Reyes tiene reconocimiento en el medio politico.
+11;Viviana;Reyes Alvarez;1167865469;3143176381;viviana.reyes.alvarez@icesi.edu.co
+
+%Santiago Garcia tuvo uno de los mejores promedios de su promocion.
+12;Santiago;Garcia Alvarez;1157199483;3174015375;santiago.garcia.alvarez@gmail.com
+
+%Natalia Garcia tiene reconocimiento en el medio politico.
+13;Natalia;Garcia Alvarez;1168200950;3116742226;natalia.garcia.alvarez@hotmail.com
+
+
+%Juan Garcia debe actualizar la información de contacto.
+14;Juan;Garcia Alvarez;1191637082;3147557108;juan.garcia.alvarez@gmail.com
+
+
+%Manuel Garcia participa activamente en los eventos.
+15;Manuel;Garcia Alvarez;1137699856;3178796096;manuel.garcia.alvarez@icesi.edu.co
+%David Garcia tiene un gran compromiso con la institucion.
+16;David;Garcia Alvarez;1173709940;318040208;david.garcia.alvarez@icesi.edu.co
+
+%Maryi Garcia tiene un gran compromiso con la institucion.
+17;Maryi;Garcia Alvarez;1129562759;3171935901;maryi.garcia.alvarez@hotmail.com
+
+
+%Angela Garcia tuvo uno de los mejores promedios de su promocion.
+18;Angela;Garcia Alvarez;1140270755;3183226200;angela.garcia.alvarez@gmail.com
+
+%Liliana Garcia tuvo uno de los mejores promedios de su promocion.
+19;Liliana;Garcia Alvarez;1123694;3135246131;liliana.garcia.alvarez@gmail.com
+%Lorena Garcia tuvo uno de los mejores promedios de su promocion.
+20;Lorena;Garcia Alvarez;112074805;3154167732;lorena.garcia.alvarez@correo.icesi.edu.co
+
+
+%Idalia Garcia tuvo uno de los mejores promedios de su promocion.
+21;Idalia;Garcia Alvarez;1159734162;3173889273;idalia.garcia.alvarez@hotmail.com
+
+%Viviana Garcia tiene un gran compromiso con la institucion.
+22;Viviana;Garcia Alvarez;1133018940;318389036;viviana.garcia.alvarez@correo.icesi.edu.co
+
+%Santiago Hurtado debe actualizar la información de contacto.
+23;Santiago;Hurtado Alvarez;1196217680;3131781508;santiago.hurtado.alvarez@icesi.edu.co
+
+%Natalia Hurtado tiene reconocimiento en el medio politico.
+24;Natalia;Hurtado Alvarez;1157854410;3125836611;natalia.hurtado.alvarez@gmail.com
+
+%Juan Hurtado colabora con la universidad constantemente.
+25;Juan;Hurtado Alvarez;116307907;3170401411;juan.hurtado.alvarez@correo.icesi.edu.co
+
+%Manuel Hurtado tiene un gran compromiso con la institucion.
+26;Manuel;Hurtado Alvarez;1182608778;3184486805;manuel.hurtado.alvarez@gmail.com
+
+
+%David Hurtado tuvo uno de los mejores promedios de su promocion.
+27;David;Hurtado Alvarez;1143596524;3148674846;david.hurtado.alvarez@hotmail.com
+
+
+%Maryi Hurtado tuvo uno de los mejores promedios de su promocion.
+28;Maryi;Hurtado Alvarez;1151502877;3175328822;maryi.hurtado.alvarez@hotmail.com
+
+%Angela Hurtado tuvo uno de los mejores promedios de su promocion.
+29;Angela;Hurtado Alvarez;1123905447;3137648872;angela.hurtado.alvarez@icesi.edu.co
+
+%Liliana Hurtado tiene reconocimiento en el medio politico.
+30;Liliana;Hurtado Alvarez;1175574661;3116148908;liliana.hurtado.alvarez@correo.icesi.edu.co
+
+
+%Lorena Hurtado tiene un gran compromiso con la institucion.
+31;Lorena;Hurtado Alvarez;1141661141;3189311920;lorena.hurtado.alvarez@hotmail.com
+
+%Idalia Hurtado participa activamente en los eventos.
+32;Idalia;Hurtado Alvarez;1161522481;3150123328;idalia.hurtado.alvarez@correo.icesi.edu.co
+
+
+%Viviana Hurtado tiene reconocimiento en el medio politico.
+33;Viviana;Hurtado Alvarez;1131787162;3111437118;viviana.hurtado.alvarez@gmail.com
+
+%Santiago Bustamante participa activamente en los eventos.
+34;Santiago;Bustamante Alvarez;1174456161;318684923;santiago.bustamante.alvarez@icesi.edu.co
+%Natalia Bustamante debe actualizar la información de contacto.
+35;Natalia;Bustamante Alvarez;1165344252;3179720064;natalia.bustamante.alvarez@correo.icesi.edu.co
+
+%Juan Bustamante tiene un gran compromiso con la institucion.
+36;Juan;Bustamante Alvarez;1195295005;318459940;juan.bustamante.alvarez@hotmail.com
+%Manuel Bustamante debe actualizar la información de contacto.
+37;Manuel;Bustamante Alvarez;1192635688;3144752006;manuel.bustamante.alvarez@correo.icesi.edu.co
+
+
+%David Bustamante tiene un gran compromiso con la institucion.
+38;David;Bustamante Alvarez;1182477651;3139278970;david.bustamante.alvarez@hotmail.com
+
+
+%Maryi Bustamante participa activamente en los eventos.
+39;Maryi;Bustamante Alvarez;1144858773;3164513811;maryi.bustamante.alvarez@icesi.edu.co
+
+
+%Angela Bustamante colabora con la universidad constantemente.
+40;Angela;Bustamante Alvarez;1118449469;3184347773;angela.bustamante.alvarez@correo.icesi.edu.co
+
+%Liliana Bustamante colabora con la universidad constantemente.
+41;Liliana;Bustamante Alvarez;1174621711;3113095685;liliana.bustamante.alvarez@gmail.com
+
+
+%Lorena Bustamante participa activamente en los eventos.
+42;Lorena;Bustamante Alvarez;1114068993;3194620846;lorena.bustamante.alvarez@gmail.com
+
+%Idalia Bustamante tiene reconocimiento en el medio politico.
+43;Idalia;Bustamante Alvarez;1156758353;3183242157;idalia.bustamante.alvarez@icesi.edu.co
+
+%Viviana Bustamante debe actualizar la información de contacto.
+44;Viviana;Bustamante Alvarez;1158625622;3117252641;viviana.bustamante.alvarez@gmail.com
+%Santiago Arciniegas tiene un gran compromiso con la institucion.
+45;Santiago;Arciniegas Alvarez;1183861592;3114091302;santiago.arciniegas.alvarez@icesi.edu.co
+
+
+%Natalia Arciniegas tiene un gran compromiso con la institucion.
+46;Natalia;Arciniegas Alvarez;1139586667;3152708286;natalia.arciniegas.alvarez@gmail.com
+
+
+%Juan Arciniegas participa activamente en los eventos.
+47;Juan;Arciniegas Alvarez;1175819454;3136121798;juan.arciniegas.alvarez@icesi.edu.co
+
+
+%Manuel Arciniegas tiene un gran compromiso con la institucion.
+48;Manuel;Arciniegas Alvarez;1114492545;3186697805;manuel.arciniegas.alvarez@icesi.edu.co
+
+%David Arciniegas tiene reconocimiento en el medio politico.
+49;David;Arciniegas Alvarez;1179376239;3132840870;david.arciniegas.alvarez@icesi.edu.co
+
+%Maryi Arciniegas colabora con la universidad constantemente.
+50;Maryi;Arciniegas Alvarez;1197594714;3111554769;maryi.arciniegas.alvarez@correo.icesi.edu.co
+%Angela Arciniegas debe actualizar la información de contacto.
+51;Angela;Arciniegas Alvarez;1162354331;3173140735;angela.arciniegas.alvarez@icesi.edu.co
+
+
+%Liliana Arciniegas tiene un gran compromiso con la institucion.
+52;Liliana;Arciniegas Alvarez;1125881773;3117012404;liliana.arciniegas.alvarez@icesi.edu.co
+%Lorena Arciniegas colabora con la universidad constantemente.
+53;Lorena;Arciniegas Alvarez;117660556;3169520704;lorena.arciniegas.alvarez@icesi.edu.co
+
+%Idalia Arciniegas tuvo uno de los mejores promedios de su promocion.
+54;Idalia;Arciniegas Alvarez;1193064857;3192537187;idalia.arciniegas.alvarez@gmail.com
+
+
+%Viviana Arciniegas tuvo uno de los mejores promedios de su promocion.
+55;Viviana;Arciniegas Alvarez;1184564307;3165516610;viviana.arciniegas.alvarez@icesi.edu.co
+
+
+%Santiago Lopez tiene reconocimiento en el medio politico.
+56;Santiago;Lopez Alvarez;1185894285;3142461976;santiago.lopez.alvarez@correo.icesi.edu.co
+
+
+%Natalia Lopez colabora con la universidad constantemente.
+57;Natalia;Lopez Alvarez;1118972868;3150698761;natalia.lopez.alvarez@correo.icesi.edu.co
+
+%Juan Lopez tuvo uno de los mejores promedios de su promocion.
+58;Juan;Lopez Alvarez;1124855203;3171117803;juan.lopez.alvarez@correo.icesi.edu.co
+
+
+%Manuel Lopez participa activamente en los eventos.
+59;Manuel;Lopez Alvarez;11542694;3143494164;manuel.lopez.alvarez@icesi.edu.co
+
+%David Lopez tuvo uno de los mejores promedios de su promocion.
+60;David;Lopez Alvarez;11840732;3147995432;david.lopez.alvarez@icesi.edu.co
+
+%Maryi Lopez debe actualizar la información de contacto.
+61;Maryi;Lopez Alvarez;1152453687;3170858291;maryi.lopez.alvarez@correo.icesi.edu.co
+
+
+%Angela Lopez tuvo uno de los mejores promedios de su promocion.
+62;Angela;Lopez Alvarez;1110826880;3112674846;angela.lopez.alvarez@gmail.com
+
+
+%Liliana Lopez tiene un gran compromiso con la institucion.
+63;Liliana;Lopez Alvarez;1149536749;319466170;liliana.lopez.alvarez@icesi.edu.co
+
+%Lorena Lopez participa activamente en los eventos.
+64;Lorena;Lopez Alvarez;1128874337;3125842866;lorena.lopez.alvarez@gmail.com
+%Idalia Lopez participa activamente en los eventos.
+65;Idalia;Lopez Alvarez;112183214;3135612157;idalia.lopez.alvarez@icesi.edu.co
+
+
+%Viviana Lopez colabora con la universidad constantemente.
+66;Viviana;Lopez Alvarez;113957979;3116176114;viviana.lopez.alvarez@correo.icesi.edu.co
+%Santiago Villota tiene un gran compromiso con la institucion.
+67;Santiago;Villota Alvarez;1127078045;3160402230;santiago.villota.alvarez@hotmail.com
+
+%Natalia Villota tuvo uno de los mejores promedios de su promocion.
+68;Natalia;Villota Alvarez;1153175732;3113198561;natalia.villota.alvarez@gmail.com
+
+
+%Juan Villota colabora con la universidad constantemente.
+69;Juan;Villota Alvarez;111286917;313092206;juan.villota.alvarez@gmail.com
+
+
+%Manuel Villota participa activamente en los eventos.
+70;Manuel;Villota Alvarez;1117814194;3193429982;manuel.villota.alvarez@gmail.com
+%David Villota tiene un gran compromiso con la institucion.
+71;David;Villota Alvarez;1143590629;3178569811;david.villota.alvarez@gmail.com
+
+%Maryi Villota tiene un gran compromiso con la institucion.
+72;Maryi;Villota Alvarez;1170549233;311223577;maryi.villota.alvarez@correo.icesi.edu.co
+
+
+%Angela Villota tiene reconocimiento en el medio politico.
+73;Angela;Villota Alvarez;1186198589;3144998059;angela.villota.alvarez@icesi.edu.co
+
+
+%Liliana Villota participa activamente en los eventos.
+74;Liliana;Villota Alvarez;114735531;3136648172;liliana.villota.alvarez@icesi.edu.co
+
+%Lorena Villota tiene un gran compromiso con la institucion.
+75;Lorena;Villota Alvarez;1191086312;3174531899;lorena.villota.alvarez@correo.icesi.edu.co
+
+
+%Idalia Villota tiene un gran compromiso con la institucion.
+76;Idalia;Villota Alvarez;111289831;3130602304;idalia.villota.alvarez@icesi.edu.co
+%Viviana Villota tiene un gran compromiso con la institucion.
+77;Viviana;Villota Alvarez;1128190258;3173789710;viviana.villota.alvarez@gmail.com
+
+%Santiago Piedrahita debe actualizar la información de contacto.
+78;Santiago;Piedrahita Alvarez;1155098442;3152054671;santiago.piedrahita.alvarez@correo.icesi.edu.co
+
+
+%Natalia Piedrahita tiene reconocimiento en el medio politico.
+79;Natalia;Piedrahita Alvarez;1167556531;3191405619;natalia.piedrahita.alvarez@icesi.edu.co
+
+
+%Juan Piedrahita debe actualizar la información de contacto.
+80;Juan;Piedrahita Alvarez;1151180312;3113887330;juan.piedrahita.alvarez@gmail.com
+
+
+%Manuel Piedrahita colabora con la universidad constantemente.
+81;Manuel;Piedrahita Alvarez;1144278306;317508290;manuel.piedrahita.alvarez@icesi.edu.co
+
+
+%David Piedrahita tiene un gran compromiso con la institucion.
+82;David;Piedrahita Alvarez;1111012782;3162275153;david.piedrahita.alvarez@correo.icesi.edu.co
+
+%Maryi Piedrahita tiene un gran compromiso con la institucion.
+83;Maryi;Piedrahita Alvarez;1133670082;314366239;maryi.piedrahita.alvarez@hotmail.com
+%Angela Piedrahita tuvo uno de los mejores promedios de su promocion.
+84;Angela;Piedrahita Alvarez;1181477900;3149867023;angela.piedrahita.alvarez@icesi.edu.co
+%Liliana Piedrahita colabora con la universidad constantemente.
+85;Liliana;Piedrahita Alvarez;1124615187;3168709376;liliana.piedrahita.alvarez@correo.icesi.edu.co
+%Lorena Piedrahita tiene reconocimiento en el medio politico.
+86;Lorena;Piedrahita Alvarez;1112812965;315241310;lorena.piedrahita.alvarez@gmail.com
+%Idalia Piedrahita tuvo uno de los mejores promedios de su promocion.
+87;Idalia;Piedrahita Alvarez;111386172;3174380892;idalia.piedrahita.alvarez@correo.icesi.edu.co
+
+%Viviana Piedrahita participa activamente en los eventos.
+88;Viviana;Piedrahita Alvarez;1167749757;3120190194;viviana.piedrahita.alvarez@correo.icesi.edu.co
+
+%Santiago Gomez tiene un gran compromiso con la institucion.
+89;Santiago;Gomez Alvarez;1138476125;3138993239;santiago.gomez.alvarez@gmail.com
+%Natalia Gomez tiene un gran compromiso con la institucion.
+90;Natalia;Gomez Alvarez;1121702662;3182344437;natalia.gomez.alvarez@correo.icesi.edu.co
+
+%Juan Gomez participa activamente en los eventos.
+91;Juan;Gomez Alvarez;1179092089;3140156426;juan.gomez.alvarez@hotmail.com
+
+
+%Manuel Gomez debe actualizar la información de contacto.
+92;Manuel;Gomez Alvarez;1153416737;3183482211;manuel.gomez.alvarez@hotmail.com
+
+
+%David Gomez participa activamente en los eventos.
+93;David;Gomez Alvarez;115950141;3115616382;david.gomez.alvarez@correo.icesi.edu.co
+
+%Maryi Gomez tuvo uno de los mejores promedios de su promocion.
+94;Maryi;Gomez Alvarez;1186912460;3133572673;maryi.gomez.alvarez@gmail.com
+
+
+%Angela Gomez tiene un gran compromiso con la institucion.
+95;Angela;Gomez Alvarez;1122874942;3157285724;angela.gomez.alvarez@hotmail.com
+
+%Liliana Gomez tiene un gran compromiso con la institucion.
+96;Liliana;Gomez Alvarez;1128864781;317186944;liliana.gomez.alvarez@gmail.com
+
+%Lorena Gomez colabora con la universidad constantemente.
+97;Lorena;Gomez Alvarez;1147444819;3141668737;lorena.gomez.alvarez@correo.icesi.edu.co
+
+%Idalia Gomez tiene reconocimiento en el medio politico.
+98;Idalia;Gomez Alvarez;1150729818;3142366247;idalia.gomez.alvarez@gmail.com
+
+
+%Viviana Gomez tiene reconocimiento en el medio politico.
+99;Viviana;Gomez Alvarez;1168536792;3118576905;viviana.gomez.alvarez@gmail.com
+
+%Santiago Arana tiene reconocimiento en el medio politico.
+100;Santiago;Arana Alvarez;1191983299;312368919;santiago.arana.alvarez@gmail.com
+
+
+%Natalia Arana debe actualizar la información de contacto.
+101;Natalia;Arana Alvarez;1148114151;316300950;natalia.arana.alvarez@icesi.edu.co
+%Juan Arana participa activamente en los eventos.
+102;Juan;Arana Alvarez;119760730;3197925123;juan.arana.alvarez@hotmail.com
+
+%Manuel Arana tiene reconocimiento en el medio politico.
+103;Manuel;Arana Alvarez;1143962560;3114549735;manuel.arana.alvarez@icesi.edu.co
+
+%David Arana debe actualizar la información de contacto.
+104;David;Arana Alvarez;1170989929;3151710043;david.arana.alvarez@hotmail.com
+%Maryi Arana colabora con la universidad constantemente.
+105;Maryi;Arana Alvarez;1199318864;3136486042;maryi.arana.alvarez@correo.icesi.edu.co
+
+%Angela Arana debe actualizar la información de contacto.
+106;Angela;Arana Alvarez;1175782442;3167703414;angela.arana.alvarez@correo.icesi.edu.co
+%Liliana Arana colabora con la universidad constantemente.
+107;Liliana;Arana Alvarez;1186450113;3118083672;liliana.arana.alvarez@gmail.com
+
+
+%Lorena Arana colabora con la universidad constantemente.
+108;Lorena;Arana Alvarez;1115401067;3145935293;lorena.arana.alvarez@gmail.com
+
+
+%Idalia Arana debe actualizar la información de contacto.
+109;Idalia;Arana Alvarez;114228587;3126799909;idalia.arana.alvarez@correo.icesi.edu.co
+%Viviana Arana tiene reconocimiento en el medio politico.
+110;Viviana;Arana Alvarez;114546596;3157824931;viviana.arana.alvarez@icesi.edu.co
+
+%Santiago Buitrago debe actualizar la información de contacto.
+111;Santiago;Buitrago Alvarez;1114611859;312201889;santiago.buitrago.alvarez@icesi.edu.co
+%Natalia Buitrago tuvo uno de los mejores promedios de su promocion.
+112;Natalia;Buitrago Alvarez;1186007495;3168901734;natalia.buitrago.alvarez@icesi.edu.co
+
+
+%Juan Buitrago tiene un gran compromiso con la institucion.
+113;Juan;Buitrago Alvarez;1159675247;3178704968;juan.buitrago.alvarez@gmail.com
+
+
+%Manuel Buitrago tiene reconocimiento en el medio politico.
+114;Manuel;Buitrago Alvarez;1185892227;3164154259;manuel.buitrago.alvarez@hotmail.com
+%David Buitrago participa activamente en los eventos.
+115;David;Buitrago Alvarez;1129457275;3124975663;david.buitrago.alvarez@correo.icesi.edu.co
+%Maryi Buitrago tiene reconocimiento en el medio politico.
+116;Maryi;Buitrago Alvarez;1199714537;3196585240;maryi.buitrago.alvarez@hotmail.com
+
+%Angela Buitrago tiene un gran compromiso con la institucion.
+117;Angela;Buitrago Alvarez;1151367045;3145821369;angela.buitrago.alvarez@gmail.com
+
+%Liliana Buitrago participa activamente en los eventos.
+118;Liliana;Buitrago Alvarez;1113527901;3141757718;liliana.buitrago.alvarez@gmail.com
+
+
+%Lorena Buitrago tiene reconocimiento en el medio politico.
+119;Lorena;Buitrago Alvarez;1144265696;3140533481;lorena.buitrago.alvarez@gmail.com
+
+%Idalia Buitrago debe actualizar la información de contacto.
+120;Idalia;Buitrago Alvarez;1110106076;31199288;idalia.buitrago.alvarez@hotmail.com
+
+
+%Viviana Buitrago participa activamente en los eventos.
+121;Viviana;Buitrago Alvarez;1124572420;316670126;viviana.buitrago.alvarez@hotmail.com
+
+%Santiago Reyes colabora con la universidad constantemente.
+122;Santiago;Reyes Perez;1177842458;3145488602;santiago.reyes.perez@correo.icesi.edu.co
+
+%Natalia Reyes colabora con la universidad constantemente.
+123;Natalia;Reyes Perez;1167858778;3120159286;natalia.reyes.perez@gmail.com
+
+%Juan Reyes tuvo uno de los mejores promedios de su promocion.
+124;Juan;Reyes Perez;1129591825;3168680226;juan.reyes.perez@hotmail.com
+
+%Manuel Reyes tuvo uno de los mejores promedios de su promocion.
+125;Manuel;Reyes Perez;1117383344;3111372536;manuel.reyes.perez@correo.icesi.edu.co
+
+%David Reyes tiene un gran compromiso con la institucion.
+126;David;Reyes Perez;1150103664;3119431040;david.reyes.perez@icesi.edu.co
+%Maryi Reyes tuvo uno de los mejores promedios de su promocion.
+127;Maryi;Reyes Perez;1190881985;3192464198;maryi.reyes.perez@icesi.edu.co
+
+%Angela Reyes tuvo uno de los mejores promedios de su promocion.
+128;Angela;Reyes Perez;1123997241;3190773344;angela.reyes.perez@gmail.com
+
+%Liliana Reyes colabora con la universidad constantemente.
+129;Liliana;Reyes Perez;1168667354;3173790292;liliana.reyes.perez@correo.icesi.edu.co
+
+
+%Lorena Reyes colabora con la universidad constantemente.
+130;Lorena;Reyes Perez;1151404204;3137936903;lorena.reyes.perez@icesi.edu.co
+%Idalia Reyes tiene reconocimiento en el medio politico.
+131;Idalia;Reyes Perez;1149704491;3136616080;idalia.reyes.perez@gmail.com
+
+
+%Viviana Reyes tiene reconocimiento en el medio politico.
+132;Viviana;Reyes Perez;1135455410;3161954182;viviana.reyes.perez@hotmail.com
+
+
+%Santiago Garcia colabora con la universidad constantemente.
+133;Santiago;Garcia Perez;1137817658;315590635;santiago.garcia.perez@hotmail.com
+
+
+%Natalia Garcia tuvo uno de los mejores promedios de su promocion.
+134;Natalia;Garcia Perez;1124714340;3125990075;natalia.garcia.perez@icesi.edu.co
+%Juan Garcia participa activamente en los eventos.
+135;Juan;Garcia Perez;1167546858;3187611363;juan.garcia.perez@hotmail.com
+%Manuel Garcia tiene reconocimiento en el medio politico.
+136;Manuel;Garcia Perez;1114460341;316419393;manuel.garcia.perez@icesi.edu.co
+
+%David Garcia tiene reconocimiento en el medio politico.
+137;David;Garcia Perez;1198410737;3113720914;david.garcia.perez@correo.icesi.edu.co
+%Maryi Garcia tiene reconocimiento en el medio politico.
+138;Maryi;Garcia Perez;1153400655;3111632518;maryi.garcia.perez@icesi.edu.co
+%Angela Garcia participa activamente en los eventos.
+139;Angela;Garcia Perez;1197445879;3137573475;angela.garcia.perez@hotmail.com
+
+
+%Liliana Garcia tiene reconocimiento en el medio politico.
+140;Liliana;Garcia Perez;1166940995;3129381561;liliana.garcia.perez@gmail.com
+%Lorena Garcia tiene un gran compromiso con la institucion.
+141;Lorena;Garcia Perez;1192880765;317776977;lorena.garcia.perez@gmail.com
+
+
+%Idalia Garcia participa activamente en los eventos.
+142;Idalia;Garcia Perez;1194570219;3188186454;idalia.garcia.perez@icesi.edu.co
+%Viviana Garcia debe actualizar la información de contacto.
+143;Viviana;Garcia Perez;1116665947;3142062252;viviana.garcia.perez@correo.icesi.edu.co
+
+%Santiago Hurtado participa activamente en los eventos.
+144;Santiago;Hurtado Perez;1147215432;3139902380;santiago.hurtado.perez@correo.icesi.edu.co
+
+
+%Natalia Hurtado tuvo uno de los mejores promedios de su promocion.
+145;Natalia;Hurtado Perez;1160320279;3188749712;natalia.hurtado.perez@icesi.edu.co
+
+%Juan Hurtado tuvo uno de los mejores promedios de su promocion.
+146;Juan;Hurtado Perez;1120599581;3189007087;juan.hurtado.perez@gmail.com
+%Manuel Hurtado colabora con la universidad constantemente.
+147;Manuel;Hurtado Perez;1147166341;3165378709;manuel.hurtado.perez@gmail.com
+
+
+%David Hurtado colabora con la universidad constantemente.
+148;David;Hurtado Perez;1152684491;319498492;david.hurtado.perez@hotmail.com
+
+%Maryi Hurtado participa activamente en los eventos.
+149;Maryi;Hurtado Perez;1174516423;3115634142;maryi.hurtado.perez@correo.icesi.edu.co
+
+%Angela Hurtado participa activamente en los eventos.
+150;Angela;Hurtado Perez;1187207946;312500202;angela.hurtado.perez@correo.icesi.edu.co
+
+%Liliana Hurtado tuvo uno de los mejores promedios de su promocion.
+151;Liliana;Hurtado Perez;111733791;3123849564;liliana.hurtado.perez@correo.icesi.edu.co
+
+%Lorena Hurtado tiene reconocimiento en el medio politico.
+152;Lorena;Hurtado Perez;111124312;3156754443;lorena.hurtado.perez@gmail.com
+
+
+%Idalia Hurtado tuvo uno de los mejores promedios de su promocion.
+153;Idalia;Hurtado Perez;1154332169;3171385443;idalia.hurtado.perez@hotmail.com
+
+%Viviana Hurtado colabora con la universidad constantemente.
+154;Viviana;Hurtado Perez;1171433909;3180139044;viviana.hurtado.perez@icesi.edu.co
+%Santiago Bustamante tiene reconocimiento en el medio politico.
+155;Santiago;Bustamante Perez;1180389694;3111075846;santiago.bustamante.perez@gmail.com
+
+
+%Natalia Bustamante colabora con la universidad constantemente.
+156;Natalia;Bustamante Perez;1196437135;3173177076;natalia.bustamante.perez@gmail.com
+
+
+%Juan Bustamante debe actualizar la información de contacto.
+157;Juan;Bustamante Perez;1133541883;3174706274;juan.bustamante.perez@correo.icesi.edu.co
+
+
+%Manuel Bustamante debe actualizar la información de contacto.
+158;Manuel;Bustamante Perez;1147875155;3115214823;manuel.bustamante.perez@hotmail.com
+%David Bustamante tiene reconocimiento en el medio politico.
+159;David;Bustamante Perez;1166681379;3114130013;david.bustamante.perez@hotmail.com
+%Maryi Bustamante debe actualizar la información de contacto.
+160;Maryi;Bustamante Perez;1113719713;3130525756;maryi.bustamante.perez@gmail.com
+
+%Angela Bustamante tuvo uno de los mejores promedios de su promocion.
+161;Angela;Bustamante Perez;112230623;319149758;angela.bustamante.perez@gmail.com
+
+%Liliana Bustamante debe actualizar la información de contacto.
+162;Liliana;Bustamante Perez;1196550431;3195055254;liliana.bustamante.perez@correo.icesi.edu.co
+
+%Lorena Bustamante tiene un gran compromiso con la institucion.
+163;Lorena;Bustamante Perez;1198466763;3154685927;lorena.bustamante.perez@hotmail.com
+
+%Idalia Bustamante participa activamente en los eventos.
+164;Idalia;Bustamante Perez;1159508724;3134852807;idalia.bustamante.perez@hotmail.com
+%Viviana Bustamante participa activamente en los eventos.
+165;Viviana;Bustamante Perez;1156866507;3166022530;viviana.bustamante.perez@hotmail.com
+
+
+%Santiago Arciniegas tiene un gran compromiso con la institucion.
+166;Santiago;Arciniegas Perez;1160743250;3154445483;santiago.arciniegas.perez@gmail.com
+
+
+%Natalia Arciniegas debe actualizar la información de contacto.
+167;Natalia;Arciniegas Perez;1112801802;3114066044;natalia.arciniegas.perez@hotmail.com
+%Juan Arciniegas debe actualizar la información de contacto.
+168;Juan;Arciniegas Perez;1188062586;3117488514;juan.arciniegas.perez@icesi.edu.co
+
+
+%Manuel Arciniegas colabora con la universidad constantemente.
+169;Manuel;Arciniegas Perez;1121155586;3122572203;manuel.arciniegas.perez@icesi.edu.co
+
+%David Arciniegas participa activamente en los eventos.
+170;David;Arciniegas Perez;1198186632;3182985774;david.arciniegas.perez@hotmail.com
+%Maryi Arciniegas tuvo uno de los mejores promedios de su promocion.
+171;Maryi;Arciniegas Perez;1189540098;3126190251;maryi.arciniegas.perez@correo.icesi.edu.co
+
+
+%Angela Arciniegas tuvo uno de los mejores promedios de su promocion.
+172;Angela;Arciniegas Perez;1179538979;3178205107;angela.arciniegas.perez@correo.icesi.edu.co
+
+
+%Liliana Arciniegas tuvo uno de los mejores promedios de su promocion.
+173;Liliana;Arciniegas Perez;1124788526;311943627;liliana.arciniegas.perez@correo.icesi.edu.co
+
+
+%Lorena Arciniegas participa activamente en los eventos.
+174;Lorena;Arciniegas Perez;1193948291;3164120348;lorena.arciniegas.perez@icesi.edu.co
+
+%Idalia Arciniegas tiene reconocimiento en el medio politico.
+175;Idalia;Arciniegas Perez;1143254035;3147410660;idalia.arciniegas.perez@icesi.edu.co
+%Viviana Arciniegas tiene reconocimiento en el medio politico.
+176;Viviana;Arciniegas Perez;1110927537;3120794037;viviana.arciniegas.perez@hotmail.com
+%Santiago Lopez tuvo uno de los mejores promedios de su promocion.
+177;Santiago;Lopez Perez;1152188542;3186388336;santiago.lopez.perez@gmail.com
+
+%Natalia Lopez tuvo uno de los mejores promedios de su promocion.
+178;Natalia;Lopez Perez;1128375649;3148571735;natalia.lopez.perez@gmail.com
+
+
+%Juan Lopez tiene reconocimiento en el medio politico.
+179;Juan;Lopez Perez;1138086829;3137216773;juan.lopez.perez@icesi.edu.co
+
+
+%Manuel Lopez participa activamente en los eventos.
+180;Manuel;Lopez Perez;1175597024;3146290998;manuel.lopez.perez@gmail.com
+
+
+%David Lopez tiene un gran compromiso con la institucion.
+181;David;Lopez Perez;1198369912;3180211526;david.lopez.perez@hotmail.com
+
+
+%Maryi Lopez tuvo uno de los mejores promedios de su promocion.
+182;Maryi;Lopez Perez;1118460016;3189915019;maryi.lopez.perez@gmail.com
+
+%Angela Lopez debe actualizar la información de contacto.
+183;Angela;Lopez Perez;1125144853;318795397;angela.lopez.perez@icesi.edu.co
+
+
+%Liliana Lopez tuvo uno de los mejores promedios de su promocion.
+184;Liliana;Lopez Perez;1132316376;3194082998;liliana.lopez.perez@correo.icesi.edu.co
+
+%Lorena Lopez participa activamente en los eventos.
+185;Lorena;Lopez Perez;1194016460;3143940976;lorena.lopez.perez@correo.icesi.edu.co
+
+%Idalia Lopez participa activamente en los eventos.
+186;Idalia;Lopez Perez;1175979357;3195026353;idalia.lopez.perez@correo.icesi.edu.co
+
+
+%Viviana Lopez tuvo uno de los mejores promedios de su promocion.
+187;Viviana;Lopez Perez;1127039633;3133429637;viviana.lopez.perez@hotmail.com
+
+%Santiago Villota tuvo uno de los mejores promedios de su promocion.
+188;Santiago;Villota Perez;1189609013;3146131898;santiago.villota.perez@gmail.com
+%Natalia Villota tiene un gran compromiso con la institucion.
+189;Natalia;Villota Perez;1186889390;3146202245;natalia.villota.perez@gmail.com
+
+%Juan Villota participa activamente en los eventos.
+190;Juan;Villota Perez;1150778981;3167140114;juan.villota.perez@gmail.com
+%Manuel Villota colabora con la universidad constantemente.
+191;Manuel;Villota Perez;1119188861;317721411;manuel.villota.perez@hotmail.com
+
+
+%David Villota tuvo uno de los mejores promedios de su promocion.
+192;David;Villota Perez;1156299779;3134548779;david.villota.perez@correo.icesi.edu.co
+
+
+%Maryi Villota debe actualizar la información de contacto.
+193;Maryi;Villota Perez;1191673848;314784570;maryi.villota.perez@correo.icesi.edu.co
+%Angela Villota tiene un gran compromiso con la institucion.
+194;Angela;Villota Perez;1152549561;3144249075;angela.villota.perez@correo.icesi.edu.co
+
+%Liliana Villota tiene reconocimiento en el medio politico.
+195;Liliana;Villota Perez;1182485834;3117621810;liliana.villota.perez@hotmail.com
+
+
+%Lorena Villota tiene un gran compromiso con la institucion.
+196;Lorena;Villota Perez;1114113859;3117753523;lorena.villota.perez@hotmail.com
+%Idalia Villota tiene un gran compromiso con la institucion.
+197;Idalia;Villota Perez;1145373561;3113381787;idalia.villota.perez@hotmail.com
+
+%Viviana Villota participa activamente en los eventos.
+198;Viviana;Villota Perez;1169461828;3160581967;viviana.villota.perez@correo.icesi.edu.co
+%Santiago Piedrahita participa activamente en los eventos.
+199;Santiago;Piedrahita Perez;1126946655;3158253689;santiago.piedrahita.perez@hotmail.com
+
+%Natalia Piedrahita tiene reconocimiento en el medio politico.
+200;Natalia;Piedrahita Perez;1193187106;3115453952;natalia.piedrahita.perez@gmail.com
+%Juan Piedrahita tuvo uno de los mejores promedios de su promocion.
+201;Juan;Piedrahita Perez;1130362960;3175492691;juan.piedrahita.perez@hotmail.com
+
+%Manuel Piedrahita tiene un gran compromiso con la institucion.
+202;Manuel;Piedrahita Perez;1127017340;3183892824;manuel.piedrahita.perez@correo.icesi.edu.co
+
+%David Piedrahita tuvo uno de los mejores promedios de su promocion.
+203;David;Piedrahita Perez;1110944619;3193510880;david.piedrahita.perez@correo.icesi.edu.co
+
+%Maryi Piedrahita tuvo uno de los mejores promedios de su promocion.
+204;Maryi;Piedrahita Perez;1156347092;3117678948;maryi.piedrahita.perez@gmail.com
+%Angela Piedrahita tiene reconocimiento en el medio politico.
+205;Angela;Piedrahita Perez;1152206152;3191965193;angela.piedrahita.perez@hotmail.com
+
+%Liliana Piedrahita tuvo uno de los mejores promedios de su promocion.
+206;Liliana;Piedrahita Perez;1155474686;316296444;liliana.piedrahita.perez@icesi.edu.co
+
+%Lorena Piedrahita participa activamente en los eventos.
+207;Lorena;Piedrahita Perez;115641106;3164418387;lorena.piedrahita.perez@hotmail.com
+%Idalia Piedrahita tiene reconocimiento en el medio politico.
+208;Idalia;Piedrahita Perez;1123024311;318099880;idalia.piedrahita.perez@correo.icesi.edu.co
+%Viviana Piedrahita tiene reconocimiento en el medio politico.
+209;Viviana;Piedrahita Perez;1184352098;3173668650;viviana.piedrahita.perez@gmail.com
+
+%Santiago Gomez participa activamente en los eventos.
+210;Santiago;Gomez Perez;1159210500;3191384396;santiago.gomez.perez@icesi.edu.co
+
+
+%Natalia Gomez tuvo uno de los mejores promedios de su promocion.
+211;Natalia;Gomez Perez;1179222395;3180237943;natalia.gomez.perez@gmail.com
+
+%Juan Gomez participa activamente en los eventos.
+212;Juan;Gomez Perez;1188652855;3166874760;juan.gomez.perez@hotmail.com
+%Manuel Gomez debe actualizar la información de contacto.
+213;Manuel;Gomez Perez;1116815400;3175778738;manuel.gomez.perez@icesi.edu.co
+%David Gomez debe actualizar la información de contacto.
+214;David;Gomez Perez;116374682;315355896;david.gomez.perez@hotmail.com
+
+
+%Maryi Gomez tuvo uno de los mejores promedios de su promocion.
+215;Maryi;Gomez Perez;11551765;3151303300;maryi.gomez.perez@hotmail.com
+
+%Angela Gomez tiene reconocimiento en el medio politico.
+216;Angela;Gomez Perez;1120419999;3143249450;angela.gomez.perez@correo.icesi.edu.co
+
+
+%Liliana Gomez tiene un gran compromiso con la institucion.
+217;Liliana;Gomez Perez;1170952055;3175159255;liliana.gomez.perez@correo.icesi.edu.co
+
+
+%Lorena Gomez tiene un gran compromiso con la institucion.
+218;Lorena;Gomez Perez;1182199152;3184897967;lorena.gomez.perez@icesi.edu.co
+
+
+%Idalia Gomez participa activamente en los eventos.
+219;Idalia;Gomez Perez;1186846245;3147569638;idalia.gomez.perez@correo.icesi.edu.co
+
+%Viviana Gomez colabora con la universidad constantemente.
+220;Viviana;Gomez Perez;1135224012;3113150354;viviana.gomez.perez@icesi.edu.co
+
+
+%Santiago Arana tuvo uno de los mejores promedios de su promocion.
+221;Santiago;Arana Perez;1167439549;3137325225;santiago.arana.perez@correo.icesi.edu.co
+
+%Natalia Arana tuvo uno de los mejores promedios de su promocion.
+222;Natalia;Arana Perez;1174319586;3119549232;natalia.arana.perez@hotmail.com
+%Juan Arana tiene reconocimiento en el medio politico.
+223;Juan;Arana Perez;1144987403;3191861446;juan.arana.perez@gmail.com
+
+
+%Manuel Arana tuvo uno de los mejores promedios de su promocion.
+224;Manuel;Arana Perez;1190699602;3162002920;manuel.arana.perez@hotmail.com
+
+%David Arana tuvo uno de los mejores promedios de su promocion.
+225;David;Arana Perez;1159570683;3144471669;david.arana.perez@icesi.edu.co
+%Maryi Arana tiene reconocimiento en el medio politico.
+226;Maryi;Arana Perez;1183469419;3151281730;maryi.arana.perez@gmail.com
+
+
+%Angela Arana tuvo uno de los mejores promedios de su promocion.
+227;Angela;Arana Perez;1181075540;3121803285;angela.arana.perez@gmail.com
+
+
+%Liliana Arana tuvo uno de los mejores promedios de su promocion.
+228;Liliana;Arana Perez;1145170384;3158010353;liliana.arana.perez@correo.icesi.edu.co
+
+%Lorena Arana tiene un gran compromiso con la institucion.
+229;Lorena;Arana Perez;1168970484;3181052427;lorena.arana.perez@gmail.com
+
+
+%Idalia Arana tiene reconocimiento en el medio politico.
+230;Idalia;Arana Perez;1177905583;3119035116;idalia.arana.perez@correo.icesi.edu.co
+%Viviana Arana tiene un gran compromiso con la institucion.
+231;Viviana;Arana Perez;1177836670;3179417774;viviana.arana.perez@correo.icesi.edu.co
+
+
+%Santiago Buitrago participa activamente en los eventos.
+232;Santiago;Buitrago Perez;1167387676;316126911;santiago.buitrago.perez@icesi.edu.co
+
+
+%Natalia Buitrago participa activamente en los eventos.
+233;Natalia;Buitrago Perez;1185845588;3198393409;natalia.buitrago.perez@correo.icesi.edu.co
+%Juan Buitrago tuvo uno de los mejores promedios de su promocion.
+234;Juan;Buitrago Perez;1134925271;31937649;juan.buitrago.perez@hotmail.com
+%Manuel Buitrago tuvo uno de los mejores promedios de su promocion.
+235;Manuel;Buitrago Perez;1164491654;3112375184;manuel.buitrago.perez@hotmail.com
+%David Buitrago colabora con la universidad constantemente.
+236;David;Buitrago Perez;111915114;3197960147;david.buitrago.perez@hotmail.com
+%Maryi Buitrago colabora con la universidad constantemente.
+237;Maryi;Buitrago Perez;1120875479;314824638;maryi.buitrago.perez@correo.icesi.edu.co
+
+%Angela Buitrago participa activamente en los eventos.
+238;Angela;Buitrago Perez;1137833165;3131948294;angela.buitrago.perez@correo.icesi.edu.co
+
+
+%Liliana Buitrago tuvo uno de los mejores promedios de su promocion.
+239;Liliana;Buitrago Perez;1128696874;3195879021;liliana.buitrago.perez@correo.icesi.edu.co
+%Lorena Buitrago tiene reconocimiento en el medio politico.
+240;Lorena;Buitrago Perez;1121018325;3197836499;lorena.buitrago.perez@hotmail.com
+%Idalia Buitrago tiene un gran compromiso con la institucion.
+241;Idalia;Buitrago Perez;1120854934;3152815470;idalia.buitrago.perez@gmail.com
+
+%Viviana Buitrago tiene reconocimiento en el medio politico.
+242;Viviana;Buitrago Perez;1121718471;3199654360;viviana.buitrago.perez@icesi.edu.co
+%Santiago Reyes tiene un gran compromiso con la institucion.
+243;Santiago;Reyes Sanchez;1145165808;319171990;santiago.reyes.sanchez@hotmail.com
+
+%Natalia Reyes debe actualizar la información de contacto.
+244;Natalia;Reyes Sanchez;1118919155;3130264560;natalia.reyes.sanchez@hotmail.com
+%Juan Reyes tuvo uno de los mejores promedios de su promocion.
+245;Juan;Reyes Sanchez;1185197077;3119597362;juan.reyes.sanchez@icesi.edu.co
+
+
+%Manuel Reyes debe actualizar la información de contacto.
+246;Manuel;Reyes Sanchez;1186401144;3145959036;manuel.reyes.sanchez@correo.icesi.edu.co
+%David Reyes tuvo uno de los mejores promedios de su promocion.
+247;David;Reyes Sanchez;1120580894;3125646658;david.reyes.sanchez@icesi.edu.co
+
+
+%Maryi Reyes tuvo uno de los mejores promedios de su promocion.
+248;Maryi;Reyes Sanchez;1129273749;3159030455;maryi.reyes.sanchez@gmail.com
+
+%Angela Reyes tiene reconocimiento en el medio politico.
+249;Angela;Reyes Sanchez;1145406390;312758564;angela.reyes.sanchez@hotmail.com
+
+%Liliana Reyes colabora con la universidad constantemente.
+250;Liliana;Reyes Sanchez;1119906672;3127393165;liliana.reyes.sanchez@icesi.edu.co
+%Lorena Reyes tuvo uno de los mejores promedios de su promocion.
+251;Lorena;Reyes Sanchez;1179405047;31545260;lorena.reyes.sanchez@icesi.edu.co
+
+%Idalia Reyes tuvo uno de los mejores promedios de su promocion.
+252;Idalia;Reyes Sanchez;1171733880;3173159647;idalia.reyes.sanchez@hotmail.com
+
+%Viviana Reyes tiene un gran compromiso con la institucion.
+253;Viviana;Reyes Sanchez;1194631091;3177295113;viviana.reyes.sanchez@correo.icesi.edu.co
+
+
+%Santiago Garcia tuvo uno de los mejores promedios de su promocion.
+254;Santiago;Garcia Sanchez;11828806;3111785710;santiago.garcia.sanchez@icesi.edu.co
+
+%Natalia Garcia tuvo uno de los mejores promedios de su promocion.
+255;Natalia;Garcia Sanchez;1140202215;3165232983;natalia.garcia.sanchez@icesi.edu.co
+
+
+%Juan Garcia participa activamente en los eventos.
+256;Juan;Garcia Sanchez;1158450926;3119979593;juan.garcia.sanchez@icesi.edu.co
+%Manuel Garcia debe actualizar la información de contacto.
+257;Manuel;Garcia Sanchez;1179404200;3185602494;manuel.garcia.sanchez@hotmail.com
+
+%David Garcia colabora con la universidad constantemente.
+258;David;Garcia Sanchez;1172939606;3114027179;david.garcia.sanchez@correo.icesi.edu.co
+%Maryi Garcia tuvo uno de los mejores promedios de su promocion.
+259;Maryi;Garcia Sanchez;1157076335;3162029096;maryi.garcia.sanchez@icesi.edu.co
+
+
+%Angela Garcia tuvo uno de los mejores promedios de su promocion.
+260;Angela;Garcia Sanchez;1116381820;3150517598;angela.garcia.sanchez@icesi.edu.co
+%Liliana Garcia tiene reconocimiento en el medio politico.
+261;Liliana;Garcia Sanchez;1190682737;3156892356;liliana.garcia.sanchez@correo.icesi.edu.co
+
+%Lorena Garcia tiene reconocimiento en el medio politico.
+262;Lorena;Garcia Sanchez;1110406169;3198660491;lorena.garcia.sanchez@icesi.edu.co
+
+
+%Idalia Garcia participa activamente en los eventos.
+263;Idalia;Garcia Sanchez;1125838082;3178580342;idalia.garcia.sanchez@icesi.edu.co
+%Viviana Garcia tiene un gran compromiso con la institucion.
+264;Viviana;Garcia Sanchez;116256406;3167468247;viviana.garcia.sanchez@correo.icesi.edu.co
+
+%Santiago Hurtado colabora con la universidad constantemente.
+265;Santiago;Hurtado Sanchez;1116294364;3177518645;santiago.hurtado.sanchez@gmail.com
+
+%Natalia Hurtado tiene reconocimiento en el medio politico.
+266;Natalia;Hurtado Sanchez;1116973429;312033582;natalia.hurtado.sanchez@icesi.edu.co
+%Juan Hurtado tiene reconocimiento en el medio politico.
+267;Juan;Hurtado Sanchez;1179508772;3165760920;juan.hurtado.sanchez@hotmail.com
+%Manuel Hurtado debe actualizar la información de contacto.
+268;Manuel;Hurtado Sanchez;1144065525;3190964797;manuel.hurtado.sanchez@hotmail.com
+%David Hurtado colabora con la universidad constantemente.
+269;David;Hurtado Sanchez;1141900885;3158697554;david.hurtado.sanchez@gmail.com
+
+
+%Maryi Hurtado participa activamente en los eventos.
+270;Maryi;Hurtado Sanchez;1127472388;3151748167;maryi.hurtado.sanchez@correo.icesi.edu.co
+
+%Angela Hurtado tiene reconocimiento en el medio politico.
+271;Angela;Hurtado Sanchez;1122770793;3148083464;angela.hurtado.sanchez@correo.icesi.edu.co
+
+%Liliana Hurtado debe actualizar la información de contacto.
+272;Liliana;Hurtado Sanchez;1155929237;3182388886;liliana.hurtado.sanchez@hotmail.com
+
+%Lorena Hurtado tiene un gran compromiso con la institucion.
+273;Lorena;Hurtado Sanchez;1112587960;3173105614;lorena.hurtado.sanchez@icesi.edu.co
+
+
+%Idalia Hurtado debe actualizar la información de contacto.
+274;Idalia;Hurtado Sanchez;115013168;3186139013;idalia.hurtado.sanchez@icesi.edu.co
+
+%Viviana Hurtado participa activamente en los eventos.
+275;Viviana;Hurtado Sanchez;1179973951;3160605377;viviana.hurtado.sanchez@icesi.edu.co
+%Santiago Bustamante tiene reconocimiento en el medio politico.
+276;Santiago;Bustamante Sanchez;1122204552;3191452972;santiago.bustamante.sanchez@hotmail.com
+%Natalia Bustamante tiene reconocimiento en el medio politico.
+277;Natalia;Bustamante Sanchez;1192190427;3156840366;natalia.bustamante.sanchez@gmail.com
+%Juan Bustamante debe actualizar la información de contacto.
+278;Juan;Bustamante Sanchez;1152222257;311518104;juan.bustamante.sanchez@correo.icesi.edu.co
+%Manuel Bustamante tiene un gran compromiso con la institucion.
+279;Manuel;Bustamante Sanchez;1156307099;3171314916;manuel.bustamante.sanchez@correo.icesi.edu.co
+
+
+%David Bustamante tuvo uno de los mejores promedios de su promocion.
+280;David;Bustamante Sanchez;1191692019;3116789832;david.bustamante.sanchez@hotmail.com
+%Maryi Bustamante participa activamente en los eventos.
+281;Maryi;Bustamante Sanchez;1182462580;3198227940;maryi.bustamante.sanchez@correo.icesi.edu.co
+%Angela Bustamante tiene reconocimiento en el medio politico.
+282;Angela;Bustamante Sanchez;1179883305;3179918077;angela.bustamante.sanchez@hotmail.com
+
+%Liliana Bustamante tiene un gran compromiso con la institucion.
+283;Liliana;Bustamante Sanchez;1136744417;3172981364;liliana.bustamante.sanchez@correo.icesi.edu.co
+
+
+%Lorena Bustamante participa activamente en los eventos.
+284;Lorena;Bustamante Sanchez;1171800583;3195283508;lorena.bustamante.sanchez@hotmail.com
+%Idalia Bustamante tiene reconocimiento en el medio politico.
+285;Idalia;Bustamante Sanchez;1189202798;3159961938;idalia.bustamante.sanchez@gmail.com
+
+
+%Viviana Bustamante participa activamente en los eventos.
+286;Viviana;Bustamante Sanchez;111340871;3175069306;viviana.bustamante.sanchez@icesi.edu.co
+%Santiago Arciniegas tiene un gran compromiso con la institucion.
+287;Santiago;Arciniegas Sanchez;1172375742;3153453709;santiago.arciniegas.sanchez@icesi.edu.co
+
+%Natalia Arciniegas tiene reconocimiento en el medio politico.
+288;Natalia;Arciniegas Sanchez;1125530069;3160376121;natalia.arciniegas.sanchez@gmail.com
+
+%Juan Arciniegas tiene un gran compromiso con la institucion.
+289;Juan;Arciniegas Sanchez;1147441898;316057988;juan.arciniegas.sanchez@hotmail.com
+
+%Manuel Arciniegas tuvo uno de los mejores promedios de su promocion.
+290;Manuel;Arciniegas Sanchez;1146026483;3159344982;manuel.arciniegas.sanchez@correo.icesi.edu.co
+
+
+%David Arciniegas tuvo uno de los mejores promedios de su promocion.
+291;David;Arciniegas Sanchez;1128730277;3178392177;david.arciniegas.sanchez@icesi.edu.co
+%Maryi Arciniegas tiene reconocimiento en el medio politico.
+292;Maryi;Arciniegas Sanchez;1131130652;3134584843;maryi.arciniegas.sanchez@gmail.com
+
+%Angela Arciniegas debe actualizar la información de contacto.
+293;Angela;Arciniegas Sanchez;1142804585;3130108348;angela.arciniegas.sanchez@hotmail.com
+
+
+%Liliana Arciniegas tiene un gran compromiso con la institucion.
+294;Liliana;Arciniegas Sanchez;1110466384;3159408618;liliana.arciniegas.sanchez@hotmail.com
+
+%Lorena Arciniegas tuvo uno de los mejores promedios de su promocion.
+295;Lorena;Arciniegas Sanchez;1195703116;3145416997;lorena.arciniegas.sanchez@gmail.com
+%Idalia Arciniegas colabora con la universidad constantemente.
+296;Idalia;Arciniegas Sanchez;1185298727;3146463484;idalia.arciniegas.sanchez@correo.icesi.edu.co
+
+%Viviana Arciniegas tiene reconocimiento en el medio politico.
+297;Viviana;Arciniegas Sanchez;1191153364;316320936;viviana.arciniegas.sanchez@icesi.edu.co
+%Santiago Lopez tiene un gran compromiso con la institucion.
+298;Santiago;Lopez Sanchez;1190130341;3133298295;santiago.lopez.sanchez@correo.icesi.edu.co
+
+
+%Natalia Lopez tuvo uno de los mejores promedios de su promocion.
+299;Natalia;Lopez Sanchez;1183693906;3193658790;natalia.lopez.sanchez@gmail.com
+
+
+%Juan Lopez tiene reconocimiento en el medio politico.
+300;Juan;Lopez Sanchez;1155768514;3187243018;juan.lopez.sanchez@hotmail.com
+
+%Manuel Lopez tiene reconocimiento en el medio politico.
+301;Manuel;Lopez Sanchez;1163624300;319827156;manuel.lopez.sanchez@correo.icesi.edu.co
+
+
+%David Lopez participa activamente en los eventos.
+302;David;Lopez Sanchez;1160480903;3166682058;david.lopez.sanchez@correo.icesi.edu.co
+
+
+%Maryi Lopez participa activamente en los eventos.
+303;Maryi;Lopez Sanchez;1155567050;3177694927;maryi.lopez.sanchez@icesi.edu.co
+
+%Angela Lopez debe actualizar la información de contacto.
+304;Angela;Lopez Sanchez;1114158789;3147385442;angela.lopez.sanchez@icesi.edu.co
+
+%Liliana Lopez debe actualizar la información de contacto.
+305;Liliana;Lopez Sanchez;1169164012;3177742898;liliana.lopez.sanchez@correo.icesi.edu.co
+
+%Lorena Lopez tiene un gran compromiso con la institucion.
+306;Lorena;Lopez Sanchez;11582462;3191018833;lorena.lopez.sanchez@correo.icesi.edu.co
+%Idalia Lopez tiene un gran compromiso con la institucion.
+307;Idalia;Lopez Sanchez;1169042814;3139856258;idalia.lopez.sanchez@icesi.edu.co
+%Viviana Lopez participa activamente en los eventos.
+308;Viviana;Lopez Sanchez;114934130;3198285345;viviana.lopez.sanchez@gmail.com
+
+%Santiago Villota participa activamente en los eventos.
+309;Santiago;Villota Sanchez;1131677239;317467091;santiago.villota.sanchez@correo.icesi.edu.co
+
+
+%Natalia Villota debe actualizar la información de contacto.
+310;Natalia;Villota Sanchez;1177629510;3151359245;natalia.villota.sanchez@icesi.edu.co
+
+%Juan Villota tuvo uno de los mejores promedios de su promocion.
+311;Juan;Villota Sanchez;1129128717;3139888588;juan.villota.sanchez@hotmail.com
+
+
+%Manuel Villota participa activamente en los eventos.
+312;Manuel;Villota Sanchez;1131340037;319353550;manuel.villota.sanchez@gmail.com
+
+%David Villota participa activamente en los eventos.
+313;David;Villota Sanchez;1123894404;3113702171;david.villota.sanchez@hotmail.com
+%Maryi Villota tiene un gran compromiso con la institucion.
+314;Maryi;Villota Sanchez;1135753459;3176520676;maryi.villota.sanchez@icesi.edu.co
+
+
+%Angela Villota participa activamente en los eventos.
+315;Angela;Villota Sanchez;1175200593;3125953239;angela.villota.sanchez@icesi.edu.co
+
+%Liliana Villota participa activamente en los eventos.
+316;Liliana;Villota Sanchez;1164171285;3115717207;liliana.villota.sanchez@hotmail.com
+%Lorena Villota tiene un gran compromiso con la institucion.
+317;Lorena;Villota Sanchez;1145068496;3190680856;lorena.villota.sanchez@hotmail.com
+
+
+%Idalia Villota debe actualizar la información de contacto.
+318;Idalia;Villota Sanchez;1157467402;3129370995;idalia.villota.sanchez@correo.icesi.edu.co
+
+%Viviana Villota tuvo uno de los mejores promedios de su promocion.
+319;Viviana;Villota Sanchez;1152342665;3155951120;viviana.villota.sanchez@hotmail.com
+
+
+%Santiago Piedrahita tiene un gran compromiso con la institucion.
+320;Santiago;Piedrahita Sanchez;114232933;3176770736;santiago.piedrahita.sanchez@correo.icesi.edu.co
+
+
+%Natalia Piedrahita tiene un gran compromiso con la institucion.
+321;Natalia;Piedrahita Sanchez;1154610697;3151083596;natalia.piedrahita.sanchez@icesi.edu.co
+
+%Juan Piedrahita participa activamente en los eventos.
+322;Juan;Piedrahita Sanchez;1191108182;3139955291;juan.piedrahita.sanchez@correo.icesi.edu.co
+%Manuel Piedrahita debe actualizar la información de contacto.
+323;Manuel;Piedrahita Sanchez;1141556038;313154648;manuel.piedrahita.sanchez@hotmail.com
+%David Piedrahita participa activamente en los eventos.
+324;David;Piedrahita Sanchez;1154353313;3190811956;david.piedrahita.sanchez@correo.icesi.edu.co
+
+
+%Maryi Piedrahita tuvo uno de los mejores promedios de su promocion.
+325;Maryi;Piedrahita Sanchez;1198774086;3138131063;maryi.piedrahita.sanchez@icesi.edu.co
+%Angela Piedrahita participa activamente en los eventos.
+326;Angela;Piedrahita Sanchez;1162635163;3149200003;angela.piedrahita.sanchez@icesi.edu.co
+
+
+%Liliana Piedrahita colabora con la universidad constantemente.
+327;Liliana;Piedrahita Sanchez;1148444981;315131909;liliana.piedrahita.sanchez@hotmail.com
+
+%Lorena Piedrahita colabora con la universidad constantemente.
+328;Lorena;Piedrahita Sanchez;1181808408;3155997796;lorena.piedrahita.sanchez@hotmail.com
+
+
+%Idalia Piedrahita tiene un gran compromiso con la institucion.
+329;Idalia;Piedrahita Sanchez;1192494831;3132336070;idalia.piedrahita.sanchez@correo.icesi.edu.co
+
+
+%Viviana Piedrahita tuvo uno de los mejores promedios de su promocion.
+330;Viviana;Piedrahita Sanchez;1115145049;3115928809;viviana.piedrahita.sanchez@hotmail.com
+
+%Santiago Gomez tuvo uno de los mejores promedios de su promocion.
+331;Santiago;Gomez Sanchez;1174990353;3139947433;santiago.gomez.sanchez@correo.icesi.edu.co
+%Natalia Gomez colabora con la universidad constantemente.
+332;Natalia;Gomez Sanchez;1177016972;3192853969;natalia.gomez.sanchez@icesi.edu.co
+
+
+%Juan Gomez debe actualizar la información de contacto.
+333;Juan;Gomez Sanchez;1143500204;3199399289;juan.gomez.sanchez@gmail.com
+
+%Manuel Gomez tiene un gran compromiso con la institucion.
+334;Manuel;Gomez Sanchez;1144462155;3164924674;manuel.gomez.sanchez@gmail.com
+
+
+%David Gomez participa activamente en los eventos.
+335;David;Gomez Sanchez;1124019574;3138623941;david.gomez.sanchez@hotmail.com
+
+%Maryi Gomez participa activamente en los eventos.
+336;Maryi;Gomez Sanchez;1139365791;3168572980;maryi.gomez.sanchez@hotmail.com
+%Angela Gomez participa activamente en los eventos.
+337;Angela;Gomez Sanchez;1130792845;3150733146;angela.gomez.sanchez@gmail.com
+
+
+%Liliana Gomez participa activamente en los eventos.
+338;Liliana;Gomez Sanchez;1124163494;3178772397;liliana.gomez.sanchez@icesi.edu.co
+%Lorena Gomez participa activamente en los eventos.
+339;Lorena;Gomez Sanchez;1110982498;3167849475;lorena.gomez.sanchez@hotmail.com
+
+%Idalia Gomez colabora con la universidad constantemente.
+340;Idalia;Gomez Sanchez;1146024426;3188334815;idalia.gomez.sanchez@icesi.edu.co
+%Viviana Gomez participa activamente en los eventos.
+341;Viviana;Gomez Sanchez;1174620598;3113098257;viviana.gomez.sanchez@icesi.edu.co
+
+%Santiago Arana tiene reconocimiento en el medio politico.
+342;Santiago;Arana Sanchez;1138398039;3161216068;santiago.arana.sanchez@correo.icesi.edu.co
+
+
+%Natalia Arana debe actualizar la información de contacto.
+343;Natalia;Arana Sanchez;1182642582;3141914251;natalia.arana.sanchez@gmail.com
+
+%Juan Arana tiene reconocimiento en el medio politico.
+344;Juan;Arana Sanchez;1184608856;3143884743;juan.arana.sanchez@gmail.com
+
+%Manuel Arana debe actualizar la información de contacto.
+345;Manuel;Arana Sanchez;1160041321;3128836794;manuel.arana.sanchez@gmail.com
+
+%David Arana participa activamente en los eventos.
+346;David;Arana Sanchez;1165859561;3124765777;david.arana.sanchez@gmail.com
+
+
+%Maryi Arana tiene reconocimiento en el medio politico.
+347;Maryi;Arana Sanchez;1167292676;3147861621;maryi.arana.sanchez@icesi.edu.co
+
+
+%Angela Arana tuvo uno de los mejores promedios de su promocion.
+348;Angela;Arana Sanchez;1155553355;3134602542;angela.arana.sanchez@gmail.com
+
+
+%Liliana Arana tiene un gran compromiso con la institucion.
+349;Liliana;Arana Sanchez;111192067;3133187150;liliana.arana.sanchez@correo.icesi.edu.co
+%Lorena Arana colabora con la universidad constantemente.
+350;Lorena;Arana Sanchez;1183272412;3180287976;lorena.arana.sanchez@correo.icesi.edu.co
+%Idalia Arana participa activamente en los eventos.
+351;Idalia;Arana Sanchez;116104905;3192837528;idalia.arana.sanchez@icesi.edu.co
+%Viviana Arana tiene un gran compromiso con la institucion.
+352;Viviana;Arana Sanchez;1175050002;311297578;viviana.arana.sanchez@gmail.com
+
+
+%Santiago Buitrago tiene un gran compromiso con la institucion.
+353;Santiago;Buitrago Sanchez;1158371940;3180164266;santiago.buitrago.sanchez@icesi.edu.co
+
+%Natalia Buitrago colabora con la universidad constantemente.
+354;Natalia;Buitrago Sanchez;1181749604;3131313858;natalia.buitrago.sanchez@gmail.com
+
+%Juan Buitrago tiene un gran compromiso con la institucion.
+355;Juan;Buitrago Sanchez;1140223906;317622823;juan.buitrago.sanchez@correo.icesi.edu.co
+%Manuel Buitrago tiene un gran compromiso con la institucion.
+356;Manuel;Buitrago Sanchez;1134415195;3137964088;manuel.buitrago.sanchez@icesi.edu.co
+%David Buitrago tiene un gran compromiso con la institucion.
+357;David;Buitrago Sanchez;1145048100;3113490034;david.buitrago.sanchez@icesi.edu.co
+
+%Maryi Buitrago tuvo uno de los mejores promedios de su promocion.
+358;Maryi;Buitrago Sanchez;1114382587;31800117;maryi.buitrago.sanchez@correo.icesi.edu.co
+
+
+%Angela Buitrago colabora con la universidad constantemente.
+359;Angela;Buitrago Sanchez;1153212875;3165332814;angela.buitrago.sanchez@gmail.com
+
+
+%Liliana Buitrago tiene un gran compromiso con la institucion.
+360;Liliana;Buitrago Sanchez;1196742543;3171731018;liliana.buitrago.sanchez@icesi.edu.co
+%Lorena Buitrago debe actualizar la información de contacto.
+361;Lorena;Buitrago Sanchez;1186894187;314058088;lorena.buitrago.sanchez@icesi.edu.co
+
+
+%Idalia Buitrago tiene un gran compromiso con la institucion.
+362;Idalia;Buitrago Sanchez;1118422111;3143076493;idalia.buitrago.sanchez@icesi.edu.co
+%Viviana Buitrago tuvo uno de los mejores promedios de su promocion.
+363;Viviana;Buitrago Sanchez;1193461764;3199268425;viviana.buitrago.sanchez@hotmail.com
+
+%Santiago Reyes participa activamente en los eventos.
+364;Santiago;Reyes Ruiz;1136701501;3126240844;santiago.reyes.ruiz@icesi.edu.co
+
+
+%Natalia Reyes participa activamente en los eventos.
+365;Natalia;Reyes Ruiz;1119970626;31417422;natalia.reyes.ruiz@gmail.com
+
+
+%Juan Reyes tuvo uno de los mejores promedios de su promocion.
+366;Juan;Reyes Ruiz;1180409479;3118714454;juan.reyes.ruiz@correo.icesi.edu.co
+%Manuel Reyes tiene un gran compromiso con la institucion.
+367;Manuel;Reyes Ruiz;1126167021;3128903350;manuel.reyes.ruiz@correo.icesi.edu.co
+%David Reyes debe actualizar la información de contacto.
+368;David;Reyes Ruiz;1154341144;318691716;david.reyes.ruiz@hotmail.com
+
+%Maryi Reyes colabora con la universidad constantemente.
+369;Maryi;Reyes Ruiz;1140156145;3163759179;maryi.reyes.ruiz@hotmail.com
+
+%Angela Reyes tuvo uno de los mejores promedios de su promocion.
+370;Angela;Reyes Ruiz;1137617672;3135051379;angela.reyes.ruiz@correo.icesi.edu.co
+
+
+%Liliana Reyes tiene un gran compromiso con la institucion.
+371;Liliana;Reyes Ruiz;1189492223;3127991562;liliana.reyes.ruiz@gmail.com
+
+%Lorena Reyes tuvo uno de los mejores promedios de su promocion.
+372;Lorena;Reyes Ruiz;1118758432;3185777299;lorena.reyes.ruiz@icesi.edu.co
+
+
+%Idalia Reyes colabora con la universidad constantemente.
+373;Idalia;Reyes Ruiz;1140939882;3183890961;idalia.reyes.ruiz@hotmail.com
+%Viviana Reyes tiene reconocimiento en el medio politico.
+374;Viviana;Reyes Ruiz;1134161619;3180104660;viviana.reyes.ruiz@gmail.com
+%Santiago Garcia colabora con la universidad constantemente.
+375;Santiago;Garcia Ruiz;1154519001;3193779548;santiago.garcia.ruiz@correo.icesi.edu.co
+%Natalia Garcia colabora con la universidad constantemente.
+376;Natalia;Garcia Ruiz;1122490365;3138758697;natalia.garcia.ruiz@hotmail.com
+
+%Juan Garcia tiene reconocimiento en el medio politico.
+377;Juan;Garcia Ruiz;111683466;3197683105;juan.garcia.ruiz@hotmail.com
+%Manuel Garcia participa activamente en los eventos.
+378;Manuel;Garcia Ruiz;1175137055;312610050;manuel.garcia.ruiz@icesi.edu.co
+
+%David Garcia colabora con la universidad constantemente.
+379;David;Garcia Ruiz;1113597624;311307682;david.garcia.ruiz@icesi.edu.co
+%Maryi Garcia tiene reconocimiento en el medio politico.
+380;Maryi;Garcia Ruiz;1152489370;3112902842;maryi.garcia.ruiz@hotmail.com
+%Angela Garcia participa activamente en los eventos.
+381;Angela;Garcia Ruiz;1113462434;3156471228;angela.garcia.ruiz@gmail.com
+%Liliana Garcia tuvo uno de los mejores promedios de su promocion.
+382;Liliana;Garcia Ruiz;1147147308;3115918671;liliana.garcia.ruiz@icesi.edu.co
+
+
+%Lorena Garcia tiene un gran compromiso con la institucion.
+383;Lorena;Garcia Ruiz;1146706615;3151785058;lorena.garcia.ruiz@hotmail.com
+
+
+%Idalia Garcia colabora con la universidad constantemente.
+384;Idalia;Garcia Ruiz;118541334;311521694;idalia.garcia.ruiz@gmail.com
+
+%Viviana Garcia debe actualizar la información de contacto.
+385;Viviana;Garcia Ruiz;1154596400;3113899446;viviana.garcia.ruiz@hotmail.com
+%Santiago Hurtado tiene reconocimiento en el medio politico.
+386;Santiago;Hurtado Ruiz;1198577410;3128487024;santiago.hurtado.ruiz@icesi.edu.co
+
+%Natalia Hurtado participa activamente en los eventos.
+387;Natalia;Hurtado Ruiz;1140430770;3149022203;natalia.hurtado.ruiz@hotmail.com
+
+%Juan Hurtado tiene reconocimiento en el medio politico.
+388;Juan;Hurtado Ruiz;1124985640;3129846676;juan.hurtado.ruiz@gmail.com
+
+%Manuel Hurtado debe actualizar la información de contacto.
+389;Manuel;Hurtado Ruiz;1152977284;3130688668;manuel.hurtado.ruiz@hotmail.com
+
+%David Hurtado tiene un gran compromiso con la institucion.
+390;David;Hurtado Ruiz;1197974883;3128694399;david.hurtado.ruiz@correo.icesi.edu.co
+
+
+%Maryi Hurtado colabora con la universidad constantemente.
+391;Maryi;Hurtado Ruiz;1159166975;3162906006;maryi.hurtado.ruiz@gmail.com
+
+
+%Angela Hurtado tuvo uno de los mejores promedios de su promocion.
+392;Angela;Hurtado Ruiz;1176596555;3128972646;angela.hurtado.ruiz@hotmail.com
+
+
+%Liliana Hurtado colabora con la universidad constantemente.
+393;Liliana;Hurtado Ruiz;1197305022;3117814280;liliana.hurtado.ruiz@icesi.edu.co
+
+
+%Lorena Hurtado colabora con la universidad constantemente.
+394;Lorena;Hurtado Ruiz;1113896604;3176722059;lorena.hurtado.ruiz@icesi.edu.co
+%Idalia Hurtado participa activamente en los eventos.
+395;Idalia;Hurtado Ruiz;1193167158;3163901285;idalia.hurtado.ruiz@correo.icesi.edu.co
+
+
+%Viviana Hurtado colabora con la universidad constantemente.
+396;Viviana;Hurtado Ruiz;1174485400;3115105866;viviana.hurtado.ruiz@icesi.edu.co
+
+%Santiago Bustamante tiene un gran compromiso con la institucion.
+397;Santiago;Bustamante Ruiz;1184340139;3164577655;santiago.bustamante.ruiz@gmail.com
+
+
+%Natalia Bustamante debe actualizar la información de contacto.
+398;Natalia;Bustamante Ruiz;1184581102;3181228550;natalia.bustamante.ruiz@correo.icesi.edu.co
+%Juan Bustamante tiene un gran compromiso con la institucion.
+399;Juan;Bustamante Ruiz;1133027793;3137563316;juan.bustamante.ruiz@correo.icesi.edu.co
+
+%Manuel Bustamante participa activamente en los eventos.
+400;Manuel;Bustamante Ruiz;1182882821;3114350281;manuel.bustamante.ruiz@correo.icesi.edu.co
+
+%David Bustamante tiene reconocimiento en el medio politico.
+401;David;Bustamante Ruiz;1114282517;3123055820;david.bustamante.ruiz@icesi.edu.co
+
+
+%Maryi Bustamante tiene reconocimiento en el medio politico.
+402;Maryi;Bustamante Ruiz;1170805670;3163555544;maryi.bustamante.ruiz@gmail.com
+%Angela Bustamante participa activamente en los eventos.
+403;Angela;Bustamante Ruiz;1145235310;3113045737;angela.bustamante.ruiz@gmail.com
+%Liliana Bustamante debe actualizar la información de contacto.
+404;Liliana;Bustamante Ruiz;1112660598;3198266497;liliana.bustamante.ruiz@gmail.com
+
+
+%Lorena Bustamante debe actualizar la información de contacto.
+405;Lorena;Bustamante Ruiz;1171385781;3145413676;lorena.bustamante.ruiz@hotmail.com
+
+%Idalia Bustamante tiene un gran compromiso con la institucion.
+406;Idalia;Bustamante Ruiz;1110287673;3137198568;idalia.bustamante.ruiz@icesi.edu.co
+%Viviana Bustamante colabora con la universidad constantemente.
+407;Viviana;Bustamante Ruiz;1148376780;3164588180;viviana.bustamante.ruiz@hotmail.com
+
+%Santiago Arciniegas tiene reconocimiento en el medio politico.
+408;Santiago;Arciniegas Ruiz;1172452276;3120437862;santiago.arciniegas.ruiz@gmail.com
+
+%Natalia Arciniegas tuvo uno de los mejores promedios de su promocion.
+409;Natalia;Arciniegas Ruiz;1151916639;3195563147;natalia.arciniegas.ruiz@hotmail.com
+
+
+%Juan Arciniegas tiene un gran compromiso con la institucion.
+410;Juan;Arciniegas Ruiz;1116989401;3155277000;juan.arciniegas.ruiz@gmail.com
+
+
+%Manuel Arciniegas debe actualizar la información de contacto.
+411;Manuel;Arciniegas Ruiz;1114625260;3169968032;manuel.arciniegas.ruiz@gmail.com
+
+
+%David Arciniegas tiene reconocimiento en el medio politico.
+412;David;Arciniegas Ruiz;1183232106;3169277975;david.arciniegas.ruiz@gmail.com
+
+
+%Maryi Arciniegas tuvo uno de los mejores promedios de su promocion.
+413;Maryi;Arciniegas Ruiz;1126568575;3181653624;maryi.arciniegas.ruiz@icesi.edu.co
+
+
+%Angela Arciniegas colabora con la universidad constantemente.
+414;Angela;Arciniegas Ruiz;1193685891;313737715;angela.arciniegas.ruiz@correo.icesi.edu.co
+
+%Liliana Arciniegas tuvo uno de los mejores promedios de su promocion.
+415;Liliana;Arciniegas Ruiz;1146109185;3134900652;liliana.arciniegas.ruiz@icesi.edu.co
+%Lorena Arciniegas tuvo uno de los mejores promedios de su promocion.
+416;Lorena;Arciniegas Ruiz;1187211577;3177314042;lorena.arciniegas.ruiz@correo.icesi.edu.co
+%Idalia Arciniegas tiene un gran compromiso con la institucion.
+417;Idalia;Arciniegas Ruiz;1149439270;3180878085;idalia.arciniegas.ruiz@gmail.com
+%Viviana Arciniegas tiene un gran compromiso con la institucion.
+418;Viviana;Arciniegas Ruiz;1151155040;3143026731;viviana.arciniegas.ruiz@gmail.com
+
+%Santiago Lopez tiene reconocimiento en el medio politico.
+419;Santiago;Lopez Ruiz;11775143;3117372477;santiago.lopez.ruiz@hotmail.com
+
+
+%Natalia Lopez participa activamente en los eventos.
+420;Natalia;Lopez Ruiz;116912952;3152180435;natalia.lopez.ruiz@correo.icesi.edu.co
+%Juan Lopez participa activamente en los eventos.
+421;Juan;Lopez Ruiz;1150681095;3153079254;juan.lopez.ruiz@hotmail.com
+%Manuel Lopez tiene un gran compromiso con la institucion.
+422;Manuel;Lopez Ruiz;1152349413;3125963268;manuel.lopez.ruiz@correo.icesi.edu.co
+
+%David Lopez tuvo uno de los mejores promedios de su promocion.
+423;David;Lopez Ruiz;1167353456;3110891352;david.lopez.ruiz@correo.icesi.edu.co
+
+
+%Maryi Lopez debe actualizar la información de contacto.
+424;Maryi;Lopez Ruiz;1135279204;3119556830;maryi.lopez.ruiz@correo.icesi.edu.co
+
+
+%Angela Lopez participa activamente en los eventos.
+425;Angela;Lopez Ruiz;1174934107;3164640196;angela.lopez.ruiz@gmail.com
+%Liliana Lopez participa activamente en los eventos.
+426;Liliana;Lopez Ruiz;1124909125;3144550563;liliana.lopez.ruiz@hotmail.com
+%Lorena Lopez colabora con la universidad constantemente.
+427;Lorena;Lopez Ruiz;1114035913;3170638469;lorena.lopez.ruiz@icesi.edu.co
+
+
+%Idalia Lopez debe actualizar la información de contacto.
+428;Idalia;Lopez Ruiz;1162679676;3193285292;idalia.lopez.ruiz@icesi.edu.co
+
+%Viviana Lopez tiene un gran compromiso con la institucion.
+429;Viviana;Lopez Ruiz;1152650869;3169143714;viviana.lopez.ruiz@hotmail.com
+%Santiago Villota colabora con la universidad constantemente.
+430;Santiago;Villota Ruiz;1110375144;3183457837;santiago.villota.ruiz@gmail.com
+
+%Natalia Villota tiene un gran compromiso con la institucion.
+431;Natalia;Villota Ruiz;1160475024;3191506307;natalia.villota.ruiz@icesi.edu.co
+
+
+%Juan Villota tiene un gran compromiso con la institucion.
+432;Juan;Villota Ruiz;1171670884;3112900705;juan.villota.ruiz@gmail.com
+
+%Manuel Villota tuvo uno de los mejores promedios de su promocion.
+433;Manuel;Villota Ruiz;1116422489;3116284897;manuel.villota.ruiz@gmail.com
+
+
+%David Villota debe actualizar la información de contacto.
+434;David;Villota Ruiz;1143462435;3182907754;david.villota.ruiz@hotmail.com
+
+
+%Maryi Villota tiene un gran compromiso con la institucion.
+435;Maryi;Villota Ruiz;1147714199;3172006910;maryi.villota.ruiz@correo.icesi.edu.co
+
+%Angela Villota tuvo uno de los mejores promedios de su promocion.
+436;Angela;Villota Ruiz;1155371823;3113808896;angela.villota.ruiz@gmail.com
+
+
+%Liliana Villota colabora con la universidad constantemente.
+437;Liliana;Villota Ruiz;1199415271;3185521251;liliana.villota.ruiz@gmail.com
+
+%Lorena Villota debe actualizar la información de contacto.
+438;Lorena;Villota Ruiz;1179752261;3138703818;lorena.villota.ruiz@correo.icesi.edu.co
+%Idalia Villota tuvo uno de los mejores promedios de su promocion.
+439;Idalia;Villota Ruiz;115658204;3123034923;idalia.villota.ruiz@correo.icesi.edu.co
+
+
+%Viviana Villota colabora con la universidad constantemente.
+440;Viviana;Villota Ruiz;1140313137;3120346846;viviana.villota.ruiz@gmail.com
+%Santiago Piedrahita tiene reconocimiento en el medio politico.
+441;Santiago;Piedrahita Ruiz;1178027325;3165944715;santiago.piedrahita.ruiz@icesi.edu.co
+
+%Natalia Piedrahita tiene reconocimiento en el medio politico.
+442;Natalia;Piedrahita Ruiz;1115163078;3192131989;natalia.piedrahita.ruiz@gmail.com
+%Juan Piedrahita debe actualizar la información de contacto.
+443;Juan;Piedrahita Ruiz;1142693271;315469727;juan.piedrahita.ruiz@gmail.com
+
+%Manuel Piedrahita tiene reconocimiento en el medio politico.
+444;Manuel;Piedrahita Ruiz;1119619555;3176959341;manuel.piedrahita.ruiz@gmail.com
+
+%David Piedrahita debe actualizar la información de contacto.
+445;David;Piedrahita Ruiz;1145874517;3128860007;david.piedrahita.ruiz@correo.icesi.edu.co
+%Maryi Piedrahita participa activamente en los eventos.
+446;Maryi;Piedrahita Ruiz;1165559351;3187470970;maryi.piedrahita.ruiz@icesi.edu.co
+
+%Angela Piedrahita debe actualizar la información de contacto.
+447;Angela;Piedrahita Ruiz;117066245;315601066;angela.piedrahita.ruiz@correo.icesi.edu.co
+%Liliana Piedrahita colabora con la universidad constantemente.
+448;Liliana;Piedrahita Ruiz;1127384948;3157726484;liliana.piedrahita.ruiz@gmail.com
+%Lorena Piedrahita tiene reconocimiento en el medio politico.
+449;Lorena;Piedrahita Ruiz;1131215163;3164553638;lorena.piedrahita.ruiz@gmail.com
+
+
+%Idalia Piedrahita tuvo uno de los mejores promedios de su promocion.
+450;Idalia;Piedrahita Ruiz;1199857692;3199845514;idalia.piedrahita.ruiz@icesi.edu.co
+%Viviana Piedrahita tuvo uno de los mejores promedios de su promocion.
+451;Viviana;Piedrahita Ruiz;1194632137;3182362531;viviana.piedrahita.ruiz@hotmail.com
+
+
+%Santiago Gomez debe actualizar la información de contacto.
+452;Santiago;Gomez Ruiz;1110099384;3119476368;santiago.gomez.ruiz@icesi.edu.co
+%Natalia Gomez tiene un gran compromiso con la institucion.
+453;Natalia;Gomez Ruiz;1194922788;3179737954;natalia.gomez.ruiz@gmail.com
+%Juan Gomez participa activamente en los eventos.
+454;Juan;Gomez Ruiz;1144989688;3161157104;juan.gomez.ruiz@correo.icesi.edu.co
+%Manuel Gomez participa activamente en los eventos.
+455;Manuel;Gomez Ruiz;112579472;3145357277;manuel.gomez.ruiz@icesi.edu.co
+
+
+%David Gomez debe actualizar la información de contacto.
+456;David;Gomez Ruiz;1175987575;3188717378;david.gomez.ruiz@icesi.edu.co
+
+
+%Maryi Gomez tiene un gran compromiso con la institucion.
+457;Maryi;Gomez Ruiz;1171116384;3177154631;maryi.gomez.ruiz@icesi.edu.co
+
+%Angela Gomez participa activamente en los eventos.
+458;Angela;Gomez Ruiz;116080784;3136826413;angela.gomez.ruiz@gmail.com
+
+
+%Liliana Gomez tiene reconocimiento en el medio politico.
+459;Liliana;Gomez Ruiz;1153742767;3147660375;liliana.gomez.ruiz@hotmail.com
+
+
+%Lorena Gomez tiene un gran compromiso con la institucion.
+460;Lorena;Gomez Ruiz;1128118045;3197624411;lorena.gomez.ruiz@icesi.edu.co
+%Idalia Gomez colabora con la universidad constantemente.
+461;Idalia;Gomez Ruiz;1137557492;3163821948;idalia.gomez.ruiz@icesi.edu.co
+
+
+%Viviana Gomez tiene reconocimiento en el medio politico.
+462;Viviana;Gomez Ruiz;1170204619;3131081910;viviana.gomez.ruiz@icesi.edu.co
+
+%Santiago Arana tiene reconocimiento en el medio politico.
+463;Santiago;Arana Ruiz;1141111581;312382114;santiago.arana.ruiz@correo.icesi.edu.co
+
+%Natalia Arana debe actualizar la información de contacto.
+464;Natalia;Arana Ruiz;1112142467;319313433;natalia.arana.ruiz@hotmail.com
+%Juan Arana colabora con la universidad constantemente.
+465;Juan;Arana Ruiz;1127923517;3159410241;juan.arana.ruiz@hotmail.com
+
+%Manuel Arana tiene un gran compromiso con la institucion.
+466;Manuel;Arana Ruiz;1187072172;3123528972;manuel.arana.ruiz@correo.icesi.edu.co
+
+%David Arana tiene un gran compromiso con la institucion.
+467;David;Arana Ruiz;1167145436;3156976685;david.arana.ruiz@gmail.com
+
+
+%Maryi Arana colabora con la universidad constantemente.
+468;Maryi;Arana Ruiz;1134524468;3197638762;maryi.arana.ruiz@correo.icesi.edu.co
+
+%Angela Arana tiene reconocimiento en el medio politico.
+469;Angela;Arana Ruiz;1123066636;311229915;angela.arana.ruiz@correo.icesi.edu.co
+
+%Liliana Arana colabora con la universidad constantemente.
+470;Liliana;Arana Ruiz;1145015088;3164733906;liliana.arana.ruiz@gmail.com
+
+%Lorena Arana tiene reconocimiento en el medio politico.
+471;Lorena;Arana Ruiz;1177504048;3184280609;lorena.arana.ruiz@correo.icesi.edu.co
+%Idalia Arana tiene un gran compromiso con la institucion.
+472;Idalia;Arana Ruiz;1132117323;3171747409;idalia.arana.ruiz@gmail.com
+%Viviana Arana tuvo uno de los mejores promedios de su promocion.
+473;Viviana;Arana Ruiz;1183367672;3167316357;viviana.arana.ruiz@gmail.com
+
+%Santiago Buitrago tuvo uno de los mejores promedios de su promocion.
+474;Santiago;Buitrago Ruiz;1185622581;3183557212;santiago.buitrago.ruiz@icesi.edu.co
+
+%Natalia Buitrago tiene un gran compromiso con la institucion.
+475;Natalia;Buitrago Ruiz;1113802199;3174265256;natalia.buitrago.ruiz@hotmail.com
+%Juan Buitrago tiene reconocimiento en el medio politico.
+476;Juan;Buitrago Ruiz;1198949903;3160624874;juan.buitrago.ruiz@icesi.edu.co
+
+
+%Manuel Buitrago debe actualizar la información de contacto.
+477;Manuel;Buitrago Ruiz;119294329;3164096165;manuel.buitrago.ruiz@icesi.edu.co
+%David Buitrago tuvo uno de los mejores promedios de su promocion.
+478;David;Buitrago Ruiz;1125391273;3183970517;david.buitrago.ruiz@correo.icesi.edu.co
+
+%Maryi Buitrago participa activamente en los eventos.
+479;Maryi;Buitrago Ruiz;1134998655;3135487867;maryi.buitrago.ruiz@icesi.edu.co
+
+
+%Angela Buitrago tiene reconocimiento en el medio politico.
+480;Angela;Buitrago Ruiz;111080250;3197866791;angela.buitrago.ruiz@correo.icesi.edu.co
+
+%Liliana Buitrago tiene un gran compromiso con la institucion.
+481;Liliana;Buitrago Ruiz;1142273121;3150119058;liliana.buitrago.ruiz@icesi.edu.co
+
+
+%Lorena Buitrago tiene un gran compromiso con la institucion.
+482;Lorena;Buitrago Ruiz;1177747338;3134091508;lorena.buitrago.ruiz@hotmail.com
+
+
+%Idalia Buitrago participa activamente en los eventos.
+483;Idalia;Buitrago Ruiz;1182028485;3140225427;idalia.buitrago.ruiz@icesi.edu.co
+%Viviana Buitrago debe actualizar la información de contacto.
+484;Viviana;Buitrago Ruiz;1135376150;3171910759;viviana.buitrago.ruiz@icesi.edu.co
+
+%Santiago Reyes tuvo uno de los mejores promedios de su promocion.
+485;Santiago;Reyes Quintero;1142984419;3192339811;santiago.reyes.quintero@icesi.edu.co
+%Natalia Reyes tiene un gran compromiso con la institucion.
+486;Natalia;Reyes Quintero;1193800357;3175171262;natalia.reyes.quintero@icesi.edu.co
+%Juan Reyes tuvo uno de los mejores promedios de su promocion.
+487;Juan;Reyes Quintero;1185288161;3172275777;juan.reyes.quintero@gmail.com
+%Manuel Reyes colabora con la universidad constantemente.
+488;Manuel;Reyes Quintero;1113082081;3131962764;manuel.reyes.quintero@gmail.com
+
+%David Reyes tuvo uno de los mejores promedios de su promocion.
+489;David;Reyes Quintero;119189966;3176434633;david.reyes.quintero@icesi.edu.co
+
+%Maryi Reyes tiene un gran compromiso con la institucion.
+490;Maryi;Reyes Quintero;1165188211;313268353;maryi.reyes.quintero@hotmail.com
+
+
+%Angela Reyes debe actualizar la información de contacto.
+491;Angela;Reyes Quintero;1139582823;3161410339;angela.reyes.quintero@icesi.edu.co
+
+
+%Liliana Reyes tiene un gran compromiso con la institucion.
+492;Liliana;Reyes Quintero;1174031925;3164852547;liliana.reyes.quintero@hotmail.com
+%Lorena Reyes tuvo uno de los mejores promedios de su promocion.
+493;Lorena;Reyes Quintero;1120202229;3117636336;lorena.reyes.quintero@hotmail.com
+
+%Idalia Reyes colabora con la universidad constantemente.
+494;Idalia;Reyes Quintero;1157372433;311344084;idalia.reyes.quintero@correo.icesi.edu.co
+
+
+%Viviana Reyes tiene un gran compromiso con la institucion.
+495;Viviana;Reyes Quintero;1196145074;3113462836;viviana.reyes.quintero@icesi.edu.co
+%Santiago Garcia tiene un gran compromiso con la institucion.
+496;Santiago;Garcia Quintero;1162366790;3183052318;santiago.garcia.quintero@hotmail.com
+
+%Natalia Garcia tiene reconocimiento en el medio politico.
+497;Natalia;Garcia Quintero;1120104976;3143572681;natalia.garcia.quintero@gmail.com
+
+%Juan Garcia tiene un gran compromiso con la institucion.
+498;Juan;Garcia Quintero;1166743362;3124513251;juan.garcia.quintero@icesi.edu.co
+%Manuel Garcia colabora con la universidad constantemente.
+499;Manuel;Garcia Quintero;1146334683;3170038349;manuel.garcia.quintero@hotmail.com
+%David Garcia colabora con la universidad constantemente.
+500;David;Garcia Quintero;1119617347;3189093148;david.garcia.quintero@gmail.com
+
+%Maryi Garcia tiene un gran compromiso con la institucion.
+501;Maryi;Garcia Quintero;1176834450;3145592272;maryi.garcia.quintero@icesi.edu.co
+
+
+%Angela Garcia tiene reconocimiento en el medio politico.
+502;Angela;Garcia Quintero;1119894502;3166184795;angela.garcia.quintero@hotmail.com
+
+%Liliana Garcia participa activamente en los eventos.
+503;Liliana;Garcia Quintero;1196628569;3156827137;liliana.garcia.quintero@correo.icesi.edu.co
+
+%Lorena Garcia colabora con la universidad constantemente.
+504;Lorena;Garcia Quintero;1176010042;316613474;lorena.garcia.quintero@hotmail.com
+
+
+%Idalia Garcia tuvo uno de los mejores promedios de su promocion.
+505;Idalia;Garcia Quintero;1179230514;3120062371;idalia.garcia.quintero@hotmail.com
+%Viviana Garcia tiene un gran compromiso con la institucion.
+506;Viviana;Garcia Quintero;1158425423;3157826722;viviana.garcia.quintero@correo.icesi.edu.co
+
+
+%Santiago Hurtado tiene un gran compromiso con la institucion.
+507;Santiago;Hurtado Quintero;1159510451;314507553;santiago.hurtado.quintero@hotmail.com
+
+%Natalia Hurtado tiene reconocimiento en el medio politico.
+508;Natalia;Hurtado Quintero;1145856547;3193274034;natalia.hurtado.quintero@correo.icesi.edu.co
+
+%Juan Hurtado tiene un gran compromiso con la institucion.
+509;Juan;Hurtado Quintero;1159167138;3146123013;juan.hurtado.quintero@icesi.edu.co
+
+
+%Manuel Hurtado participa activamente en los eventos.
+510;Manuel;Hurtado Quintero;1177632631;3180089657;manuel.hurtado.quintero@icesi.edu.co
+%David Hurtado debe actualizar la información de contacto.
+511;David;Hurtado Quintero;119869519;3151222444;david.hurtado.quintero@gmail.com
+
+%Maryi Hurtado tuvo uno de los mejores promedios de su promocion.
+512;Maryi;Hurtado Quintero;1157885867;3175773645;maryi.hurtado.quintero@gmail.com
+
+
+%Angela Hurtado tuvo uno de los mejores promedios de su promocion.
+513;Angela;Hurtado Quintero;1150871610;3171381802;angela.hurtado.quintero@hotmail.com
+
+%Liliana Hurtado tuvo uno de los mejores promedios de su promocion.
+514;Liliana;Hurtado Quintero;1112447714;3188023437;liliana.hurtado.quintero@hotmail.com
+
+%Lorena Hurtado participa activamente en los eventos.
+515;Lorena;Hurtado Quintero;1181517527;3160613431;lorena.hurtado.quintero@hotmail.com
+
+%Idalia Hurtado colabora con la universidad constantemente.
+516;Idalia;Hurtado Quintero;1176378413;3172200175;idalia.hurtado.quintero@gmail.com
+%Viviana Hurtado colabora con la universidad constantemente.
+517;Viviana;Hurtado Quintero;1124541841;312033740;viviana.hurtado.quintero@hotmail.com
+
+
+%Santiago Bustamante tuvo uno de los mejores promedios de su promocion.
+518;Santiago;Bustamante Quintero;1188982217;3178121070;santiago.bustamante.quintero@gmail.com
+
+
+%Natalia Bustamante debe actualizar la información de contacto.
+519;Natalia;Bustamante Quintero;113433654;3114397402;natalia.bustamante.quintero@icesi.edu.co
+%Juan Bustamante tiene reconocimiento en el medio politico.
+520;Juan;Bustamante Quintero;1193961472;3191951110;juan.bustamante.quintero@gmail.com
+%Manuel Bustamante tiene reconocimiento en el medio politico.
+521;Manuel;Bustamante Quintero;1156371142;3118890502;manuel.bustamante.quintero@correo.icesi.edu.co
+%David Bustamante tiene reconocimiento en el medio politico.
+522;David;Bustamante Quintero;1185038556;3149924482;david.bustamante.quintero@icesi.edu.co
+%Maryi Bustamante debe actualizar la información de contacto.
+523;Maryi;Bustamante Quintero;11346542;3163469635;maryi.bustamante.quintero@icesi.edu.co
+
+
+%Angela Bustamante tuvo uno de los mejores promedios de su promocion.
+524;Angela;Bustamante Quintero;111925439;3128458062;angela.bustamante.quintero@gmail.com
+
+%Liliana Bustamante tuvo uno de los mejores promedios de su promocion.
+525;Liliana;Bustamante Quintero;1122089853;3165803484;liliana.bustamante.quintero@hotmail.com
+%Lorena Bustamante tuvo uno de los mejores promedios de su promocion.
+526;Lorena;Bustamante Quintero;1167946382;3139926398;lorena.bustamante.quintero@gmail.com
+%Idalia Bustamante participa activamente en los eventos.
+527;Idalia;Bustamante Quintero;117262846;3146517891;idalia.bustamante.quintero@correo.icesi.edu.co
+
+%Viviana Bustamante tiene reconocimiento en el medio politico.
+528;Viviana;Bustamante Quintero;1168920145;3184949617;viviana.bustamante.quintero@hotmail.com
+
+%Santiago Arciniegas tiene reconocimiento en el medio politico.
+529;Santiago;Arciniegas Quintero;1126133168;3181965048;santiago.arciniegas.quintero@icesi.edu.co
+%Natalia Arciniegas tuvo uno de los mejores promedios de su promocion.
+530;Natalia;Arciniegas Quintero;113083751;3130502740;natalia.arciniegas.quintero@icesi.edu.co
+
+%Juan Arciniegas participa activamente en los eventos.
+531;Juan;Arciniegas Quintero;1172551709;3110131883;juan.arciniegas.quintero@icesi.edu.co
+
+%Manuel Arciniegas debe actualizar la información de contacto.
+532;Manuel;Arciniegas Quintero;1183890727;3198486885;manuel.arciniegas.quintero@hotmail.com
+%David Arciniegas tiene un gran compromiso con la institucion.
+533;David;Arciniegas Quintero;113544593;3174572303;david.arciniegas.quintero@hotmail.com
+
+
+%Maryi Arciniegas tuvo uno de los mejores promedios de su promocion.
+534;Maryi;Arciniegas Quintero;1151442492;3161609922;maryi.arciniegas.quintero@hotmail.com
+
+
+%Angela Arciniegas participa activamente en los eventos.
+535;Angela;Arciniegas Quintero;1149194515;3189392471;angela.arciniegas.quintero@correo.icesi.edu.co
+%Liliana Arciniegas tuvo uno de los mejores promedios de su promocion.
+536;Liliana;Arciniegas Quintero;1144112327;3152506123;liliana.arciniegas.quintero@correo.icesi.edu.co
+
+
+%Lorena Arciniegas tiene un gran compromiso con la institucion.
+537;Lorena;Arciniegas Quintero;1156724345;3153337811;lorena.arciniegas.quintero@gmail.com
+
+
+%Idalia Arciniegas debe actualizar la información de contacto.
+538;Idalia;Arciniegas Quintero;1199597140;3197981408;idalia.arciniegas.quintero@icesi.edu.co
+
+%Viviana Arciniegas debe actualizar la información de contacto.
+539;Viviana;Arciniegas Quintero;1198809295;3132924981;viviana.arciniegas.quintero@gmail.com
+
+
+%Santiago Lopez tiene un gran compromiso con la institucion.
+540;Santiago;Lopez Quintero;1194183089;3193102827;santiago.lopez.quintero@icesi.edu.co
+%Natalia Lopez debe actualizar la información de contacto.
+541;Natalia;Lopez Quintero;1114132111;3173331597;natalia.lopez.quintero@hotmail.com
+
+%Juan Lopez participa activamente en los eventos.
+542;Juan;Lopez Quintero;1190436797;3129557913;juan.lopez.quintero@icesi.edu.co
+
+
+%Manuel Lopez tiene reconocimiento en el medio politico.
+543;Manuel;Lopez Quintero;1158059172;3181400990;manuel.lopez.quintero@gmail.com
+
+%David Lopez tuvo uno de los mejores promedios de su promocion.
+544;David;Lopez Quintero;1146834761;3189291635;david.lopez.quintero@gmail.com
+%Maryi Lopez colabora con la universidad constantemente.
+545;Maryi;Lopez Quintero;1123053516;3157638829;maryi.lopez.quintero@hotmail.com
+
+
+%Angela Lopez debe actualizar la información de contacto.
+546;Angela;Lopez Quintero;1148019321;317885626;angela.lopez.quintero@hotmail.com
+%Liliana Lopez tiene reconocimiento en el medio politico.
+547;Liliana;Lopez Quintero;1142054213;3133472988;liliana.lopez.quintero@icesi.edu.co
+%Lorena Lopez tiene un gran compromiso con la institucion.
+548;Lorena;Lopez Quintero;1141420293;312476467;lorena.lopez.quintero@correo.icesi.edu.co
+
+%Idalia Lopez debe actualizar la información de contacto.
+549;Idalia;Lopez Quintero;1113539703;3196317539;idalia.lopez.quintero@icesi.edu.co
+
+%Viviana Lopez colabora con la universidad constantemente.
+550;Viviana;Lopez Quintero;1114907200;3146216821;viviana.lopez.quintero@hotmail.com
+
+
+%Santiago Villota debe actualizar la información de contacto.
+551;Santiago;Villota Quintero;1184356064;3158126281;santiago.villota.quintero@icesi.edu.co
+
+%Natalia Villota tiene un gran compromiso con la institucion.
+552;Natalia;Villota Quintero;1120937821;3155365200;natalia.villota.quintero@gmail.com
+
+%Juan Villota colabora con la universidad constantemente.
+553;Juan;Villota Quintero;1195629378;3143140792;juan.villota.quintero@icesi.edu.co
+%Manuel Villota participa activamente en los eventos.
+554;Manuel;Villota Quintero;1145344485;3136047240;manuel.villota.quintero@correo.icesi.edu.co
+
+%David Villota tuvo uno de los mejores promedios de su promocion.
+555;David;Villota Quintero;1138194746;3137432479;david.villota.quintero@gmail.com
+
+
+%Maryi Villota tiene un gran compromiso con la institucion.
+556;Maryi;Villota Quintero;1133450413;3115563341;maryi.villota.quintero@gmail.com
+
+
+%Angela Villota participa activamente en los eventos.
+557;Angela;Villota Quintero;1176962682;3156607626;angela.villota.quintero@hotmail.com
+
+
+%Liliana Villota debe actualizar la información de contacto.
+558;Liliana;Villota Quintero;1122634159;3157824609;liliana.villota.quintero@gmail.com
+
+
+%Lorena Villota debe actualizar la información de contacto.
+559;Lorena;Villota Quintero;1188506973;3148689010;lorena.villota.quintero@gmail.com
+
+
+%Idalia Villota tiene un gran compromiso con la institucion.
+560;Idalia;Villota Quintero;1188760916;3134081002;idalia.villota.quintero@correo.icesi.edu.co
+
+%Viviana Villota tuvo uno de los mejores promedios de su promocion.
+561;Viviana;Villota Quintero;1112896319;3156707177;viviana.villota.quintero@gmail.com
+%Santiago Piedrahita colabora con la universidad constantemente.
+562;Santiago;Piedrahita Quintero;1194075351;3188562687;santiago.piedrahita.quintero@gmail.com
+
+%Natalia Piedrahita tuvo uno de los mejores promedios de su promocion.
+563;Natalia;Piedrahita Quintero;1149405397;3119928953;natalia.piedrahita.quintero@hotmail.com
+
+
+%Juan Piedrahita tuvo uno de los mejores promedios de su promocion.
+564;Juan;Piedrahita Quintero;1126201330;313987593;juan.piedrahita.quintero@hotmail.com
+%Manuel Piedrahita colabora con la universidad constantemente.
+565;Manuel;Piedrahita Quintero;1126229244;3193920365;manuel.piedrahita.quintero@gmail.com
+
+%David Piedrahita tiene un gran compromiso con la institucion.
+566;David;Piedrahita Quintero;1141819693;3134095193;david.piedrahita.quintero@gmail.com
+
+
+%Maryi Piedrahita debe actualizar la información de contacto.
+567;Maryi;Piedrahita Quintero;1146688117;3117785640;maryi.piedrahita.quintero@hotmail.com
+%Angela Piedrahita tiene reconocimiento en el medio politico.
+568;Angela;Piedrahita Quintero;1174396045;3129448595;angela.piedrahita.quintero@icesi.edu.co
+
+%Liliana Piedrahita tuvo uno de los mejores promedios de su promocion.
+569;Liliana;Piedrahita Quintero;1158648346;3151943481;liliana.piedrahita.quintero@hotmail.com
+%Lorena Piedrahita tuvo uno de los mejores promedios de su promocion.
+570;Lorena;Piedrahita Quintero;1133006277;3138704012;lorena.piedrahita.quintero@gmail.com
+
+%Idalia Piedrahita debe actualizar la información de contacto.
+571;Idalia;Piedrahita Quintero;119997859;3151696358;idalia.piedrahita.quintero@icesi.edu.co
+
+%Viviana Piedrahita tuvo uno de los mejores promedios de su promocion.
+572;Viviana;Piedrahita Quintero;118858333;3120378778;viviana.piedrahita.quintero@icesi.edu.co
+
+
+%Santiago Gomez tuvo uno de los mejores promedios de su promocion.
+573;Santiago;Gomez Quintero;1141003469;3130618090;santiago.gomez.quintero@hotmail.com
+%Natalia Gomez tiene un gran compromiso con la institucion.
+574;Natalia;Gomez Quintero;1117534534;3149856027;natalia.gomez.quintero@correo.icesi.edu.co
+
+%Juan Gomez colabora con la universidad constantemente.
+575;Juan;Gomez Quintero;1124240184;313429520;juan.gomez.quintero@hotmail.com
+
+%Manuel Gomez colabora con la universidad constantemente.
+576;Manuel;Gomez Quintero;1138279474;3152946260;manuel.gomez.quintero@icesi.edu.co
+%David Gomez participa activamente en los eventos.
+577;David;Gomez Quintero;1194521150;3180551598;david.gomez.quintero@hotmail.com
+
+
+%Maryi Gomez debe actualizar la información de contacto.
+578;Maryi;Gomez Quintero;1166834437;3140782994;maryi.gomez.quintero@correo.icesi.edu.co
+%Angela Gomez debe actualizar la información de contacto.
+579;Angela;Gomez Quintero;1114870105;3115919739;angela.gomez.quintero@correo.icesi.edu.co
+
+%Liliana Gomez tuvo uno de los mejores promedios de su promocion.
+580;Liliana;Gomez Quintero;1175369867;3161161769;liliana.gomez.quintero@gmail.com
+
+
+%Lorena Gomez tiene un gran compromiso con la institucion.
+581;Lorena;Gomez Quintero;1166460;3185912878;lorena.gomez.quintero@gmail.com
+
+
+%Idalia Gomez debe actualizar la información de contacto.
+582;Idalia;Gomez Quintero;1171993390;3118638784;idalia.gomez.quintero@correo.icesi.edu.co
+
+%Viviana Gomez debe actualizar la información de contacto.
+583;Viviana;Gomez Quintero;1166656492;31395092;viviana.gomez.quintero@gmail.com
+
+%Santiago Arana tiene un gran compromiso con la institucion.
+584;Santiago;Arana Quintero;1173111537;3149787480;santiago.arana.quintero@gmail.com
+
+%Natalia Arana debe actualizar la información de contacto.
+585;Natalia;Arana Quintero;1197562307;3116887308;natalia.arana.quintero@correo.icesi.edu.co
+
+%Juan Arana colabora con la universidad constantemente.
+586;Juan;Arana Quintero;1144599174;3170968412;juan.arana.quintero@gmail.com
+
+%Manuel Arana participa activamente en los eventos.
+587;Manuel;Arana Quintero;11533622;3145781025;manuel.arana.quintero@hotmail.com
+%David Arana tiene reconocimiento en el medio politico.
+588;David;Arana Quintero;1132281383;3143799809;david.arana.quintero@gmail.com
+%Maryi Arana colabora con la universidad constantemente.
+589;Maryi;Arana Quintero;112675590;3198275619;maryi.arana.quintero@correo.icesi.edu.co
+%Angela Arana tiene un gran compromiso con la institucion.
+590;Angela;Arana Quintero;1188658347;3128223194;angela.arana.quintero@gmail.com
+
+%Liliana Arana tiene un gran compromiso con la institucion.
+591;Liliana;Arana Quintero;1158149276;3139365236;liliana.arana.quintero@gmail.com
+%Lorena Arana tiene un gran compromiso con la institucion.
+592;Lorena;Arana Quintero;1111104555;3114640544;lorena.arana.quintero@icesi.edu.co
+
+
+%Idalia Arana colabora con la universidad constantemente.
+593;Idalia;Arana Quintero;1152879576;3165720905;idalia.arana.quintero@icesi.edu.co
+%Viviana Arana participa activamente en los eventos.
+594;Viviana;Arana Quintero;1136949445;3145056433;viviana.arana.quintero@icesi.edu.co
+
+%Santiago Buitrago tiene reconocimiento en el medio politico.
+595;Santiago;Buitrago Quintero;1168718743;3132707919;santiago.buitrago.quintero@hotmail.com
+
+%Natalia Buitrago tuvo uno de los mejores promedios de su promocion.
+596;Natalia;Buitrago Quintero;1192897336;3148490672;natalia.buitrago.quintero@correo.icesi.edu.co
+
+%Juan Buitrago colabora con la universidad constantemente.
+597;Juan;Buitrago Quintero;1120001874;316048193;juan.buitrago.quintero@correo.icesi.edu.co
+%Manuel Buitrago tiene reconocimiento en el medio politico.
+598;Manuel;Buitrago Quintero;1170170377;3128133987;manuel.buitrago.quintero@hotmail.com
+
+%David Buitrago tiene un gran compromiso con la institucion.
+599;David;Buitrago Quintero;1197794095;3111781738;david.buitrago.quintero@correo.icesi.edu.co
+
+%Maryi Buitrago tiene reconocimiento en el medio politico.
+600;Maryi;Buitrago Quintero;1192558893;3146801285;maryi.buitrago.quintero@gmail.com
+%Angela Buitrago tiene un gran compromiso con la institucion.
+601;Angela;Buitrago Quintero;1151367361;313200935;angela.buitrago.quintero@hotmail.com
+
+
+%Liliana Buitrago tiene un gran compromiso con la institucion.
+602;Liliana;Buitrago Quintero;1162239399;3163194116;liliana.buitrago.quintero@correo.icesi.edu.co
+
+%Lorena Buitrago tiene reconocimiento en el medio politico.
+603;Lorena;Buitrago Quintero;112558134;3155325926;lorena.buitrago.quintero@gmail.com
+
+%Idalia Buitrago tiene un gran compromiso con la institucion.
+604;Idalia;Buitrago Quintero;117771293;3174315955;idalia.buitrago.quintero@icesi.edu.co
+
+%Viviana Buitrago debe actualizar la información de contacto.
+605;Viviana;Buitrago Quintero;1126645481;3136258785;viviana.buitrago.quintero@gmail.com
+
+%Santiago Reyes participa activamente en los eventos.
+606;Santiago;Reyes Lourido;1120108994;3119090962;santiago.reyes.lourido@icesi.edu.co
+%Natalia Reyes tuvo uno de los mejores promedios de su promocion.
+607;Natalia;Reyes Lourido;1143252365;3190398864;natalia.reyes.lourido@correo.icesi.edu.co
+%Juan Reyes tiene un gran compromiso con la institucion.
+608;Juan;Reyes Lourido;1145767129;3194818921;juan.reyes.lourido@correo.icesi.edu.co
+
+
+%Manuel Reyes tiene un gran compromiso con la institucion.
+609;Manuel;Reyes Lourido;1142511253;311021071;manuel.reyes.lourido@hotmail.com
+
+
+%David Reyes debe actualizar la información de contacto.
+610;David;Reyes Lourido;1111452097;3131556055;david.reyes.lourido@gmail.com
+
+
+%Maryi Reyes tiene un gran compromiso con la institucion.
+611;Maryi;Reyes Lourido;1125348380;3179113510;maryi.reyes.lourido@hotmail.com
+
+
+%Angela Reyes participa activamente en los eventos.
+612;Angela;Reyes Lourido;1181524167;3159843497;angela.reyes.lourido@icesi.edu.co
+
+%Liliana Reyes tiene un gran compromiso con la institucion.
+613;Liliana;Reyes Lourido;1162229360;3151640304;liliana.reyes.lourido@correo.icesi.edu.co
+
+
+%Lorena Reyes tiene reconocimiento en el medio politico.
+614;Lorena;Reyes Lourido;1198580005;3194412197;lorena.reyes.lourido@gmail.com
+%Idalia Reyes debe actualizar la información de contacto.
+615;Idalia;Reyes Lourido;1172072023;3195540089;idalia.reyes.lourido@hotmail.com
+
+
+%Viviana Reyes tuvo uno de los mejores promedios de su promocion.
+616;Viviana;Reyes Lourido;1128246354;3140575047;viviana.reyes.lourido@correo.icesi.edu.co
+
+
+%Santiago Garcia debe actualizar la información de contacto.
+617;Santiago;Garcia Lourido;1192270740;3183790106;santiago.garcia.lourido@gmail.com
+
+%Natalia Garcia tiene reconocimiento en el medio politico.
+618;Natalia;Garcia Lourido;1121951328;3110974133;natalia.garcia.lourido@correo.icesi.edu.co
+%Juan Garcia tiene reconocimiento en el medio politico.
+619;Juan;Garcia Lourido;1151889713;3176760369;juan.garcia.lourido@hotmail.com
+
+%Manuel Garcia participa activamente en los eventos.
+620;Manuel;Garcia Lourido;1125990586;3118182924;manuel.garcia.lourido@correo.icesi.edu.co
+
+
+%David Garcia colabora con la universidad constantemente.
+621;David;Garcia Lourido;1173070991;315851951;david.garcia.lourido@correo.icesi.edu.co
+
+
+%Maryi Garcia debe actualizar la información de contacto.
+622;Maryi;Garcia Lourido;111631419;3183370356;maryi.garcia.lourido@icesi.edu.co
+
+
+%Angela Garcia tuvo uno de los mejores promedios de su promocion.
+623;Angela;Garcia Lourido;1110566303;3157057933;angela.garcia.lourido@gmail.com
+
+%Liliana Garcia colabora con la universidad constantemente.
+624;Liliana;Garcia Lourido;1179298603;3172815732;liliana.garcia.lourido@hotmail.com
+%Lorena Garcia tiene reconocimiento en el medio politico.
+625;Lorena;Garcia Lourido;1196040015;3169605069;lorena.garcia.lourido@correo.icesi.edu.co
+
+
+%Idalia Garcia participa activamente en los eventos.
+626;Idalia;Garcia Lourido;1150061576;3142520414;idalia.garcia.lourido@correo.icesi.edu.co
+
+
+%Viviana Garcia participa activamente en los eventos.
+627;Viviana;Garcia Lourido;1182403849-3119228826;viviana.garcia.lourido@correo.icesi.edu.co
+
+
+%Santiago Hurtado participa activamente en los eventos.
+628;Santiago;Hurtado Lourido;1199693380;3136494305;santiago.hurtado.lourido@hotmail.com
+
+%Natalia Hurtado tuvo uno de los mejores promedios de su promocion.
+629;Natalia;Hurtado Lourido;1183932258;3156903902;natalia.hurtado.lourido@gmail.com
+
+%Juan Hurtado colabora con la universidad constantemente.
+630;Juan;Hurtado Lourido;1114497465;3146502150;juan.hurtado.lourido@correo.icesi.edu.co
+
+%Manuel Hurtado tiene un gran compromiso con la institucion.
+631;Manuel;Hurtado Lourido;1180270653;3121996917;manuel.hurtado.lourido@gmail.com
+%David Hurtado debe actualizar la información de contacto.
+632;David;Hurtado Lourido;1133899398;31136750;david.hurtado.lourido@gmail.com
+%Maryi Hurtado tiene reconocimiento en el medio politico.
+633;Maryi;Hurtado Lourido;1196686913;3143827482;maryi.hurtado.lourido@icesi.edu.co
+%Angela Hurtado debe actualizar la información de contacto.
+634;Angela;Hurtado Lourido;1192476095;3143152;angela.hurtado.lourido@correo.icesi.edu.co
+
+
+%Liliana Hurtado tiene reconocimiento en el medio politico.
+635;Liliana;Hurtado Lourido;1189029973;3187518378;liliana.hurtado.lourido@correo.icesi.edu.co
+%Lorena Hurtado participa activamente en los eventos.
+636;Lorena;Hurtado Lourido;1183646181;3189949956;lorena.hurtado.lourido@icesi.edu.co
+
+%Idalia Hurtado tuvo uno de los mejores promedios de su promocion.
+637;Idalia;Hurtado Lourido;1149847466;3188785111;idalia.hurtado.lourido@icesi.edu.co
+%Viviana Hurtado tiene reconocimiento en el medio politico.
+638;Viviana;Hurtado Lourido;1188670725;3172870906;viviana.hurtado.lourido@icesi.edu.co
+
+%Santiago Bustamante colabora con la universidad constantemente.
+639;Santiago;Bustamante Lourido;1111977764;3157959659;santiago.bustamante.lourido@hotmail.com
+%Natalia Bustamante tiene reconocimiento en el medio politico.
+640;Natalia;Bustamante Lourido;1147914427;3153421936;natalia.bustamante.lourido@hotmail.com
+
+%Juan Bustamante colabora con la universidad constantemente.
+641;Juan;Bustamante Lourido;1157669980;3116062716;juan.bustamante.lourido@hotmail.com
+
+%Manuel Bustamante tiene un gran compromiso con la institucion.
+642;Manuel;Bustamante Lourido;116493110;3119655920;manuel.bustamante.lourido@gmail.com
+%David Bustamante debe actualizar la información de contacto.
+643;David;Bustamante Lourido;1144898825;3155133320;david.bustamante.lourido@gmail.com
+
+%Maryi Bustamante participa activamente en los eventos.
+644;Maryi;Bustamante Lourido;1143484178;3120149355;maryi.bustamante.lourido@icesi.edu.co
+
+
+%Angela Bustamante tiene reconocimiento en el medio politico.
+645;Angela;Bustamante Lourido;1138029453;3191294244;angela.bustamante.lourido@icesi.edu.co
+%Liliana Bustamante debe actualizar la información de contacto.
+646;Liliana;Bustamante Lourido;1192802409;3129282267;liliana.bustamante.lourido@correo.icesi.edu.co
+
+
+%Lorena Bustamante tiene un gran compromiso con la institucion.
+647;Lorena;Bustamante Lourido;1177350733;312176085;lorena.bustamante.lourido@hotmail.com
+
+
+%Idalia Bustamante tiene un gran compromiso con la institucion.
+648;Idalia;Bustamante Lourido;1184644339;3127734664;idalia.bustamante.lourido@correo.icesi.edu.co
+%Viviana Bustamante debe actualizar la información de contacto.
+649;Viviana;Bustamante Lourido;1141233664;3110342495;viviana.bustamante.lourido@correo.icesi.edu.co
+%Santiago Arciniegas tiene un gran compromiso con la institucion.
+650;Santiago;Arciniegas Lourido;1179080167;3156179879;santiago.arciniegas.lourido@correo.icesi.edu.co
+
+%Natalia Arciniegas participa activamente en los eventos.
+651;Natalia;Arciniegas Lourido;1145784928;3191253539;natalia.arciniegas.lourido@hotmail.com
+%Juan Arciniegas tiene reconocimiento en el medio politico.
+652;Juan;Arciniegas Lourido;1127922967;3127987173;juan.arciniegas.lourido@hotmail.com
+%Manuel Arciniegas debe actualizar la información de contacto.
+653;Manuel;Arciniegas Lourido;1189853853;3148073736;manuel.arciniegas.lourido@gmail.com
+%David Arciniegas participa activamente en los eventos.
+654;David;Arciniegas Lourido;1187430748;3111453009;david.arciniegas.lourido@gmail.com
+
+%Maryi Arciniegas tiene un gran compromiso con la institucion.
+655;Maryi;Arciniegas Lourido;1188114346;316275771;maryi.arciniegas.lourido@hotmail.com
+
+%Angela Arciniegas tiene reconocimiento en el medio politico.
+656;Angela;Arciniegas Lourido;1112697674;3113662454;angela.arciniegas.lourido@icesi.edu.co
+
+%Liliana Arciniegas participa activamente en los eventos.
+657;Liliana;Arciniegas Lourido;1141681630;3138510512;liliana.arciniegas.lourido@hotmail.com
+%Lorena Arciniegas colabora con la universidad constantemente.
+658;Lorena;Arciniegas Lourido;1194766566;3116539166;lorena.arciniegas.lourido@icesi.edu.co
+%Idalia Arciniegas debe actualizar la información de contacto.
+659;Idalia;Arciniegas Lourido;1174336933;3134608415;idalia.arciniegas.lourido@icesi.edu.co
+%Viviana Arciniegas participa activamente en los eventos.
+660;Viviana;Arciniegas Lourido;1153545545;3130974459;viviana.arciniegas.lourido@correo.icesi.edu.co
+
+
+%Santiago Lopez colabora con la universidad constantemente.
+661;Santiago;Lopez Lourido;1112921473;3182846978;santiago.lopez.lourido@hotmail.com
+
+%Natalia Lopez participa activamente en los eventos.
+662;Natalia;Lopez Lourido;1173537517;3147132999;natalia.lopez.lourido@hotmail.com
+
+%Juan Lopez tiene un gran compromiso con la institucion.
+663;Juan;Lopez Lourido;1112824482;3126763402;juan.lopez.lourido@hotmail.com
+
+
+%Manuel Lopez participa activamente en los eventos.
+664;Manuel;Lopez Lourido;1165191916;3168114701;manuel.lopez.lourido@correo.icesi.edu.co
+
+
+%David Lopez tuvo uno de los mejores promedios de su promocion.
+665;David;Lopez Lourido;1123728200;316811181;david.lopez.lourido@icesi.edu.co
+
+%Maryi Lopez debe actualizar la información de contacto.
+666;Maryi;Lopez Lourido;1152363961;3120109395;maryi.lopez.lourido@hotmail.com
+
+
+%Angela Lopez debe actualizar la información de contacto.
+667;Angela;Lopez Lourido;1156886088;3188053838;angela.lopez.lourido@gmail.com
+
+%Liliana Lopez tuvo uno de los mejores promedios de su promocion.
+668;Liliana;Lopez Lourido;1125917419;3135012914;liliana.lopez.lourido@hotmail.com
+%Lorena Lopez colabora con la universidad constantemente.
+669;Lorena;Lopez Lourido;1153198790;3113858619;lorena.lopez.lourido@icesi.edu.co
+
+%Idalia Lopez tiene un gran compromiso con la institucion.
+670;Idalia;Lopez Lourido;1164932667;311180259;idalia.lopez.lourido@hotmail.com
+
+%Viviana Lopez colabora con la universidad constantemente.
+671;Viviana;Lopez Lourido;1161215659;3111197364;viviana.lopez.lourido@icesi.edu.co
+%Santiago Villota tiene reconocimiento en el medio politico.
+672;Santiago;Villota Lourido;1110282651;3174573522;santiago.villota.lourido@icesi.edu.co
+%Natalia Villota tiene un gran compromiso con la institucion.
+673;Natalia;Villota Lourido;1115927916;315681494;natalia.villota.lourido@icesi.edu.co
+
+%Juan Villota tiene reconocimiento en el medio politico.
+674;Juan;Villota Lourido;1180515051;3136019294;juan.villota.lourido@icesi.edu.co
+
+
+%Manuel Villota participa activamente en los eventos.
+675;Manuel;Villota Lourido;1162832834;3183852371;manuel.villota.lourido@correo.icesi.edu.co
+
+
+%David Villota tiene reconocimiento en el medio politico.
+676;David;Villota Lourido;1147029840;3170622323;david.villota.lourido@hotmail.com
+
+%Maryi Villota participa activamente en los eventos.
+677;Maryi;Villota Lourido;1197236585;3166518000;maryi.villota.lourido@correo.icesi.edu.co
+%Angela Villota tiene un gran compromiso con la institucion.
+678;Angela;Villota Lourido;1134467109;3132589172;angela.villota.lourido@hotmail.com
+%Liliana Villota colabora con la universidad constantemente.
+679;Liliana;Villota Lourido;1186126680;3130071461;liliana.villota.lourido@gmail.com
+
+%Lorena Villota colabora con la universidad constantemente.
+680;Lorena;Villota Lourido;1183020889;3142797745;lorena.villota.lourido@correo.icesi.edu.co
+
+%Idalia Villota tiene reconocimiento en el medio politico.
+681;Idalia;Villota Lourido;119183236;3132746033;idalia.villota.lourido@gmail.com
+
+%Viviana Villota debe actualizar la información de contacto.
+682;Viviana;Villota Lourido;112070422;3147405477;viviana.villota.lourido@hotmail.com
+
+%Santiago Piedrahita tiene reconocimiento en el medio politico.
+683;Santiago;Piedrahita Lourido;1196611538;3169656512;santiago.piedrahita.lourido@icesi.edu.co
+
+
+%Natalia Piedrahita tiene reconocimiento en el medio politico.
+684;Natalia;Piedrahita Lourido;1159071173;3143621083;natalia.piedrahita.lourido@icesi.edu.co
+
+%Juan Piedrahita debe actualizar la información de contacto.
+685;Juan;Piedrahita Lourido;1154466693;3194245714;juan.piedrahita.lourido@icesi.edu.co
+
+%Manuel Piedrahita tiene un gran compromiso con la institucion.
+686;Manuel;Piedrahita Lourido;1184073591;3153471797;manuel.piedrahita.lourido@correo.icesi.edu.co
+%David Piedrahita tuvo uno de los mejores promedios de su promocion.
+687;David;Piedrahita Lourido;1153004424;314399740;david.piedrahita.lourido@correo.icesi.edu.co
+%Maryi Piedrahita participa activamente en los eventos.
+688;Maryi;Piedrahita Lourido;1128538470;3197980016;maryi.piedrahita.lourido@hotmail.com
+
+
+%Angela Piedrahita participa activamente en los eventos.
+689;Angela;Piedrahita Lourido;1110330342;3199015074;angela.piedrahita.lourido@icesi.edu.co
+
+%Liliana Piedrahita colabora con la universidad constantemente.
+690;Liliana;Piedrahita Lourido;1197293496;3192620317;liliana.piedrahita.lourido@correo.icesi.edu.co
+%Lorena Piedrahita debe actualizar la información de contacto.
+691;Lorena;Piedrahita Lourido;1132233324;3165195109;lorena.piedrahita.lourido@gmail.com
+
+
+%Idalia Piedrahita tiene un gran compromiso con la institucion.
+692;Idalia;Piedrahita Lourido;1174526381;3150259885;idalia.piedrahita.lourido@correo.icesi.edu.co
+
+
+%Viviana Piedrahita tiene un gran compromiso con la institucion.
+693;Viviana;Piedrahita Lourido;1169576887;3157523288;viviana.piedrahita.lourido@gmail.com
+
+%Santiago Gomez debe actualizar la información de contacto.
+694;Santiago;Gomez Lourido;1188635733;3139992326;santiago.gomez.lourido@hotmail.com
+
+%Natalia Gomez tiene un gran compromiso con la institucion.
+695;Natalia;Gomez Lourido;1126985760;3179004480;natalia.gomez.lourido@icesi.edu.co
+
+%Juan Gomez debe actualizar la información de contacto.
+696;Juan;Gomez Lourido;116561631;319357011;juan.gomez.lourido@correo.icesi.edu.co
+
+%Manuel Gomez debe actualizar la información de contacto.
+697;Manuel;Gomez Lourido;11803091;3168285843;manuel.gomez.lourido@gmail.com
+
+
+%David Gomez tiene un gran compromiso con la institucion.
+698;David;Gomez Lourido;1115893620;3133392966;david.gomez.lourido@correo.icesi.edu.co
+
+%Maryi Gomez tiene un gran compromiso con la institucion.
+699;Maryi;Gomez Lourido;1140407051;3139662880;maryi.gomez.lourido@gmail.com
+
+
+%Angela Gomez tuvo uno de los mejores promedios de su promocion.
+700;Angela;Gomez Lourido;1142604632;316808492;angela.gomez.lourido@gmail.com
+
+
+%Liliana Gomez colabora con la universidad constantemente.
+701;Liliana;Gomez Lourido;1114963866;3111145988;liliana.gomez.lourido@correo.icesi.edu.co
+
+
+%Lorena Gomez colabora con la universidad constantemente.
+702;Lorena;Gomez Lourido;1163685154;3145254650;lorena.gomez.lourido@gmail.com
+%Idalia Gomez tuvo uno de los mejores promedios de su promocion.
+703;Idalia;Gomez Lourido;1127557567;3191507252;idalia.gomez.lourido@correo.icesi.edu.co
+
+%Viviana Gomez tuvo uno de los mejores promedios de su promocion.
+704;Viviana;Gomez Lourido;117252666;318272811;viviana.gomez.lourido@correo.icesi.edu.co
+
+
+%Santiago Arana colabora con la universidad constantemente.
+705;Santiago;Arana Lourido;1150375068;3179746878;santiago.arana.lourido@gmail.com
+%Natalia Arana tiene un gran compromiso con la institucion.
+706;Natalia;Arana Lourido;1187887261;3199943480;natalia.arana.lourido@icesi.edu.co
+%Juan Arana colabora con la universidad constantemente.
+707;Juan;Arana Lourido;1158238417;3159813064;juan.arana.lourido@hotmail.com
+
+%Manuel Arana colabora con la universidad constantemente.
+708;Manuel;Arana Lourido;111995049;3143595665;manuel.arana.lourido@correo.icesi.edu.co
+
+%David Arana tuvo uno de los mejores promedios de su promocion.
+709;David;Arana Lourido;1113264402;3149678752;david.arana.lourido@correo.icesi.edu.co
+%Maryi Arana debe actualizar la información de contacto.
+710;Maryi;Arana Lourido;116926755;3164143063;maryi.arana.lourido@icesi.edu.co
+
+
+%Angela Arana colabora con la universidad constantemente.
+711;Angela;Arana Lourido;11794909;3187023155;angela.arana.lourido@gmail.com
+
+
+%Liliana Arana participa activamente en los eventos.
+712;Liliana;Arana Lourido;1128379728;3145695369;liliana.arana.lourido@hotmail.com
+%Lorena Arana tuvo uno de los mejores promedios de su promocion.
+713;Lorena;Arana Lourido;1135979786;313785537;lorena.arana.lourido@correo.icesi.edu.co
+%Idalia Arana participa activamente en los eventos.
+714;Idalia;Arana Lourido;1183287347;3163050094;idalia.arana.lourido@gmail.com
+
+%Viviana Arana participa activamente en los eventos.
+715;Viviana;Arana Lourido;1151507170;3158753200;viviana.arana.lourido@gmail.com
+
+%Santiago Buitrago tiene reconocimiento en el medio politico.
+716;Santiago;Buitrago Lourido;1169950558;3113502206;santiago.buitrago.lourido@hotmail.com
+
+%Natalia Buitrago participa activamente en los eventos.
+717;Natalia;Buitrago Lourido;1139964576;3161115253;natalia.buitrago.lourido@hotmail.com
+%Juan Buitrago tiene un gran compromiso con la institucion.
+718;Juan;Buitrago Lourido;1163592105;31116081;juan.buitrago.lourido@hotmail.com
+
+%Manuel Buitrago tuvo uno de los mejores promedios de su promocion.
+719;Manuel;Buitrago Lourido;1159177305;3128558145;manuel.buitrago.lourido@correo.icesi.edu.co
+
+
+%David Buitrago debe actualizar la información de contacto.
+720;David;Buitrago Lourido;1163814767;3139186121;david.buitrago.lourido@gmail.com
+
+%Maryi Buitrago debe actualizar la información de contacto.
+721;Maryi;Buitrago Lourido;1115608995;3180998600;maryi.buitrago.lourido@icesi.edu.co
+
+
+%Angela Buitrago tiene un gran compromiso con la institucion.
+722;Angela;Buitrago Lourido;1170620718;3183069591;angela.buitrago.lourido@gmail.com
+%Liliana Buitrago tuvo uno de los mejores promedios de su promocion.
+723;Liliana;Buitrago Lourido;1119522458;3175444026;liliana.buitrago.lourido@icesi.edu.co
+
+
+%Lorena Buitrago tiene un gran compromiso con la institucion.
+724;Lorena;Buitrago Lourido;1117699883;3164907114;lorena.buitrago.lourido@icesi.edu.co
+
+
+%Idalia Buitrago participa activamente en los eventos.
+725;Idalia;Buitrago Lourido;1156087171;3138740075;idalia.buitrago.lourido@hotmail.com
+
+%Viviana Buitrago debe actualizar la información de contacto.
+726;Viviana;Buitrago Lourido;1165620960;3183953390;viviana.buitrago.lourido@gmail.com
+
+%Santiago Reyes debe actualizar la información de contacto.
+727;Santiago;Reyes Jurado;1138983151;3153109499;santiago.reyes.jurado@icesi.edu.co
+
+%Natalia Reyes participa activamente en los eventos.
+728;Natalia;Reyes Jurado;1153359562;3159322709;natalia.reyes.jurado@gmail.com
+
+%Juan Reyes debe actualizar la información de contacto.
+729;Juan;Reyes Jurado;117289129;3194406030;juan.reyes.jurado@correo.icesi.edu.co
+
+%Manuel Reyes participa activamente en los eventos.
+730;Manuel;Reyes Jurado;1124273707;3185910833;manuel.reyes.jurado@hotmail.com
+
+
+%David Reyes tiene un gran compromiso con la institucion.
+731;David;Reyes Jurado;1192556301;3114901506;david.reyes.jurado@gmail.com
+
+%Maryi Reyes debe actualizar la información de contacto.
+732;Maryi;Reyes Jurado;1182187657;3129086888;maryi.reyes.jurado@gmail.com
+
+
+%Angela Reyes tiene reconocimiento en el medio politico.
+733;Angela;Reyes Jurado;1120957161;311194023;angela.reyes.jurado@icesi.edu.co
+
+%Liliana Reyes participa activamente en los eventos.
+734;Liliana;Reyes Jurado;1194670908;3194455925;liliana.reyes.jurado@icesi.edu.co
+%Lorena Reyes colabora con la universidad constantemente.
+735;Lorena;Reyes Jurado;1125262246;3123469406;lorena.reyes.jurado@hotmail.com
+%Idalia Reyes tiene reconocimiento en el medio politico.
+736;Idalia;Reyes Jurado;1143899911;315574840;idalia.reyes.jurado@icesi.edu.co
+
+
+%Viviana Reyes tuvo uno de los mejores promedios de su promocion.
+737;Viviana;Reyes Jurado;1123135868;3124867837;viviana.reyes.jurado@correo.icesi.edu.co
+%Santiago Garcia participa activamente en los eventos.
+738;Santiago;Garcia Jurado;1130665851;3115961377;santiago.garcia.jurado@hotmail.com
+
+%Natalia Garcia participa activamente en los eventos.
+739;Natalia;Garcia Jurado;1171855194;3179101982;natalia.garcia.jurado@hotmail.com
+
+
+%Juan Garcia tiene reconocimiento en el medio politico.
+740;Juan;Garcia Jurado;1164142661;3172067939;juan.garcia.jurado@hotmail.com
+
+
+%Manuel Garcia colabora con la universidad constantemente.
+741;Manuel;Garcia Jurado;1135045349;3170742555;manuel.garcia.jurado@gmail.com
+%David Garcia tiene reconocimiento en el medio politico.
+742;David;Garcia Jurado;1118955138;3131099060;david.garcia.jurado@icesi.edu.co
+
+
+%Maryi Garcia colabora con la universidad constantemente.
+743;Maryi;Garcia Jurado;1194386452;3125731681;maryi.garcia.jurado@correo.icesi.edu.co
+
+
+%Angela Garcia tiene reconocimiento en el medio politico.
+744;Angela;Garcia Jurado;1111887915;3121633268;angela.garcia.jurado@hotmail.com
+
+
+%Liliana Garcia colabora con la universidad constantemente.
+745;Liliana;Garcia Jurado;118486821;3139704067;liliana.garcia.jurado@hotmail.com
+%Lorena Garcia participa activamente en los eventos.
+746;Lorena;Garcia Jurado;1143251714;3115967243;lorena.garcia.jurado@correo.icesi.edu.co
+%Idalia Garcia debe actualizar la información de contacto.
+747;Idalia;Garcia Jurado;1162229816;3118590454;idalia.garcia.jurado@gmail.com
+%Viviana Garcia tiene reconocimiento en el medio politico.
+748;Viviana;Garcia Jurado;1162474182;3160932134;viviana.garcia.jurado@hotmail.com
+
+
+%Santiago Hurtado participa activamente en los eventos.
+749;Santiago;Hurtado Jurado;1162890114;3159747346;santiago.hurtado.jurado@hotmail.com
+%Natalia Hurtado tiene reconocimiento en el medio politico.
+750;Natalia;Hurtado Jurado;1153908334;3188638941;natalia.hurtado.jurado@correo.icesi.edu.co
+%Juan Hurtado tiene reconocimiento en el medio politico.
+751;Juan;Hurtado Jurado;1124178482;3162501601;juan.hurtado.jurado@icesi.edu.co
+
+
+%Manuel Hurtado debe actualizar la información de contacto.
+752;Manuel;Hurtado Jurado;1197152421;31191890;manuel.hurtado.jurado@icesi.edu.co
+
+
+%David Hurtado tiene un gran compromiso con la institucion.
+753;David;Hurtado Jurado;1136112357;3164517935;david.hurtado.jurado@gmail.com
+%Maryi Hurtado debe actualizar la información de contacto.
+754;Maryi;Hurtado Jurado;1136350850;3183865809;maryi.hurtado.jurado@icesi.edu.co
+
+
+%Angela Hurtado debe actualizar la información de contacto.
+755;Angela;Hurtado Jurado;1147222886;3154791968;angela.hurtado.jurado@gmail.com
+%Liliana Hurtado colabora con la universidad constantemente.
+756;Liliana;Hurtado Jurado;1194996506;3194575464;liliana.hurtado.jurado@hotmail.com
+%Lorena Hurtado tiene reconocimiento en el medio politico.
+757;Lorena;Hurtado Jurado;1186097294;3115340957;lorena.hurtado.jurado@gmail.com
+
+%Idalia Hurtado participa activamente en los eventos.
+758;Idalia;Hurtado Jurado;1196680686;3183671922;idalia.hurtado.jurado@correo.icesi.edu.co
+%Viviana Hurtado tuvo uno de los mejores promedios de su promocion.
+759;Viviana;Hurtado Jurado;1121618804;3191808875;viviana.hurtado.jurado@gmail.com
+%Santiago Bustamante colabora con la universidad constantemente.
+760;Santiago;Bustamante Jurado;1198037556;3127182984;santiago.bustamante.jurado@correo.icesi.edu.co
+%Natalia Bustamante tiene reconocimiento en el medio politico.
+761;Natalia;Bustamante Jurado;115504536;3188222060;natalia.bustamante.jurado@icesi.edu.co
+
+%Juan Bustamante tiene un gran compromiso con la institucion.
+762;Juan;Bustamante Jurado;117805877;3156571809;juan.bustamante.jurado@correo.icesi.edu.co
+%Manuel Bustamante participa activamente en los eventos.
+763;Manuel;Bustamante Jurado;1156855134;3123026163;manuel.bustamante.jurado@correo.icesi.edu.co
+
+
+%David Bustamante tiene un gran compromiso con la institucion.
+764;David;Bustamante Jurado;1155481525;3148919832;david.bustamante.jurado@hotmail.com
+
+%Maryi Bustamante tiene un gran compromiso con la institucion.
+765;Maryi;Bustamante Jurado;1136418185;3172304658;maryi.bustamante.jurado@hotmail.com
+%Angela Bustamante debe actualizar la información de contacto.
+766;Angela;Bustamante Jurado;1184460049;3183147151;angela.bustamante.jurado@gmail.com
+
+
+%Liliana Bustamante colabora con la universidad constantemente.
+767;Liliana;Bustamante Jurado;1118130683;3161723725;liliana.bustamante.jurado@correo.icesi.edu.co
+
+%Lorena Bustamante participa activamente en los eventos.
+768;Lorena;Bustamante Jurado;1177869411;3115465558;lorena.bustamante.jurado@correo.icesi.edu.co
+
+
+%Idalia Bustamante colabora con la universidad constantemente.
+769;Idalia;Bustamante Jurado;1197244169;3151267839;idalia.bustamante.jurado@gmail.com
+
+
+%Viviana Bustamante colabora con la universidad constantemente.
+770;Viviana;Bustamante Jurado;1180468698;3170716472;viviana.bustamante.jurado@hotmail.com
+%Santiago Arciniegas colabora con la universidad constantemente.
+771;Santiago;Arciniegas Jurado;1177949393;3186224903;santiago.arciniegas.jurado@icesi.edu.co
+
+%Natalia Arciniegas tuvo uno de los mejores promedios de su promocion.
+772;Natalia;Arciniegas Jurado;1157039476;3186577971;natalia.arciniegas.jurado@correo.icesi.edu.co
+
+%Juan Arciniegas debe actualizar la información de contacto.
+773;Juan;Arciniegas Jurado;1158905669;3164149345;juan.arciniegas.jurado@gmail.com
+
+
+%Manuel Arciniegas tuvo uno de los mejores promedios de su promocion.
+774;Manuel;Arciniegas Jurado;1126622195;3184832255;manuel.arciniegas.jurado@hotmail.com
+
+%David Arciniegas participa activamente en los eventos.
+775;David;Arciniegas Jurado;1182443328;3190676105;david.arciniegas.jurado@correo.icesi.edu.co
+
+
+%Maryi Arciniegas debe actualizar la información de contacto.
+776;Maryi;Arciniegas Jurado;1132750838;3177966833;maryi.arciniegas.jurado@hotmail.com
+
+%Angela Arciniegas colabora con la universidad constantemente.
+777;Angela;Arciniegas Jurado;1132446023;3167077941;angela.arciniegas.jurado@icesi.edu.co
+%Liliana Arciniegas tiene un gran compromiso con la institucion.
+778;Liliana;Arciniegas Jurado;1152514810;3150339788;liliana.arciniegas.jurado@correo.icesi.edu.co
+
+
+%Lorena Arciniegas tuvo uno de los mejores promedios de su promocion.
+779;Lorena;Arciniegas Jurado;1157032829;3169353063;lorena.arciniegas.jurado@correo.icesi.edu.co
+%Idalia Arciniegas tiene reconocimiento en el medio politico.
+780;Idalia;Arciniegas Jurado;1111827807;3180971492;idalia.arciniegas.jurado@correo.icesi.edu.co
+%Viviana Arciniegas colabora con la universidad constantemente.
+781;Viviana;Arciniegas Jurado;1155148469;3142399615;viviana.arciniegas.jurado@gmail.com
+
+
+%Santiago Lopez debe actualizar la información de contacto.
+782;Santiago;Lopez Jurado;1160709215;3199732181;santiago.lopez.jurado@icesi.edu.co
+%Natalia Lopez participa activamente en los eventos.
+783;Natalia;Lopez Jurado;111033191;3143478041;natalia.lopez.jurado@correo.icesi.edu.co
+%Juan Lopez tuvo uno de los mejores promedios de su promocion.
+784;Juan;Lopez Jurado;1170684372;3190276847;juan.lopez.jurado@icesi.edu.co
+%Manuel Lopez participa activamente en los eventos.
+785;Manuel;Lopez Jurado;1187282121;3126681928;manuel.lopez.jurado@hotmail.com
+
+%David Lopez debe actualizar la información de contacto.
+786;David;Lopez Jurado;1146585777;3171535888;david.lopez.jurado@hotmail.com
+%Maryi Lopez tiene un gran compromiso con la institucion.
+787;Maryi;Lopez Jurado;1145817272;3164532433;maryi.lopez.jurado@gmail.com
+safasd
+%Angela Lopez tiene reconocimiento en el medio politico.
+788;Angela;Lopez Jurado;1197088158++++314902036;angela.lopez.jurado@correo.icesi.edu.co
+
+%Liliana Lopez debe actualizar la información de contacto.
+789;Liliana;Lopez Jurado;1156583526;3154080933;liliana.lopez.jurado@correo.icesi.edu.co
+
+%Lorena Lopez tuvo uno de los mejores promedios de su promocion.
+790;Lorena;Lopez Jurado;1182236043;3186461124;lorena.lopez.jurado@gmail.com
+%Idalia Lopez tiene reconocimiento en el medio politico.
+791;Idalia;Lopez Jurado;1176143359;3153049087;idalia.lopez.jurado@hotmail.com
+%Viviana Lopez participa activamente en los eventos.
+792;Viviana;Lopez Jurado;1152023289;3192696181;viviana.lopez.jurado@gmail.com
+
+
+%Santiago Villota tiene reconocimiento en el medio politico.
+793;Santiago;Villota Jurado;1112583198;3136555000;santiago.villota.jurado@gmail.com
+%Natalia Villota colabora con la universidad constantemente.
+794;Natalia;Villota Jurado;117759806;3154051554;natalia.villota.jurado@correo.icesi.edu.co
+
+%Juan Villota debe actualizar la información de contacto.
+795;Juan;Villota Jurado;1139257707;3156868736;juan.villota.jurado@gmail.com
+
+
+%Manuel Villota participa activamente en los eventos.
+796;Manuel;Villota Jurado;1157511479;3133575592;manuel.villota.jurado@gmail.com
+
+%David Villota participa activamente en los eventos.
+797;David;Villota Jurado;1177886503;3127409951;david.villota.jurado@hotmail.com
+
+
+%Maryi Villota tiene reconocimiento en el medio politico.
+798;Maryi;Villota Jurado;1198325085;3187567615;maryi.villota.jurado@icesi.edu.co
+%Angela Villota colabora con la universidad constantemente.
+799;Angela;Villota Jurado;1191381107;3137844925;angela.villota.jurado@icesi.edu.co
+
+
+%Liliana Villota debe actualizar la información de contacto.
+800;Liliana;Villota Jurado;1141250770;3181736816;liliana.villota.jurado@hotmail.com
+
+%Lorena Villota tuvo uno de los mejores promedios de su promocion.
+801;Lorena;Villota Jurado;118518252;3139659864;lorena.villota.jurado@hotmail.com
+
+%Idalia Villota colabora con la universidad constantemente.
+802;Idalia;Villota Jurado;11350449;3129837863;idalia.villota.jurado@icesi.edu.co
+%Viviana Villota colabora con la universidad constantemente.
+803;Viviana;Villota Jurado;1156188860;3120981785;viviana.villota.jurado@gmail.com
+
+
+%Santiago Piedrahita tiene reconocimiento en el medio politico.
+804;Santiago;Piedrahita Jurado;1193931260;3112079883;santiago.piedrahita.jurado@gmail.com
+%Natalia Piedrahita colabora con la universidad constantemente.
+805;Natalia;Piedrahita Jurado;11440408;3115687929;natalia.piedrahita.jurado@icesi.edu.co
+
+
+%Juan Piedrahita tiene un gran compromiso con la institucion.
+806;Juan;Piedrahita Jurado;1155168998;3117812710;juan.piedrahita.jurado@icesi.edu.co
+
+
+%Manuel Piedrahita colabora con la universidad constantemente.
+807;Manuel;Piedrahita Jurado;1194893543;3164989069;manuel.piedrahita.jurado@hotmail.com
+
+%David Piedrahita tuvo uno de los mejores promedios de su promocion.
+808;David;Piedrahita Jurado;1120087210;3141076117;david.piedrahita.jurado@hotmail.com
+
+
+%Maryi Piedrahita participa activamente en los eventos.
+809;Maryi;Piedrahita Jurado;114352242;3169691728;maryi.piedrahita.jurado@correo.icesi.edu.co
+
+
+%Angela Piedrahita participa activamente en los eventos.
+810;Angela;Piedrahita Jurado;1153533441;3138554935;angela.piedrahita.jurado@hotmail.com
+
+%Liliana Piedrahita debe actualizar la información de contacto.
+811;Liliana;Piedrahita Jurado;1112539920;3138238760;liliana.piedrahita.jurado@correo.icesi.edu.co
+
+
+%Lorena Piedrahita debe actualizar la información de contacto.
+812;Lorena;Piedrahita Jurado;1188344904;3137314930;lorena.piedrahita.jurado@gmail.com
+
+%Idalia Piedrahita debe actualizar la información de contacto.
+813;Idalia;Piedrahita Jurado;1135882355;3149397308;idalia.piedrahita.jurado@hotmail.com
+
+%Viviana Piedrahita tiene reconocimiento en el medio politico.
+814;Viviana;Piedrahita Jurado;1189321586;3154401323;viviana.piedrahita.jurado@icesi.edu.co
+
+
+%Santiago Gomez participa activamente en los eventos.
+815;Santiago;Gomez Jurado;1150121398;319107711;santiago.gomez.jurado@correo.icesi.edu.co
+%Natalia Gomez tiene un gran compromiso con la institucion.
+816;Natalia;Gomez Jurado;1111925637;3161963926;natalia.gomez.jurado@hotmail.com
+
+%Juan Gomez tiene reconocimiento en el medio politico.
+817;Juan;Gomez Jurado;1193281903;3188526429;juan.gomez.jurado@gmail.com
+
+
+%Manuel Gomez colabora con la universidad constantemente.
+818;Manuel;Gomez Jurado;115801654;3129835;manuel.gomez.jurado@hotmail.com
+%David Gomez tiene un gran compromiso con la institucion.
+819;David;Gomez Jurado;1137127387;3184690604;david.gomez.jurado@icesi.edu.co
+%Maryi Gomez tuvo uno de los mejores promedios de su promocion.
+820;Maryi;Gomez Jurado;1115263205;314376714;maryi.gomez.jurado@hotmail.com
+
+%Angela Gomez tuvo uno de los mejores promedios de su promocion.
+821;Angela;Gomez Jurado;1119728435;3146501376;angela.gomez.jurado@hotmail.com
+
+
+%Liliana Gomez tuvo uno de los mejores promedios de su promocion.
+822;Liliana;Gomez Jurado;1152816802;3179166666;liliana.gomez.jurado@hotmail.com
+%Lorena Gomez participa activamente en los eventos.
+823;Lorena;Gomez Jurado;114130936;3156867679;lorena.gomez.jurado@icesi.edu.co
+%Idalia Gomez tiene un gran compromiso con la institucion.
+824;Idalia;Gomez Jurado;1167595265;313082804;idalia.gomez.jurado@hotmail.com
+
+
+%Viviana Gomez tiene reconocimiento en el medio politico.
+825;Viviana;Gomez Jurado;1172349684;3156871667;viviana.gomez.jurado@hotmail.com
+
+%Santiago Arana tuvo uno de los mejores promedios de su promocion.
+826;Santiago;Arana Jurado;1198248174;3113667569;santiago.arana.jurado@correo.icesi.edu.co
+%Natalia Arana tiene un gran compromiso con la institucion.
+827;Natalia;Arana Jurado;1180026042;3139711552;natalia.arana.jurado@hotmail.com
+
+%Juan Arana tuvo uno de los mejores promedios de su promocion.
+828;Juan;Arana Jurado;1189387964;3167393961;juan.arana.jurado@hotmail.com
+
+%Manuel Arana debe actualizar la información de contacto.
+829;Manuel;Arana Jurado;1185076723;3130947089;manuel.arana.jurado@hotmail.com
+
+
+%David Arana colabora con la universidad constantemente.
+830;David;Arana Jurado;1162115920;3122707825;david.arana.jurado@hotmail.com
+%Maryi Arana tiene reconocimiento en el medio politico.
+831;Maryi;Arana Jurado;1123523981;317217533;maryi.arana.jurado@gmail.com
+
+
+%Angela Arana tiene reconocimiento en el medio politico.
+832;Angela;Arana Jurado;1162453169;3139861378;angela.arana.jurado@hotmail.com
+
+%Liliana Arana tuvo uno de los mejores promedios de su promocion.
+833;Liliana;Arana Jurado;1137435818;3188121383;liliana.arana.jurado@gmail.com
+
+
+%Lorena Arana debe actualizar la información de contacto.
+834;Lorena;Arana Jurado;1166677512;3134815225;lorena.arana.jurado@correo.icesi.edu.co
+
+
+%Idalia Arana colabora con la universidad constantemente.
+835;Idalia;Arana Jurado;1163518049;3165341790;idalia.arana.jurado@gmail.com
+
+%Viviana Arana tiene un gran compromiso con la institucion.
+836;Viviana;Arana Jurado;1199617727;3164818069;viviana.arana.jurado@correo.icesi.edu.co
+%Santiago Buitrago tiene un gran compromiso con la institucion.
+837;Santiago;Buitrago Jurado;1166388403;319370996;santiago.buitrago.jurado@hotmail.com
+
+
+%Natalia Buitrago debe actualizar la información de contacto.
+838;Natalia;Buitrago Jurado;1120882771;3160480454;natalia.buitrago.jurado@icesi.edu.co
+%Juan Buitrago tiene un gran compromiso con la institucion.
+839;Juan;Buitrago Jurado;1147926088;3117331770;juan.buitrago.jurado@gmail.com
+
+
+%Manuel Buitrago tiene reconocimiento en el medio politico.
+840;Manuel;Buitrago Jurado;1154804079;3153240823;manuel.buitrago.jurado@gmail.com
+%David Buitrago tiene un gran compromiso con la institucion.
+841;David;Buitrago Jurado;1183328506;3135413248;david.buitrago.jurado@correo.icesi.edu.co
+
+
+%Maryi Buitrago participa activamente en los eventos.
+842;Maryi;Buitrago Jurado;1182544930;3178079236;maryi.buitrago.jurado@gmail.com
+%Angela Buitrago debe actualizar la información de contacto.
+843;Angela;Buitrago Jurado;1125620171;316333215;angela.buitrago.jurado@gmail.com
+
+%Liliana Buitrago tiene un gran compromiso con la institucion.
+844;Liliana;Buitrago Jurado;1179381645;3159166140;liliana.buitrago.jurado@icesi.edu.co
+
+%Lorena Buitrago tiene un gran compromiso con la institucion.
+845;Lorena;Buitrago Jurado;1183347027;3156008301;lorena.buitrago.jurado@correo.icesi.edu.co
+%Idalia Buitrago tiene un gran compromiso con la institucion.
+846;Idalia;Buitrago Jurado;1166587162;3110840612;idalia.buitrago.jurado@icesi.edu.co
+
+%Viviana Buitrago participa activamente en los eventos.
+847;Viviana;Buitrago Jurado;1111052816;3144258171;viviana.buitrago.jurado@icesi.edu.co
+
+
+%Santiago Reyes tuvo uno de los mejores promedios de su promocion.
+848;Santiago;Reyes Dinas;1155648315;317894469;santiago.reyes.dinas@gmail.com
+
+
+%Natalia Reyes participa activamente en los eventos.
+849;Natalia;Reyes Dinas;1158872240;3161889291;natalia.reyes.dinas@gmail.com
+%Juan Reyes debe actualizar la información de contacto.
+850;Juan;Reyes Dinas;1192723903;3197595763;juan.reyes.dinas@correo.icesi.edu.co
+%Manuel Reyes colabora con la universidad constantemente.
+851;Manuel;Reyes Dinas;116189116;3160898353;manuel.reyes.dinas@gmail.com
+
+
+%David Reyes tiene reconocimiento en el medio politico.
+852;David;Reyes Dinas;1163301464;3141217160;david.reyes.dinas@gmail.com
+
+
+%Maryi Reyes participa activamente en los eventos.
+853;Maryi;Reyes Dinas;1154795882;3155805037;maryi.reyes.dinas@icesi.edu.co
+
+%Angela Reyes tuvo uno de los mejores promedios de su promocion.
+854;Angela;Reyes Dinas;1190936383;3185041692;angela.reyes.dinas@hotmail.com
+
+%Liliana Reyes colabora con la universidad constantemente.
+855;Liliana;Reyes Dinas;1179354143;3132268259;liliana.reyes.dinas@gmail.com
+
+
+%Lorena Reyes colabora con la universidad constantemente.
+856;Lorena;Reyes Dinas;1159757826;3169900518;lorena.reyes.dinas@hotmail.com
+
+
+%Idalia Reyes participa activamente en los eventos.
+857;Idalia;Reyes Dinas;1127194231;3144159636;idalia.reyes.dinas@hotmail.com
+%Viviana Reyes debe actualizar la información de contacto.
+858;Viviana;Reyes Dinas;118101698;3194254208;viviana.reyes.dinas@correo.icesi.edu.co
+
+
+%Santiago Garcia participa activamente en los eventos.
+859;Santiago;Garcia Dinas;1125605019;3172162376;santiago.garcia.dinas@hotmail.com
+%Natalia Garcia participa activamente en los eventos.
+860;Natalia;Garcia Dinas;1180181633;3148661273;natalia.garcia.dinas@hotmail.com
+%Juan Garcia tuvo uno de los mejores promedios de su promocion.
+861;Juan;Garcia Dinas;1192753504;3155733389;juan.garcia.dinas@icesi.edu.co
+
+%Manuel Garcia participa activamente en los eventos.
+862;Manuel;Garcia Dinas;1184134847;3139184513;manuel.garcia.dinas@correo.icesi.edu.co
+
+
+%David Garcia tiene reconocimiento en el medio politico.
+863;David;Garcia Dinas;1158237004;3195910894;david.garcia.dinas@correo.icesi.edu.co
+
+
+%Maryi Garcia tiene reconocimiento en el medio politico.
+864;Maryi;Garcia Dinas;1188080374;3113867917;maryi.garcia.dinas@hotmail.com
+%Angela Garcia tuvo uno de los mejores promedios de su promocion.
+865;Angela;Garcia Dinas;1181008995;3158969379;angela.garcia.dinas@correo.icesi.edu.co
+
+
+%Liliana Garcia tiene un gran compromiso con la institucion.
+866;Liliana;Garcia Dinas;1191003073;3199873845;liliana.garcia.dinas@gmail.com
+%Lorena Garcia tiene reconocimiento en el medio politico.
+867;Lorena;Garcia Dinas;116033022;3190318256;lorena.garcia.dinas@correo.icesi.edu.co
+%Idalia Garcia colabora con la universidad constantemente.
+868;Idalia;Garcia Dinas;1132327549;3149202216;idalia.garcia.dinas@hotmail.com
+%Viviana Garcia colabora con la universidad constantemente.
+869;Viviana;Garcia Dinas;1126507299;3174310110;viviana.garcia.dinas@hotmail.com
+
+
+%Santiago Hurtado tuvo uno de los mejores promedios de su promocion.
+870;Santiago;Hurtado Dinas;1152971874;3178120496;santiago.hurtado.dinas@icesi.edu.co
+
+
+%Natalia Hurtado tiene reconocimiento en el medio politico.
+871;Natalia;Hurtado Dinas;1115865938;3148768975;natalia.hurtado.dinas@hotmail.com
+%Juan Hurtado tiene un gran compromiso con la institucion.
+872;Juan;Hurtado Dinas;1191471825;3169515325;juan.hurtado.dinas@hotmail.com
+%Manuel Hurtado tiene un gran compromiso con la institucion.
+873;Manuel;Hurtado Dinas;1163001019;313068574;manuel.hurtado.dinas@correo.icesi.edu.co
+
+%David Hurtado colabora con la universidad constantemente.
+874;David;Hurtado Dinas;1191442119;3188333590;david.hurtado.dinas@correo.icesi.edu.co
+
+%Maryi Hurtado tiene reconocimiento en el medio politico.
+875;Maryi;Hurtado Dinas;1185263011;3155485038;maryi.hurtado.dinas@gmail.com
+
+
+%Angela Hurtado tiene un gran compromiso con la institucion.
+876;Angela;Hurtado Dinas;1111191911;3138112847;angela.hurtado.dinas@hotmail.com
+
+
+%Liliana Hurtado colabora con la universidad constantemente.
+877;Liliana;Hurtado Dinas;116785299;3119318093;liliana.hurtado.dinas@gmail.com
+
+%Lorena Hurtado debe actualizar la información de contacto.
+878;Lorena;Hurtado Dinas;1162737566;3161308013;lorena.hurtado.dinas@icesi.edu.co
+
+
+%Idalia Hurtado debe actualizar la información de contacto.
+879;Idalia;Hurtado Dinas;1174541882;3127919299;idalia.hurtado.dinas@correo.icesi.edu.co
+%Viviana Hurtado colabora con la universidad constantemente.
+880;Viviana;Hurtado Dinas;1165756583;3157703222;viviana.hurtado.dinas@hotmail.com
+
+
+%Santiago Bustamante tiene reconocimiento en el medio politico.
+881;Santiago;Bustamante Dinas;1141285596;3196285367;santiago.bustamante.dinas@correo.icesi.edu.co
+
+%Natalia Bustamante tiene reconocimiento en el medio politico.
+882;Natalia;Bustamante Dinas;1182202214;3163654872;natalia.bustamante.dinas@correo.icesi.edu.co
+
+%Juan Bustamante tuvo uno de los mejores promedios de su promocion.
+883;Juan;Bustamante Dinas;1173127455;3151269247;juan.bustamante.dinas@correo.icesi.edu.co
+
+%Manuel Bustamante tiene reconocimiento en el medio politico.
+884;Manuel;Bustamante Dinas;1199349208;31243825;manuel.bustamante.dinas@correo.icesi.edu.co
+%David Bustamante debe actualizar la información de contacto.
+885;David;Bustamante Dinas;1140006038;3163731043;david.bustamante.dinas@gmail.com
+
+
+%Maryi Bustamante tiene un gran compromiso con la institucion.
+886;Maryi;Bustamante Dinas;1152966838;3160621818;maryi.bustamante.dinas@icesi.edu.co
+
+%Angela Bustamante tiene reconocimiento en el medio politico.
+887;Angela;Bustamante Dinas;1119659080;3164095500;angela.bustamante.dinas@gmail.com
+
+
+%Liliana Bustamante colabora con la universidad constantemente.
+888;Liliana;Bustamante Dinas;1128116136;3165919138;liliana.bustamante.dinas@icesi.edu.co
+
+
+%Lorena Bustamante participa activamente en los eventos.
+889;Lorena;Bustamante Dinas;1189947756;3117802228;lorena.bustamante.dinas@icesi.edu.co
+
+
+%Idalia Bustamante tuvo uno de los mejores promedios de su promocion.
+890;Idalia;Bustamante Dinas;1142744096;3175037665;idalia.bustamante.dinas@hotmail.com
+%Viviana Bustamante participa activamente en los eventos.
+891;Viviana;Bustamante Dinas;11497378;3179029411;viviana.bustamante.dinas@gmail.com
+
+
+%Santiago Arciniegas tiene reconocimiento en el medio politico.
+892;Santiago;Arciniegas Dinas;118798344;3186485390;santiago.arciniegas.dinas@icesi.edu.co
+
+
+%Natalia Arciniegas participa activamente en los eventos.
+893;Natalia;Arciniegas Dinas;112606558;3129841288;natalia.arciniegas.dinas@icesi.edu.co
+
+%Juan Arciniegas colabora con la universidad constantemente.
+894;Juan;Arciniegas Dinas;1177011557;3120115626;juan.arciniegas.dinas@gmail.com
+
+%Manuel Arciniegas tuvo uno de los mejores promedios de su promocion.
+895;Manuel;Arciniegas Dinas;1176240112;3147554163;manuel.arciniegas.dinas@hotmail.com
+
+
+%David Arciniegas debe actualizar la información de contacto.
+896;David;Arciniegas Dinas;114805723;3113216008;david.arciniegas.dinas@gmail.com
+
+%Maryi Arciniegas tuvo uno de los mejores promedios de su promocion.
+897;Maryi;Arciniegas Dinas;1124659331;3125635326;maryi.arciniegas.dinas@icesi.edu.co
+%Angela Arciniegas tiene un gran compromiso con la institucion.
+898;Angela;Arciniegas Dinas;1141942075;318849597;angela.arciniegas.dinas@hotmail.com
+
+%Liliana Arciniegas tiene un gran compromiso con la institucion.
+899;Liliana;Arciniegas Dinas;1110856457;312843717;liliana.arciniegas.dinas@hotmail.com
+
+%Lorena Arciniegas tuvo uno de los mejores promedios de su promocion.
+900;Lorena;Arciniegas Dinas;115593353;3154682286;lorena.arciniegas.dinas@icesi.edu.co
+
+
+%Idalia Arciniegas tuvo uno de los mejores promedios de su promocion.
+901;Idalia;Arciniegas Dinas;1185448534;3131590714;idalia.arciniegas.dinas@hotmail.com
+%Viviana Arciniegas tiene reconocimiento en el medio politico.
+902;Viviana;Arciniegas Dinas;1115440814;3167737805;viviana.arciniegas.dinas@icesi.edu.co
+%Santiago Lopez participa activamente en los eventos.
+903;Santiago;Lopez Dinas;113049058;3139644015;santiago.lopez.dinas@gmail.com
+%Natalia Lopez tiene reconocimiento en el medio politico.
+904;Natalia;Lopez Dinas;1180199151;3154603642;natalia.lopez.dinas@icesi.edu.co
+
+
+%Juan Lopez tuvo uno de los mejores promedios de su promocion.
+905;Juan;Lopez Dinas;1143374153;319317029;juan.lopez.dinas@correo.icesi.edu.co
+%Manuel Lopez participa activamente en los eventos.
+906;Manuel;Lopez Dinas;1169648366;317568238;manuel.lopez.dinas@gmail.com
+%David Lopez tuvo uno de los mejores promedios de su promocion.
+907;David;Lopez Dinas;1144453244;3115180775;david.lopez.dinas@correo.icesi.edu.co
+
+%Maryi Lopez tiene un gran compromiso con la institucion.
+908;Maryi;Lopez Dinas;1170802284;3125001803;maryi.lopez.dinas@correo.icesi.edu.co
+%Angela Lopez tiene reconocimiento en el medio politico.
+909;Angela;Lopez Dinas;1118302525;3125104818;angela.lopez.dinas@gmail.com
+
+
+%Liliana Lopez colabora con la universidad constantemente.
+910;Liliana;Lopez Dinas;1113269305;3129000212;liliana.lopez.dinas@hotmail.com
+%Lorena Lopez debe actualizar la información de contacto.
+911;Lorena;Lopez Dinas;1154282777;3180078281;lorena.lopez.dinas@icesi.edu.co
+%Idalia Lopez debe actualizar la información de contacto.
+912;Idalia;Lopez Dinas;1157161701;3174893350;idalia.lopez.dinas@gmail.com
+%Viviana Lopez participa activamente en los eventos.
+913;Viviana;Lopez Dinas;1122101360;3125781513;viviana.lopez.dinas@gmail.com
+
+%Santiago Villota tuvo uno de los mejores promedios de su promocion.
+914;Santiago;Villota Dinas;1167085541;3165676463;santiago.villota.dinas@correo.icesi.edu.co
+%Natalia Villota debe actualizar la información de contacto.
+915;Natalia;Villota Dinas;1165031511;3173273534;natalia.villota.dinas@correo.icesi.edu.co
+%Juan Villota tuvo uno de los mejores promedios de su promocion.
+916;Juan;Villota Dinas;1147794171;3199754944;juan.villota.dinas@gmail.com
+%Manuel Villota debe actualizar la información de contacto.
+917;Manuel;Villota Dinas;1124410363;3117429899;manuel.villota.dinas@gmail.com
+%David Villota tuvo uno de los mejores promedios de su promocion.
+918;David;Villota Dinas;1191013873;3192600126;david.villota.dinas@gmail.com
+
+%Maryi Villota tiene un gran compromiso con la institucion.
+919;Maryi;Villota Dinas;1158840325;3139910139;maryi.villota.dinas@hotmail.com
+
+%Angela Villota tiene reconocimiento en el medio politico.
+920;Angela;Villota Dinas;1178751191;3121995650;angela.villota.dinas@gmail.com
+%Liliana Villota tiene reconocimiento en el medio politico.
+921;Liliana;Villota Dinas;1115756841;3168453517;liliana.villota.dinas@gmail.com
+
+%Lorena Villota debe actualizar la información de contacto.
+922;Lorena;Villota Dinas;116067112;3152510981;lorena.villota.dinas@gmail.com
+
+
+%Idalia Villota debe actualizar la información de contacto.
+923;Idalia;Villota Dinas;1179138726;3156196302;idalia.villota.dinas@icesi.edu.co
+%Viviana Villota tiene un gran compromiso con la institucion.
+924;Viviana;Villota Dinas;1125854156;3197670710;viviana.villota.dinas@icesi.edu.co
+%Santiago Piedrahita tiene un gran compromiso con la institucion.
+925;Santiago;Piedrahita Dinas;1155125639;3183473355;santiago.piedrahita.dinas@hotmail.com
+
+
+%Natalia Piedrahita colabora con la universidad constantemente.
+926;Natalia;Piedrahita Dinas;1179578129;3177995336;natalia.piedrahita.dinas@correo.icesi.edu.co
+%Juan Piedrahita debe actualizar la información de contacto.
+927;Juan;Piedrahita Dinas;1167170477;3170211313;juan.piedrahita.dinas@correo.icesi.edu.co
+%Manuel Piedrahita tiene reconocimiento en el medio politico.
+928;Manuel;Piedrahita Dinas;1161247144;3129671138;manuel.piedrahita.dinas@correo.icesi.edu.co
+
+
+%David Piedrahita debe actualizar la información de contacto.
+929;David;Piedrahita Dinas;1114092803;3119540212;david.piedrahita.dinas@correo.icesi.edu.co
+
+%Maryi Piedrahita tiene reconocimiento en el medio politico.
+930;Maryi;Piedrahita Dinas;1167046236;3112063952;maryi.piedrahita.dinas@correo.icesi.edu.co
+
+
+%Angela Piedrahita tuvo uno de los mejores promedios de su promocion.
+931;Angela;Piedrahita Dinas;1198012641;3192644895;angela.piedrahita.dinas@hotmail.com
+
+%Liliana Piedrahita tiene un gran compromiso con la institucion.
+932;Liliana;Piedrahita Dinas;1110126721;3152623533;liliana.piedrahita.dinas@hotmail.com
+
+
+%Lorena Piedrahita tiene un gran compromiso con la institucion.
+933;Lorena;Piedrahita Dinas;1154632342;3141147122;lorena.piedrahita.dinas@correo.icesi.edu.co
+
+%Idalia Piedrahita participa activamente en los eventos.
+934;Idalia;Piedrahita Dinas;1128965231;3154932327;idalia.piedrahita.dinas@correo.icesi.edu.co
+
+
+%Viviana Piedrahita debe actualizar la información de contacto.
+935;Viviana;Piedrahita Dinas;1115697398;3196453782;viviana.piedrahita.dinas@correo.icesi.edu.co
+%Santiago Gomez participa activamente en los eventos.
+936;Santiago;Gomez Dinas;1188508094;3179734460;santiago.gomez.dinas@gmail.com
+%Natalia Gomez tiene reconocimiento en el medio politico.
+937;Natalia;Gomez Dinas;112705457;3135526189;natalia.gomez.dinas@icesi.edu.co
+%Juan Gomez tiene reconocimiento en el medio politico.
+938;Juan;Gomez Dinas;1165992545;3189737771;juan.gomez.dinas@gmail.com
+
+
+%Manuel Gomez participa activamente en los eventos.
+939;Manuel;Gomez Dinas;1192046025;319419916;manuel.gomez.dinas@hotmail.com
+
+%David Gomez tiene reconocimiento en el medio politico.
+940;David;Gomez Dinas;1127887053;3126813799;david.gomez.dinas@gmail.com
+
+%Maryi Gomez colabora con la universidad constantemente.
+941;Maryi;Gomez Dinas;114741615;3134714229;maryi.gomez.dinas@icesi.edu.co
+%Angela Gomez participa activamente en los eventos.
+942;Angela;Gomez Dinas;1140818781;3164927611;angela.gomez.dinas@hotmail.com
+
+%Liliana Gomez tiene reconocimiento en el medio politico.
+943;Liliana;Gomez Dinas;1158824419;318594625;liliana.gomez.dinas@gmail.com
+
+
+%Lorena Gomez participa activamente en los eventos.
+944;Lorena;Gomez Dinas;1117657005;3153711413;lorena.gomez.dinas@icesi.edu.co
+%Idalia Gomez tiene reconocimiento en el medio politico.
+945;Idalia;Gomez Dinas;1179120843;3115871586;idalia.gomez.dinas@gmail.com
+%Viviana Gomez tiene un gran compromiso con la institucion.
+946;Viviana;Gomez Dinas;1180097110;3136052929;viviana.gomez.dinas@correo.icesi.edu.co
+
+
+%Santiago Arana tiene un gran compromiso con la institucion.
+947;Santiago;Arana Dinas;1187829502;3150613159;santiago.arana.dinas@hotmail.com
+
+%Natalia Arana tiene reconocimiento en el medio politico.
+948;Natalia;Arana Dinas;1121140531;3188401529;natalia.arana.dinas@correo.icesi.edu.co
+%Juan Arana participa activamente en los eventos.
+949;Juan;Arana Dinas;1199766619;3176338487;juan.arana.dinas@gmail.com
+%Manuel Arana participa activamente en los eventos.
+950;Manuel;Arana Dinas;1174791829;3194702172;manuel.arana.dinas@gmail.com
+
+
+%David Arana colabora con la universidad constantemente.
+951;David;Arana Dinas;1118515948;3196863979;david.arana.dinas@icesi.edu.co
+
+
+%Maryi Arana debe actualizar la información de contacto.
+952;Maryi;Arana Dinas;1146094819;3123949187;maryi.arana.dinas@gmail.com
+
+%Angela Arana colabora con la universidad constantemente.
+953;Angela;Arana Dinas;1173958749;314913332;angela.arana.dinas@hotmail.com
+
+%Liliana Arana participa activamente en los eventos.
+954;Liliana;Arana Dinas;1122305507;3137309042;liliana.arana.dinas@icesi.edu.co
+%Lorena Arana colabora con la universidad constantemente.
+955;Lorena;Arana Dinas;1157772526;3117497130;lorena.arana.dinas@icesi.edu.co
+
+%Idalia Arana debe actualizar la información de contacto.
+956;Idalia;Arana Dinas;1175550337;313593164;idalia.arana.dinas@hotmail.com
+
+
+%Viviana Arana colabora con la universidad constantemente.
+957;Viviana;Arana Dinas;111475553;3195837283;viviana.arana.dinas@icesi.edu.co
+%Santiago Buitrago debe actualizar la información de contacto.
+958;Santiago;Buitrago Dinas;1178744036;3151569036;santiago.buitrago.dinas@gmail.com
+%Natalia Buitrago tiene un gran compromiso con la institucion.
+959;Natalia;Buitrago Dinas;111457510;3183256132;natalia.buitrago.dinas@correo.icesi.edu.co
+
+%Juan Buitrago participa activamente en los eventos.
+960;Juan;Buitrago Dinas;1189842140;3134179707;juan.buitrago.dinas@hotmail.com
+
+%Manuel Buitrago tuvo uno de los mejores promedios de su promocion.
+961;Manuel;Buitrago Dinas;1127174806;3176969516;manuel.buitrago.dinas@hotmail.com
+
+%David Buitrago tiene reconocimiento en el medio politico.
+962;David;Buitrago Dinas;1114679037;3123198979;david.buitrago.dinas@gmail.com
+
+%Maryi Buitrago debe actualizar la información de contacto.
+963;Maryi;Buitrago Dinas;1152302476;3179117702;maryi.buitrago.dinas@icesi.edu.co
+
+%Angela Buitrago colabora con la universidad constantemente.
+964;Angela;Buitrago Dinas;1135693188;3193181486;angela.buitrago.dinas@icesi.edu.co
+%Liliana Buitrago debe actualizar la información de contacto.
+965;Liliana;Buitrago Dinas;1124122767;3148637531;liliana.buitrago.dinas@correo.icesi.edu.co
+
+
+%Lorena Buitrago colabora con la universidad constantemente.
+966;Lorena;Buitrago Dinas;1192766927;3190773977;lorena.buitrago.dinas@gmail.com
+%Idalia Buitrago colabora con la universidad constantemente.
+967;Idalia;Buitrago Dinas;1133793895;3198723737;idalia.buitrago.dinas@correo.icesi.edu.co
+%Viviana Buitrago tuvo uno de los mejores promedios de su promocion.
+968;Viviana;Buitrago Dinas;1123209026;3119536118;viviana.buitrago.dinas@correo.icesi.edu.co
+
+
+%Santiago Reyes tiene reconocimiento en el medio politico.
+969;Santiago;Reyes Villegas;1169380657;3154646881;santiago.reyes.villegas@gmail.com
+%Natalia Reyes colabora con la universidad constantemente.
+970;Natalia;Reyes Villegas;1110584052;311376124;natalia.reyes.villegas@correo.icesi.edu.co
+
+
+%Juan Reyes tiene un gran compromiso con la institucion.
+971;Juan;Reyes Villegas;1124641879;313589889;juan.reyes.villegas@correo.icesi.edu.co
+
+%Manuel Reyes debe actualizar la información de contacto.
+972;Manuel;Reyes Villegas;1156643215;313538655;manuel.reyes.villegas@gmail.com
+
+%David Reyes debe actualizar la información de contacto.
+973;David;Reyes Villegas;1199558021;3131934711;david.reyes.villegas@gmail.com
+%Maryi Reyes participa activamente en los eventos.
+974;Maryi;Reyes Villegas;1177037289;3144789340;maryi.reyes.villegas@hotmail.com
+
+
+%Angela Reyes colabora con la universidad constantemente.
+975;Angela;Reyes Villegas;1163445455;3156075148;angela.reyes.villegas@correo.icesi.edu.co
+%Liliana Reyes colabora con la universidad constantemente.
+976;Liliana;Reyes Villegas;1129792914;3116022390;liliana.reyes.villegas@gmail.com
+
+%Lorena Reyes tuvo uno de los mejores promedios de su promocion.
+977;Lorena;Reyes Villegas;1158242275;3110351446;lorena.reyes.villegas@icesi.edu.co
+
+
+%Idalia Reyes colabora con la universidad constantemente.
+978;Idalia;Reyes Villegas;1115709411;3168974761;idalia.reyes.villegas@correo.icesi.edu.co
+
+%Viviana Reyes participa activamente en los eventos.
+979;Viviana;Reyes Villegas;1198163759;3160096753;viviana.reyes.villegas@correo.icesi.edu.co
+
+%Santiago Garcia tuvo uno de los mejores promedios de su promocion.
+980;Santiago;Garcia Villegas;1141883932;3142062381;santiago.garcia.villegas@correo.icesi.edu.co
+
+%Natalia Garcia debe actualizar la información de contacto.
+981;Natalia;Garcia Villegas;1172413869;3159055063;natalia.garcia.villegas@icesi.edu.co
+
+
+%Juan Garcia tiene un gran compromiso con la institucion.
+982;Juan;Garcia Villegas;1113498694;314560978;juan.garcia.villegas@hotmail.com
+%Manuel Garcia tiene reconocimiento en el medio politico.
+983;Manuel;Garcia Villegas;1180002504;3168574881;manuel.garcia.villegas@correo.icesi.edu.co
+
+
+%David Garcia debe actualizar la información de contacto.
+984;David;Garcia Villegas;1114804678;319436046;david.garcia.villegas@hotmail.com
+
+
+%Maryi Garcia debe actualizar la información de contacto.
+985;Maryi;Garcia Villegas;1119956414;311002252;maryi.garcia.villegas@hotmail.com
+%Angela Garcia tuvo uno de los mejores promedios de su promocion.
+986;Angela;Garcia Villegas;1157912057;3151083584;angela.garcia.villegas@correo.icesi.edu.co
+%Liliana Garcia debe actualizar la información de contacto.
+987;Liliana;Garcia Villegas;1126325106;3141591419;liliana.garcia.villegas@correo.icesi.edu.co
+
+%Lorena Garcia tiene un gran compromiso con la institucion.
+988;Lorena;Garcia Villegas;1117548358;3127075214;lorena.garcia.villegas@correo.icesi.edu.co
+
+
+%Idalia Garcia colabora con la universidad constantemente.
+989;Idalia;Garcia Villegas;1175371155;3142020896;idalia.garcia.villegas@correo.icesi.edu.co
+
+%Viviana Garcia tiene reconocimiento en el medio politico.
+990;Viviana;Garcia Villegas;1131371142;312708336;viviana.garcia.villegas@gmail.com
+
+%Santiago Hurtado colabora con la universidad constantemente.
+991;Santiago;Hurtado Villegas;112197852;3164247220;santiago.hurtado.villegas@icesi.edu.co
+
+
+%Natalia Hurtado tuvo uno de los mejores promedios de su promocion.
+992;Natalia;Hurtado Villegas;1128722792;3173744015;natalia.hurtado.villegas@gmail.com
+%Juan Hurtado tiene un gran compromiso con la institucion.
+993;Juan;Hurtado Villegas;1145805164;3185948227;juan.hurtado.villegas@icesi.edu.co
+
+
+%Manuel Hurtado colabora con la universidad constantemente.
+994;Manuel;Hurtado Villegas;1155890730;3116172339;manuel.hurtado.villegas@correo.icesi.edu.co
+
+
+%David Hurtado tuvo uno de los mejores promedios de su promocion.
+995;David;Hurtado Villegas;1195178467;3158202239;david.hurtado.villegas@correo.icesi.edu.co
+%Maryi Hurtado tiene reconocimiento en el medio politico.
+996;Maryi;Hurtado Villegas;1192987249;312176961;maryi.hurtado.villegas@gmail.com
+%Angela Hurtado tiene un gran compromiso con la institucion.
+997;Angela;Hurtado Villegas;1134502636;3132319013;angela.hurtado.villegas@hotmail.com
+
+%Liliana Hurtado debe actualizar la información de contacto.
+998;Liliana;Hurtado Villegas;116488823;3148677644;liliana.hurtado.villegas@correo.icesi.edu.co
+%Lorena Hurtado colabora con la universidad constantemente.
+999;Lorena;Hurtado Villegas;1182957471;3145882902;lorena.hurtado.villegas@correo.icesi.edu.co
+
+%Idalia Hurtado participa activamente en los eventos.
+1000;Idalia;Hurtado Villegas;1152275638;3148911616;idalia.hurtado.villegas@hotmail.com
+
+%Viviana Hurtado tiene reconocimiento en el medio politico.
+1001;Viviana;Hurtado Villegas;1193788645;3178088189;viviana.hurtado.villegas@correo.icesi.edu.co
+%Santiago Bustamante tiene reconocimiento en el medio politico.
+1002;Santiago;Bustamante Villegas;1136687798;3118471578;santiago.bustamante.villegas@hotmail.com
+
+
+%Natalia Bustamante tiene reconocimiento en el medio politico.
+1003;Natalia;Bustamante Villegas;1118461684;3151341063;natalia.bustamante.villegas@hotmail.com
+%Juan Bustamante tiene reconocimiento en el medio politico.
+1004;Juan;Bustamante Villegas;1157665468;3165050226;juan.bustamante.villegas@gmail.com
+%Manuel Bustamante debe actualizar la información de contacto.
+1005;Manuel;Bustamante Villegas;1154694748;3169872270;manuel.bustamante.villegas@icesi.edu.co
+%David Bustamante debe actualizar la información de contacto.
+1006;David;Bustamante Villegas;1184466012;3165848246;david.bustamante.villegas@icesi.edu.co
+
+
+%Maryi Bustamante colabora con la universidad constantemente.
+1007;Maryi;Bustamante Villegas;1182029277;3146748981;maryi.bustamante.villegas@correo.icesi.edu.co
+
+%Angela Bustamante tiene reconocimiento en el medio politico.
+1008;Angela;Bustamante Villegas;1192751928;318184662;angela.bustamante.villegas@icesi.edu.co
+
+
+%Liliana Bustamante tiene reconocimiento en el medio politico.
+1009;Liliana;Bustamante Villegas;1145335821;3178193958;liliana.bustamante.villegas@gmail.com
+%Lorena Bustamante colabora con la universidad constantemente.
+1010;Lorena;Bustamante Villegas;1152019204;3117305542;lorena.bustamante.villegas@gmail.com
+
+
+%Idalia Bustamante tiene reconocimiento en el medio politico.
+1011;Idalia;Bustamante Villegas;1175265720;3178514636;idalia.bustamante.villegas@gmail.com
+%Viviana Bustamante colabora con la universidad constantemente.
+1012;Viviana;Bustamante Villegas;1164386467;3160719083;viviana.bustamante.villegas@gmail.com
+
+%Santiago Arciniegas colabora con la universidad constantemente.
+1013;Santiago;Arciniegas Villegas;1135147473;3190214266;santiago.arciniegas.villegas@hotmail.com
+
+%Natalia Arciniegas debe actualizar la información de contacto.
+1014;Natalia;Arciniegas Villegas;1177691096;3180592044;natalia.arciniegas.villegas@icesi.edu.co
+
+
+%Juan Arciniegas colabora con la universidad constantemente.
+1015;Juan;Arciniegas Villegas;1156190030;3132001783;juan.arciniegas.villegas@correo.icesi.edu.co
+
+
+%Manuel Arciniegas colabora con la universidad constantemente.
+1016;Manuel;Arciniegas Villegas;1141639256;3164824678;manuel.arciniegas.villegas@hotmail.com
+
+
+%David Arciniegas participa activamente en los eventos.
+1017;David;Arciniegas Villegas;1167093447;3142436606;david.arciniegas.villegas@gmail.com
+
+%Maryi Arciniegas tiene un gran compromiso con la institucion.
+1018;Maryi;Arciniegas Villegas;1143432558;3123378184;maryi.arciniegas.villegas@correo.icesi.edu.co
+%Angela Arciniegas tuvo uno de los mejores promedios de su promocion.
+1019;Angela;Arciniegas Villegas;1140280650;3118839131;angela.arciniegas.villegas@correo.icesi.edu.co
+
+
+%Liliana Arciniegas tiene reconocimiento en el medio politico.
+1020;Liliana;Arciniegas Villegas;1148844897;3189260857;liliana.arciniegas.villegas@correo.icesi.edu.co
+
+%Lorena Arciniegas tiene reconocimiento en el medio politico.
+1021;Lorena;Arciniegas Villegas;1164952348;3139867142;lorena.arciniegas.villegas@icesi.edu.co
+
+%Idalia Arciniegas colabora con la universidad constantemente.
+1022;Idalia;Arciniegas Villegas;1186148707;3113286068;idalia.arciniegas.villegas@gmail.com
+
+%Viviana Arciniegas colabora con la universidad constantemente.
+1023;Viviana;Arciniegas Villegas;1117030385;3195802991;viviana.arciniegas.villegas@correo.icesi.edu.co
+%Santiago Lopez debe actualizar la información de contacto.
+1024;Santiago;Lopez Villegas;1143590765;3168297275;santiago.lopez.villegas@hotmail.com
+
+%Natalia Lopez colabora con la universidad constantemente.
+1025;Natalia;Lopez Villegas;1127793122;3133115831;natalia.lopez.villegas@correo.icesi.edu.co
+%Juan Lopez colabora con la universidad constantemente.
+1026;Juan;Lopez Villegas;116293334;3122012293;juan.lopez.villegas@correo.icesi.edu.co
+
+%Manuel Lopez colabora con la universidad constantemente.
+1027;Manuel;Lopez Villegas;1156619739;3149257799;manuel.lopez.villegas@correo.icesi.edu.co
+%David Lopez tiene reconocimiento en el medio politico.
+1028;David;Lopez Villegas;1135507349;3177971056;david.lopez.villegas@hotmail.com
+
+%Maryi Lopez participa activamente en los eventos.
+1029;Maryi;Lopez Villegas;1148748591;3149922517;maryi.lopez.villegas@correo.icesi.edu.co
+
+dafadsfdafdf
+%Angela Lopez tuvo uno de los mejores promedios de su promocion.
+1030;Angela;Lopez Villegas;1192069999;3121278180;angela.lopez.villegas@gmail.com
+%Liliana Lopez colabora con la universidad constantemente.
+1031;Liliana;Lopez Villegas;116318036;314138863;liliana.lopez.villegas@correo.icesi.edu.co
+%Lorena Lopez colabora con la universidad constantemente.
+1032;Lorena;Lopez Villegas;1126719961;3139913614;lorena.lopez.villegas@gmail.com
+
+%Idalia Lopez colabora con la universidad constantemente.
+1033;Idalia;Lopez Villegas;1120196493;312592440;idalia.lopez.villegas@icesi.edu.co
+
+
+%Viviana Lopez debe actualizar la información de contacto.
+1034;Viviana;Lopez Villegas;112599212;3123341759;viviana.lopez.villegas@icesi.edu.co
+
+
+%Santiago Villota tiene un gran compromiso con la institucion.
+1035;Santiago;Villota Villegas;111221683;3141461741;santiago.villota.villegas@hotmail.com
+
+%Natalia Villota tuvo uno de los mejores promedios de su promocion.
+1036;Natalia;Villota Villegas;1179821217;3167981402;natalia.villota.villegas@gmail.com
+
+
+%Juan Villota tuvo uno de los mejores promedios de su promocion.
+1037;Juan;Villota Villegas;1112457350;3117825548;juan.villota.villegas@icesi.edu.co
+
+%Manuel Villota tiene reconocimiento en el medio politico.
+1038;Manuel;Villota Villegas;1178411034;3143805897;manuel.villota.villegas@hotmail.com
+
+%David Villota debe actualizar la información de contacto.
+1039;David;Villota Villegas;1138939005;3133342574;david.villota.villegas@hotmail.com
+
+
+%Maryi Villota tiene reconocimiento en el medio politico.
+1040;Maryi;Villota Villegas;1144223625;3197925018;maryi.villota.villegas@gmail.com
+
+
+%Angela Villota participa activamente en los eventos.
+1041;Angela;Villota Villegas;1138118561;3160423981;angela.villota.villegas@hotmail.com
+
+%Liliana Villota tiene un gran compromiso con la institucion.
+1042;Liliana;Villota Villegas;1172622517;3189456957;liliana.villota.villegas@correo.icesi.edu.co
+%Lorena Villota tiene reconocimiento en el medio politico.
+1043;Lorena;Villota Villegas;1192830942;3129513817;lorena.villota.villegas@hotmail.com
+%Idalia Villota tuvo uno de los mejores promedios de su promocion.
+1044;Idalia;Villota Villegas;1196751684;3165330997;idalia.villota.villegas@correo.icesi.edu.co
+
+%Viviana Villota tuvo uno de los mejores promedios de su promocion.
+1045;Viviana;Villota Villegas;1139094091;3147362107;viviana.villota.villegas@gmail.com
+
+%Santiago Piedrahita colabora con la universidad constantemente.
+1046;Santiago;Piedrahita Villegas;1121159305;3198868337;santiago.piedrahita.villegas@icesi.edu.co
+%Natalia Piedrahita tuvo uno de los mejores promedios de su promocion.
+1047;Natalia;Piedrahita Villegas;1163417058;3154319674;natalia.piedrahita.villegas@gmail.com
+
+%Juan Piedrahita colabora con la universidad constantemente.
+1048;Juan;Piedrahita Villegas;1177332867;3122070697;juan.piedrahita.villegas@icesi.edu.co
+
+
+%Manuel Piedrahita tuvo uno de los mejores promedios de su promocion.
+1049;Manuel;Piedrahita Villegas;1158529125;3173703480;manuel.piedrahita.villegas@gmail.com
+%David Piedrahita tuvo uno de los mejores promedios de su promocion.
+1050;David;Piedrahita Villegas;1195380821;3188503266;david.piedrahita.villegas@hotmail.com
+
+%Maryi Piedrahita colabora con la universidad constantemente.
+1051;Maryi;Piedrahita Villegas;1192556210;3198175666;maryi.piedrahita.villegas@gmail.com
+
+
+%Angela Piedrahita colabora con la universidad constantemente.
+1052;Angela;Piedrahita Villegas;1125646834;316490623;angela.piedrahita.villegas@gmail.com
+
+%Liliana Piedrahita colabora con la universidad constantemente.
+1053;Liliana;Piedrahita Villegas;1184659089;3196849095;liliana.piedrahita.villegas@hotmail.com
+
+
+%Lorena Piedrahita tiene reconocimiento en el medio politico.
+1054;Lorena;Piedrahita Villegas;115468382;3182051286;lorena.piedrahita.villegas@icesi.edu.co
+%Idalia Piedrahita debe actualizar la información de contacto.
+1055;Idalia;Piedrahita Villegas;1190011229;3112476676;idalia.piedrahita.villegas@correo.icesi.edu.co
+
+%Viviana Piedrahita tiene un gran compromiso con la institucion.
+1056;Viviana;Piedrahita Villegas;1149592302;317578606;viviana.piedrahita.villegas@hotmail.com
+
+%Santiago Gomez debe actualizar la información de contacto.
+1057;Santiago;Gomez Villegas;1178732350;3150601318;santiago.gomez.villegas@hotmail.com
+
+%Natalia Gomez tuvo uno de los mejores promedios de su promocion.
+1058;Natalia;Gomez Villegas;1147935634;3125732694;natalia.gomez.villegas@hotmail.com
+%Juan Gomez colabora con la universidad constantemente.
+1059;Juan;Gomez Villegas;1147007027;3141937857;juan.gomez.villegas@icesi.edu.co
+%Manuel Gomez tiene un gran compromiso con la institucion.
+1060;Manuel;Gomez Villegas;1181430889;3188340157;manuel.gomez.villegas@correo.icesi.edu.co
+%David Gomez debe actualizar la información de contacto.
+1061;David;Gomez Villegas;1124106062;3185527869;david.gomez.villegas@hotmail.com
+
+
+%Maryi Gomez tuvo uno de los mejores promedios de su promocion.
+1062;Maryi;Gomez Villegas;1115620673;3117305415;maryi.gomez.villegas@icesi.edu.co
+%Angela Gomez tuvo uno de los mejores promedios de su promocion.
+1063;Angela;Gomez Villegas;1136391484;3153352777;angela.gomez.villegas@icesi.edu.co
+
+%Liliana Gomez debe actualizar la información de contacto.
+1064;Liliana;Gomez Villegas;112467351;3158619425;liliana.gomez.villegas@hotmail.com
+
+%Lorena Gomez tiene un gran compromiso con la institucion.
+1065;Lorena;Gomez Villegas;1158624446;3157110220;lorena.gomez.villegas@hotmail.com
+%Idalia Gomez tuvo uno de los mejores promedios de su promocion.
+1066;Idalia;Gomez Villegas;1113519237;311508638;idalia.gomez.villegas@gmail.com
+%Viviana Gomez tiene reconocimiento en el medio politico.
+1067;Viviana;Gomez Villegas;1124008486;3144753172;viviana.gomez.villegas@correo.icesi.edu.co
+
+%Santiago Arana tiene un gran compromiso con la institucion.
+1068;Santiago;Arana Villegas;1142125569;3112599104;santiago.arana.villegas@hotmail.com
+%Natalia Arana tiene reconocimiento en el medio politico.
+1069;Natalia;Arana Villegas;1177388929;318160805;natalia.arana.villegas@icesi.edu.co
+
+
+%Juan Arana participa activamente en los eventos.
+1070;Juan;Arana Villegas;1148818325;319677581;juan.arana.villegas@icesi.edu.co
+
+%Manuel Arana tiene reconocimiento en el medio politico.
+1071;Manuel;Arana Villegas;1140892505;3143954691;manuel.arana.villegas@icesi.edu.co
+
+
+%David Arana tiene reconocimiento en el medio politico.
+1072;David;Arana Villegas;1182279661;3171213659;david.arana.villegas@hotmail.com
+
+%Maryi Arana debe actualizar la información de contacto.
+1073;Maryi;Arana Villegas;1118029502;3116993383;maryi.arana.villegas@correo.icesi.edu.co
+
+%Angela Arana colabora con la universidad constantemente.
+1074;Angela;Arana Villegas;1188489645;3146263784;angela.arana.villegas@gmail.com
+
+
+%Liliana Arana tiene un gran compromiso con la institucion.
+1075;Liliana;Arana Villegas;1190894084;3130472998;liliana.arana.villegas@gmail.com
+
+
+%Lorena Arana tuvo uno de los mejores promedios de su promocion.
+1076;Lorena;Arana Villegas;1122699591;3194710276;lorena.arana.villegas@hotmail.com
+
+
+%Idalia Arana colabora con la universidad constantemente.
+1077;Idalia;Arana Villegas;1165586676;317830974;idalia.arana.villegas@gmail.com
+
+
+%Viviana Arana tiene un gran compromiso con la institucion.
+1078;Viviana;Arana Villegas;112802237;3149995292;viviana.arana.villegas@gmail.com
+%Santiago Buitrago tiene un gran compromiso con la institucion.
+1079;Santiago;Buitrago Villegas;1193345601;3139794615;santiago.buitrago.villegas@correo.icesi.edu.co
+
+
+%Natalia Buitrago colabora con la universidad constantemente.
+1080;Natalia;Buitrago Villegas;1188470660;3155591872;natalia.buitrago.villegas@gmail.com
+
+
+%Juan Buitrago colabora con la universidad constantemente.
+1081;Juan;Buitrago Villegas;1139113409;3144935706;juan.buitrago.villegas@icesi.edu.co
+%Manuel Buitrago colabora con la universidad constantemente.
+1082;Manuel;Buitrago Villegas;1138113679;3182411104;manuel.buitrago.villegas@icesi.edu.co
+
+
+%David Buitrago tiene reconocimiento en el medio politico.
+1083;David;Buitrago Villegas;1185376697;3133986867;david.buitrago.villegas@gmail.com
+
+%Maryi Buitrago tiene un gran compromiso con la institucion.
+1084;Maryi;Buitrago Villegas;1185246259;3187176576;maryi.buitrago.villegas@icesi.edu.co
+
+
+%Angela Buitrago tiene un gran compromiso con la institucion.
+1085;Angela;Buitrago Villegas;1147106371;3156944958;angela.buitrago.villegas@correo.icesi.edu.co
+
+%Liliana Buitrago colabora con la universidad constantemente.
+1086;Liliana;Buitrago Villegas;1187299209;3121504266;liliana.buitrago.villegas@hotmail.com
+
+%Lorena Buitrago tiene un gran compromiso con la institucion.
+1087;Lorena;Buitrago Villegas;1133488736;3147631319;lorena.buitrago.villegas@hotmail.com
+%Idalia Buitrago tuvo uno de los mejores promedios de su promocion.
+1088;Idalia;Buitrago Villegas;1133193228;3148008038;idalia.buitrago.villegas@gmail.com
+
+
+%Viviana Buitrago tiene un gran compromiso con la institucion.
+1089;Viviana;Buitrago Villegas;1123875938;3162898180;viviana.buitrago.villegas@hotmail.com
+%Santiago Reyes tiene reconocimiento en el medio politico.
+1090;Santiago;Reyes Fernandez;1151178182;3163207992;santiago.reyes.fernandez@gmail.com
+
+
+%Natalia Reyes tuvo uno de los mejores promedios de su promocion.
+1091;Natalia;Reyes Fernandez;1128997672;3143065087;natalia.reyes.fernandez@icesi.edu.co
+
+%Juan Reyes debe actualizar la información de contacto.
+1092;Juan;Reyes Fernandez;1135489227;3167350924;juan.reyes.fernandez@icesi.edu.co
+%Manuel Reyes tiene un gran compromiso con la institucion.
+1093;Manuel;Reyes Fernandez;1183964282;3196438772;manuel.reyes.fernandez@gmail.com
+%David Reyes tiene reconocimiento en el medio politico.
+1094;David;Reyes Fernandez;119297204;3158459148;david.reyes.fernandez@gmail.com
+
+
+%Maryi Reyes tiene un gran compromiso con la institucion.
+1095;Maryi;Reyes Fernandez;1166954697;3133914356;maryi.reyes.fernandez@correo.icesi.edu.co
+
+
+%Angela Reyes tuvo uno de los mejores promedios de su promocion.
+1096;Angela;Reyes Fernandez;1162231496;3162006023;angela.reyes.fernandez@correo.icesi.edu.co
+
+%Liliana Reyes tiene reconocimiento en el medio politico.
+1097;Liliana;Reyes Fernandez;1156720921;3149675368;liliana.reyes.fernandez@gmail.com
+%Lorena Reyes tiene un gran compromiso con la institucion.
+1098;Lorena;Reyes Fernandez;1143429341;3138573536;lorena.reyes.fernandez@hotmail.com
+%Idalia Reyes tiene un gran compromiso con la institucion.
+1099;Idalia;Reyes Fernandez;1133154053;3160904541;idalia.reyes.fernandez@icesi.edu.co
+
+%Viviana Reyes tiene un gran compromiso con la institucion.
+1100;Viviana;Reyes Fernandez;1155616343;3139679285;viviana.reyes.fernandez@gmail.com
+%Santiago Garcia colabora con la universidad constantemente.
+1101;Santiago;Garcia Fernandez;1188145134;3183186933;santiago.garcia.fernandez@hotmail.com
+
+
+%Natalia Garcia tuvo uno de los mejores promedios de su promocion.
+1102;Natalia;Garcia Fernandez;1182148750;316667310;natalia.garcia.fernandez@correo.icesi.edu.co
+
+%Juan Garcia tuvo uno de los mejores promedios de su promocion.
+1103;Juan;Garcia Fernandez;1148837370;3128931406;juan.garcia.fernandez@icesi.edu.co
+
+%Manuel Garcia colabora con la universidad constantemente.
+1104;Manuel;Garcia Fernandez;1187248779;3129139193;manuel.garcia.fernandez@correo.icesi.edu.co
+
+%David Garcia tiene reconocimiento en el medio politico.
+1105;David;Garcia Fernandez;1122104572;3173656030;david.garcia.fernandez@icesi.edu.co
+%Maryi Garcia tuvo uno de los mejores promedios de su promocion.
+1106;Maryi;Garcia Fernandez;1159840146;3197858896;maryi.garcia.fernandez@hotmail.com
+
+%Angela Garcia tiene un gran compromiso con la institucion.
+1107;Angela;Garcia Fernandez;1147703922;3139377569;angela.garcia.fernandez@gmail.com
+%Liliana Garcia tiene reconocimiento en el medio politico.
+1108;Liliana;Garcia Fernandez;1123441643;312396847;liliana.garcia.fernandez@gmail.com
+
+%Lorena Garcia tiene reconocimiento en el medio politico.
+1109;Lorena;Garcia Fernandez;1198039491;3195614634;lorena.garcia.fernandez@gmail.com
+
+%Idalia Garcia tuvo uno de los mejores promedios de su promocion.
+1110;Idalia;Garcia Fernandez;118502447;3135985820;idalia.garcia.fernandez@icesi.edu.co
+
+%Viviana Garcia tuvo uno de los mejores promedios de su promocion.
+1111;Viviana;Garcia Fernandez;1184836156;3176658733;viviana.garcia.fernandez@gmail.com
+
+
+%Santiago Hurtado participa activamente en los eventos.
+1112;Santiago;Hurtado Fernandez;1179363613;3179143131;santiago.hurtado.fernandez@correo.icesi.edu.co
+
+%Natalia Hurtado colabora con la universidad constantemente.
+1113;Natalia;Hurtado Fernandez;1127261926;3158786873;natalia.hurtado.fernandez@hotmail.com
+
+
+%Juan Hurtado debe actualizar la información de contacto.
+1114;Juan;Hurtado Fernandez;1125705977;3139570807;juan.hurtado.fernandez@gmail.com
+
+
+%Manuel Hurtado colabora con la universidad constantemente.
+1115;Manuel;Hurtado Fernandez;112149880;3132984011;manuel.hurtado.fernandez@correo.icesi.edu.co
+
+%David Hurtado colabora con la universidad constantemente.
+1116;David;Hurtado Fernandez;1167895464;3128677313;david.hurtado.fernandez@gmail.com
+%Maryi Hurtado tuvo uno de los mejores promedios de su promocion.
+1117;Maryi;Hurtado Fernandez;1134959249;3147513059;maryi.hurtado.fernandez@correo.icesi.edu.co
+%Angela Hurtado tuvo uno de los mejores promedios de su promocion.
+1118;Angela;Hurtado Fernandez;1187062623;3154771505;angela.hurtado.fernandez@hotmail.com
+%Liliana Hurtado tuvo uno de los mejores promedios de su promocion.
+1119;Liliana;Hurtado Fernandez;1199978496;3180314780;liliana.hurtado.fernandez@correo.icesi.edu.co
+
+%Lorena Hurtado participa activamente en los eventos.
+1120;Lorena;Hurtado Fernandez;1174053944;319561507;lorena.hurtado.fernandez@hotmail.com
+
+%Idalia Hurtado tiene un gran compromiso con la institucion.
+1121;Idalia;Hurtado Fernandez;1180011407;3133739411;idalia.hurtado.fernandez@icesi.edu.co
+
+%Viviana Hurtado tiene un gran compromiso con la institucion.
+1122;Viviana;Hurtado Fernandez;1196568299;3118048235;viviana.hurtado.fernandez@hotmail.com
+
+
+%Santiago Bustamante tiene un gran compromiso con la institucion.
+1123;Santiago;Bustamante Fernandez;1189400631;3123506344;santiago.bustamante.fernandez@gmail.com
+
+
+%Natalia Bustamante tuvo uno de los mejores promedios de su promocion.
+1124;Natalia;Bustamante Fernandez;1110842677;3112235309;natalia.bustamante.fernandez@icesi.edu.co
+
+%Juan Bustamante tiene reconocimiento en el medio politico.
+1125;Juan;Bustamante Fernandez;1189731281;3160057805;juan.bustamante.fernandez@hotmail.com
+
+
+%Manuel Bustamante tiene un gran compromiso con la institucion.
+1126;Manuel;Bustamante Fernandez;1193177095;3176284146;manuel.bustamante.fernandez@icesi.edu.co
+
+
+%David Bustamante tuvo uno de los mejores promedios de su promocion.
+1127;David;Bustamante Fernandez;1124920544;3193616884;david.bustamante.fernandez@icesi.edu.co
+%Maryi Bustamante colabora con la universidad constantemente.
+1128;Maryi;Bustamante Fernandez;1137389412;3194825044;maryi.bustamante.fernandez@correo.icesi.edu.co
+
+
+%Angela Bustamante tiene reconocimiento en el medio politico.
+1129;Angela;Bustamante Fernandez;1171637510;3114279968;angela.bustamante.fernandez@hotmail.com
+
+
+%Liliana Bustamante debe actualizar la información de contacto.
+1130;Liliana;Bustamante Fernandez;1156966502;3117092116;liliana.bustamante.fernandez@gmail.com
+%Lorena Bustamante tuvo uno de los mejores promedios de su promocion.
+1131;Lorena;Bustamante Fernandez;1142110713;3165367972;lorena.bustamante.fernandez@gmail.com
+
+
+%Idalia Bustamante participa activamente en los eventos.
+1132;Idalia;Bustamante Fernandez;1145229055;3127381935;idalia.bustamante.fernandez@correo.icesi.edu.co
+
+%Viviana Bustamante tiene un gran compromiso con la institucion.
+1133;Viviana;Bustamante Fernandez;1189369164;3142030450;viviana.bustamante.fernandez@icesi.edu.co
+
+%Santiago Arciniegas tiene reconocimiento en el medio politico.
+1134;Santiago;Arciniegas Fernandez;1183253065;3187042811;santiago.arciniegas.fernandez@correo.icesi.edu.co
+
+%Natalia Arciniegas tiene un gran compromiso con la institucion.
+1135;Natalia;Arciniegas Fernandez;1149825935;317741108;natalia.arciniegas.fernandez@hotmail.com
+
+%Juan Arciniegas debe actualizar la información de contacto.
+1136;Juan;Arciniegas Fernandez;1143591794;3184783633;juan.arciniegas.fernandez@icesi.edu.co
+
+
+%Manuel Arciniegas tuvo uno de los mejores promedios de su promocion.
+1137;Manuel;Arciniegas Fernandez;1114851627;3168842794;manuel.arciniegas.fernandez@icesi.edu.co
+
+
+%David Arciniegas tuvo uno de los mejores promedios de su promocion.
+1138;David;Arciniegas Fernandez;1118017854;31548258;david.arciniegas.fernandez@correo.icesi.edu.co
+
+%Maryi Arciniegas colabora con la universidad constantemente.
+1139;Maryi;Arciniegas Fernandez;1151598344;311694609;maryi.arciniegas.fernandez@hotmail.com
+%Angela Arciniegas participa activamente en los eventos.
+1140;Angela;Arciniegas Fernandez;1199555759;3153533430;angela.arciniegas.fernandez@gmail.com
+
+%Liliana Arciniegas tiene reconocimiento en el medio politico.
+1141;Liliana;Arciniegas Fernandez;1193823085;3128243232;liliana.arciniegas.fernandez@hotmail.com
+
+
+%Lorena Arciniegas colabora con la universidad constantemente.
+1142;Lorena;Arciniegas Fernandez;1173001135;3167135299;lorena.arciniegas.fernandez@gmail.com
+
+
+%Idalia Arciniegas tuvo uno de los mejores promedios de su promocion.
+1143;Idalia;Arciniegas Fernandez;1195822711;3183985209;idalia.arciniegas.fernandez@hotmail.com
+
+
+%Viviana Arciniegas participa activamente en los eventos.
+1144;Viviana;Arciniegas Fernandez;1113923535;3142691561;viviana.arciniegas.fernandez@gmail.com
+
+
+%Santiago Lopez tiene reconocimiento en el medio politico.
+1145;Santiago;Lopez Fernandez;1186830982;3117306318;santiago.lopez.fernandez@icesi.edu.co
+
+%Natalia Lopez tiene un gran compromiso con la institucion.
+1146;Natalia;Lopez Fernandez;1163825581;3189843342;natalia.lopez.fernandez@icesi.edu.co
+%Juan Lopez tiene un gran compromiso con la institucion.
+1147;Juan;Lopez Fernandez;1179341393;311078822;juan.lopez.fernandez@hotmail.com
+
+
+%Manuel Lopez tuvo uno de los mejores promedios de su promocion.
+1148;Manuel;Lopez Fernandez;1138681942;3114172962;manuel.lopez.fernandez@hotmail.com
+
+
+%David Lopez colabora con la universidad constantemente.
+1149;David;Lopez Fernandez;1172807824;3126166856;david.lopez.fernandez@hotmail.com
+%Maryi Lopez tiene un gran compromiso con la institucion.
+1150;Maryi;Lopez Fernandez;1139507454;3112480710;maryi.lopez.fernandez@hotmail.com
+
+%Angela Lopez tiene reconocimiento en el medio politico.
+1151;Angela;Lopez Fernandez;1154038337;3182134729;angela.lopez.fernandez@hotmail.com
+
+%Liliana Lopez debe actualizar la información de contacto.
+1152;Liliana;Lopez Fernandez;1166904437;3172645854;liliana.lopez.fernandez@correo.icesi.edu.co
+
+%Lorena Lopez tiene un gran compromiso con la institucion.
+1153;Lorena;Lopez Fernandez;1127335696;3112972504;lorena.lopez.fernandez@gmail.com
+
+
+%Idalia Lopez debe actualizar la información de contacto.
+1154;Idalia;Lopez Fernandez;1196715074;3118474063;idalia.lopez.fernandez@gmail.com
+
+%Viviana Lopez tiene un gran compromiso con la institucion.
+1155;Viviana;Lopez Fernandez;1111051469;3165047682;viviana.lopez.fernandez@gmail.com
+%Santiago Villota tiene reconocimiento en el medio politico.
+1156;Santiago;Villota Fernandez;1150955502;3180265542;santiago.villota.fernandez@correo.icesi.edu.co
+
+
+%Natalia Villota tiene un gran compromiso con la institucion.
+1157;Natalia;Villota Fernandez;1112708888;3120761425;natalia.villota.fernandez@hotmail.com
+%Juan Villota tuvo uno de los mejores promedios de su promocion.
+1158;Juan;Villota Fernandez;1197133992;319045148;juan.villota.fernandez@hotmail.com
+
+%Manuel Villota colabora con la universidad constantemente.
+1159;Manuel;Villota Fernandez;1142212879;3134532205;manuel.villota.fernandez@hotmail.com
+
+
+%David Villota colabora con la universidad constantemente.
+1160;David;Villota Fernandez;1129856451;3186477773;david.villota.fernandez@correo.icesi.edu.co
+
+%Maryi Villota debe actualizar la información de contacto.
+1161;Maryi;Villota Fernandez;1141903979;3157749360;maryi.villota.fernandez@gmail.com
+%Angela Villota participa activamente en los eventos.
+1162;Angela;Villota Fernandez;1131298222;3113449385;angela.villota.fernandez@hotmail.com
+%Liliana Villota colabora con la universidad constantemente.
+1163;Liliana;Villota Fernandez;113326155;3156233529;liliana.villota.fernandez@hotmail.com
+
+%Lorena Villota participa activamente en los eventos.
+1164;Lorena;Villota Fernandez;1171671932;3188126076;lorena.villota.fernandez@correo.icesi.edu.co
+%Idalia Villota tiene reconocimiento en el medio politico.
+1165;Idalia;Villota Fernandez;113566771;3187510501;idalia.villota.fernandez@hotmail.com
+
+
+%Viviana Villota participa activamente en los eventos.
+1166;Viviana;Villota Fernandez;1197246920;319010538;viviana.villota.fernandez@gmail.com
+%Santiago Piedrahita tiene un gran compromiso con la institucion.
+1167;Santiago;Piedrahita Fernandez;1128890270;3115849506;santiago.piedrahita.fernandez@gmail.com
+%Natalia Piedrahita tiene un gran compromiso con la institucion.
+1168;Natalia;Piedrahita Fernandez;1161776607;3160097407;natalia.piedrahita.fernandez@correo.icesi.edu.co
+
+%Juan Piedrahita participa activamente en los eventos.
+1169;Juan;Piedrahita Fernandez;1160125446;31536546;juan.piedrahita.fernandez@icesi.edu.co
+
+%Manuel Piedrahita debe actualizar la información de contacto.
+1170;Manuel;Piedrahita Fernandez;1187365865;3153685936;manuel.piedrahita.fernandez@hotmail.com
+
+
+%David Piedrahita tiene reconocimiento en el medio politico.
+1171;David;Piedrahita Fernandez;1172879349;3197247881;david.piedrahita.fernandez@gmail.com
+
+
+%Maryi Piedrahita tiene reconocimiento en el medio politico.
+1172;Maryi;Piedrahita Fernandez;1192861305;3121740520;maryi.piedrahita.fernandez@icesi.edu.co
+
+%Angela Piedrahita debe actualizar la información de contacto.
+1173;Angela;Piedrahita Fernandez;1156139318;3163658286;angela.piedrahita.fernandez@correo.icesi.edu.co
+%Liliana Piedrahita tuvo uno de los mejores promedios de su promocion.
+1174;Liliana;Piedrahita Fernandez;111773140;3158896580;liliana.piedrahita.fernandez@correo.icesi.edu.co
+
+
+%Lorena Piedrahita tiene un gran compromiso con la institucion.
+1175;Lorena;Piedrahita Fernandez;1175187737;3158563304;lorena.piedrahita.fernandez@gmail.com
+%Idalia Piedrahita tiene reconocimiento en el medio politico.
+1176;Idalia;Piedrahita Fernandez;1137538061;3129291404;idalia.piedrahita.fernandez@gmail.com
+
+%Viviana Piedrahita debe actualizar la información de contacto.
+1177;Viviana;Piedrahita Fernandez;1198992552;3168814134;viviana.piedrahita.fernandez@hotmail.com
+
+
+%Santiago Gomez debe actualizar la información de contacto.
+1178;Santiago;Gomez Fernandez;1131608374;3155356512;santiago.gomez.fernandez@hotmail.com
+%Natalia Gomez tuvo uno de los mejores promedios de su promocion.
+1179;Natalia;Gomez Fernandez;1178349730;3190258457;natalia.gomez.fernandez@correo.icesi.edu.co
+%Juan Gomez debe actualizar la información de contacto.
+1180;Juan;Gomez Fernandez;119403402;319540184;juan.gomez.fernandez@hotmail.com
+
+%Manuel Gomez tiene reconocimiento en el medio politico.
+1181;Manuel;Gomez Fernandez;1199042238;3127649933;manuel.gomez.fernandez@icesi.edu.co
+
+
+%David Gomez tiene reconocimiento en el medio politico.
+1182;David;Gomez Fernandez;1180584925;3129635826;david.gomez.fernandez@gmail.com
+
+%Maryi Gomez participa activamente en los eventos.
+1183;Maryi;Gomez Fernandez;1144143321;3164133658;maryi.gomez.fernandez@hotmail.com
+%Angela Gomez colabora con la universidad constantemente.
+1184;Angela;Gomez Fernandez;1143419267;3174973837;angela.gomez.fernandez@hotmail.com
+
+
+%Liliana Gomez participa activamente en los eventos.
+1185;Liliana;Gomez Fernandez;1181330170;3183434460;liliana.gomez.fernandez@icesi.edu.co
+
+
+%Lorena Gomez colabora con la universidad constantemente.
+1186;Lorena;Gomez Fernandez;1118164364;3134191711;lorena.gomez.fernandez@gmail.com
+
+
+%Idalia Gomez participa activamente en los eventos.
+1187;Idalia;Gomez Fernandez;1144687367;317269335;idalia.gomez.fernandez@correo.icesi.edu.co
+%Viviana Gomez tiene reconocimiento en el medio politico.
+1188;Viviana;Gomez Fernandez;1151470929;3185629137;viviana.gomez.fernandez@correo.icesi.edu.co
+
+%Santiago Arana tiene reconocimiento en el medio politico.
+1189;Santiago;Arana Fernandez;115967735;3136774966;santiago.arana.fernandez@gmail.com
+
+%Natalia Arana tiene reconocimiento en el medio politico.
+1190;Natalia;Arana Fernandez;1182712683;3198601867;natalia.arana.fernandez@gmail.com
+
+%Juan Arana debe actualizar la información de contacto.
+1191;Juan;Arana Fernandez;1127641540;3159885729;juan.arana.fernandez@correo.icesi.edu.co
+%Manuel Arana tuvo uno de los mejores promedios de su promocion.
+1192;Manuel;Arana Fernandez;1133961286;3147890163;manuel.arana.fernandez@gmail.com
+%David Arana tiene reconocimiento en el medio politico.
+1193;David;Arana Fernandez;1159303266;316617137;david.arana.fernandez@gmail.com
+
+
+%Maryi Arana tiene un gran compromiso con la institucion.
+1194;Maryi;Arana Fernandez;1177997518;3194734698;maryi.arana.fernandez@correo.icesi.edu.co
+
+%Angela Arana participa activamente en los eventos.
+1195;Angela;Arana Fernandez;1180118430;311104217;angela.arana.fernandez@correo.icesi.edu.co
+
+%Liliana Arana tiene un gran compromiso con la institucion.
+1196;Liliana;Arana Fernandez;1153300901;3165464760;liliana.arana.fernandez@correo.icesi.edu.co
+
+%Lorena Arana tiene un gran compromiso con la institucion.
+1197;Lorena;Arana Fernandez;112981248;3173013858;lorena.arana.fernandez@correo.icesi.edu.co
+%Idalia Arana tiene reconocimiento en el medio politico.
+1198;Idalia;Arana Fernandez;1131385858;3133590659;idalia.arana.fernandez@gmail.com
+
+%Viviana Arana colabora con la universidad constantemente.
+1199;Viviana;Arana Fernandez;1140917180;3151594618;viviana.arana.fernandez@gmail.com
+%Santiago Buitrago debe actualizar la información de contacto.
+1200;Santiago;Buitrago Fernandez;11153196;3182774343;santiago.buitrago.fernandez@correo.icesi.edu.co
+%Natalia Buitrago participa activamente en los eventos.
+1201;Natalia;Buitrago Fernandez;1193002726;3173147160;natalia.buitrago.fernandez@gmail.com
+%Juan Buitrago participa activamente en los eventos.
+1202;Juan;Buitrago Fernandez;117101544;3196549093;juan.buitrago.fernandez@correo.icesi.edu.co
+%Manuel Buitrago participa activamente en los eventos.
+1203;Manuel;Buitrago Fernandez;1135688041;3187092847;manuel.buitrago.fernandez@gmail.com
+
+%David Buitrago debe actualizar la información de contacto.
+1204;David;Buitrago Fernandez;118294109;3185991399;david.buitrago.fernandez@icesi.edu.co
+
+
+%Maryi Buitrago debe actualizar la información de contacto.
+1205;Maryi;Buitrago Fernandez;115896337;3147087697;maryi.buitrago.fernandez@icesi.edu.co
+%Angela Buitrago participa activamente en los eventos.
+1206;Angela;Buitrago Fernandez;1192901950;3128754984;angela.buitrago.fernandez@icesi.edu.co
+
+
+%Liliana Buitrago colabora con la universidad constantemente.
+1207;Liliana;Buitrago Fernandez;1134637195;3121773331;liliana.buitrago.fernandez@hotmail.com
+
+%Lorena Buitrago participa activamente en los eventos.
+1208;Lorena;Buitrago Fernandez;1198945659;3151959067;lorena.buitrago.fernandez@correo.icesi.edu.co
+
+%Idalia Buitrago colabora con la universidad constantemente.
+1209;Idalia;Buitrago Fernandez;1134109289;3154776161;idalia.buitrago.fernandez@hotmail.com
+%Viviana Buitrago debe actualizar la información de contacto.
+1210;Viviana;Buitrago Fernandez;113533257;3147379972;viviana.buitrago.fernandez@icesi.edu.co
+

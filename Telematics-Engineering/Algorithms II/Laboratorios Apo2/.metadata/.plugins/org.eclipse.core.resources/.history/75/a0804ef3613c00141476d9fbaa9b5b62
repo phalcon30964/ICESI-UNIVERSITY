@@ -1,0 +1,42 @@
+package TadPila;
+
+public class PruebaPila {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		
+		
+		Pila<String> pila = new Pila<String>();
+		
+		for (int i = 1; i < 10; i++) {
+			
+			pila.push(i+"");
+			System.out.println("Se agrego a la pila : "+i);
+			
+		}
+		
+		System.out.println("La pila quedo asi: ");
+		pila.print();
+		
+		System.out.println("El tope es : "+pila.peek());
+		
+		try {
+			System.out.println("Se procede a eliminar el tope"+pila.pop());
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		System.out.println("La pila quedo asi: ");
+		pila.print();
+		
+		
+		
+		
+
+	}
+
+}

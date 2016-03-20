@@ -1,0 +1,25 @@
+Pesos
+
+Grafo 1 153
+MST 1 88
+Diferencia y monto que se ahorra 65
+
+
+Grafo 2 180
+MST 2 131
+Diferencia y monto que se ahorra 49
+
+
+Grafo 3 177
+MST 3 66
+Diferencia y monto que se ahorra 111
+
+
+Grafo 4 136
+MST 4 84
+Diferencia y monto que se ahorra 52
+
+
+Grafo 5 224
+MST 5 192  
+Diferencia y monto que se ahorra 32

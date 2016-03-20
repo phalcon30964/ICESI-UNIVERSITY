@@ -1,0 +1,262 @@
+package TadLista;
+
+
+
+public class TestLista {
+
+	public static void main(String[] args) {
+				
+	ListaDoble<String> list = new ListaDoble<String>();
+		
+	//QUE PRUEBA DESEA REALIZAR 0= lista con 0 elementos, 1= lista con 1 elemento, 2= lista con varios elementos
+	int tipoPrueba = 6;
+
+	//CODIGO DE PRUEBA
+	switch (tipoPrueba) {
+	
+	case 0:
+		
+		int tamaño = 10;
+		
+		for (int i = 0; i < tamaño; i++) {
+			
+			try {
+				list.agregar(list.darLongitud(), (i+1)+"");
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			System.out.println("se agrego elemento : " + (i+1));
+			
+			}
+		
+		for (int i = 0; i < list.darLongitud(); i++) {
+			try {
+				System.out.println(list.darElemento(i));
+			} catch (Exception e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			}
+		}
+		
+		try {
+			Thread.sleep(1000);
+		} catch (InterruptedException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+		
+		break;
+	
+	case 1:
+		
+		System.out.println("la logitud es " + list.darLongitud());
+		try {
+//		System.out.println(list.darElemento(0));
+			list.eliminar(0);
+		} catch (Exception e2) {
+			// TODO Auto-generated catch block
+			e2.printStackTrace();
+			System.out.println("Prueba exitosa");
+		}
+
+		break;
+		
+	case 2:
+		
+		try {
+			
+			list.agregar("1");
+			System.out.println("Se agrego elemento :" + list.darElemento(0) + " al principio de la lista");
+			list.print();
+			list.printBack();
+			
+			list.agregar(list.darLongitud(), "1 otra vez");
+			System.out.println("Se agrego elemento: " + list.darElemento(list.darLongitud()-1) + " al final de la lista");
+			list.print();
+			list.printBack();
+			
+			list.eliminar(0);
+			System.out.println("Se elimino primer elemento en lista ");
+			list.print();
+			list.printBack();
+			
+			list.eliminar(list.darLongitud()-1);
+			System.out.println("Se elimino ultimo elemento en lista ");
+			list.print();
+			list.printBack();
+			
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		
+		break;
+		
+	case 3:
+		
+		for (int i = 1; i < 10; i++) {
+		
+		list.agregar(i+"");
+		System.out.println("se agrego elemento : " + i);
+		
+		}
+		
+		try {
+			int pos = 0;
+			
+				list.agregar(pos, "inicio");
+				System.out.println("se agrego elemento : "
+						+ list.darElemento(0));
+
+				pos = list.darLongitud();
+				list.agregar(list.darLongitud(), "ultimo");
+				System.out.println("se agrego elemento : "
+						+ list.darElemento(list.darLongitud() - 1));
+
+				pos = list.darLongitud() / 2;
+				list.agregar(pos, "medio");
+				System.out.println("se agrego elemento : " + list.darElemento(pos));
+				
+				System.out.println("----------------------------------------------------------------------"
+						);
+				
+				list.print();
+				list.printBack();
+
+				System.out.println("el primero es:" + list.darElemento(0));
+				System.out.println("el ultimo elemento es:"
+						+ list.darElemento(list.darLongitud() - 1));
+				System.out.println("el mediano es:" + list.darElemento(pos));
+				
+				System.out.println("----------------------------------------------------------------------"
+						);
+				
+				list.eliminar(pos);
+				System.out.println("se elimino elemento : medio");
+
+				list.eliminar(0);
+				System.out.println("se elimino elemento : inicio "
+						);
+
+				pos = list.darLongitud();
+				list.eliminar(list.darLongitud()-1);
+				System.out.println("se elimino elemento : ultimo "
+						);
+
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		break;
+		
+		case 4:
+		
+		for (int i = 1; i <= 100; i++) {
+			
+			try {
+				list.agregar(list.darLongitud(), i+"");
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			System.out.println("se agrego elemento : " + i);
+			
+			}
+		
+		for (int i = 1; i <= 80; i++) {
+			try {
+				list.eliminar(list.darLongitud()-1);
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+		
+		break;
+		
+		case 5:
+			
+			for (int i = 1; i <= 10; i++) {
+				
+				try {
+					list.agregar(list.darLongitud(), i+"");
+				} catch (Exception e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+				System.out.println("se agrego elemento : " + i);
+				
+			}
+			
+			
+			
+		try {
+			System.out.println("se elimina el 9");
+			list.eliminar("9");
+			list.print();
+			list.printBack();
+			System.out.println("se elimina el 1");
+			list.eliminar("1");
+			list.print();
+			list.printBack();
+			System.out.println("se elimina el 5");
+			list.eliminar("5");
+			list.print();
+			list.printBack();
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+			
+			
+	
+			
+		break;
+		
+		case 6:
+			
+			ListaOrdenada<String> listAscendente = new ListaOrdenada<String>(true);
+			
+			for (int i = 1; i <= 100; i++) {
+				try {
+					listAscendente.agregar(0, i+"");
+				} catch (Exception e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+			}
+			
+			listAscendente.agregar("4");
+			listAscendente.agregar("456");
+			listAscendente.print();
+			
+		break;
+	}
+		
+	
+	//IMPRESION DE COMO QUEDO LA LISTA DESPUES DEL METODO
+	System.out.println("\n\n" + "Lista de elementos de la lista despuedes de la prueba: ");
+	
+	list.print();
+	try {
+		Thread.sleep(1000);
+	} catch (InterruptedException e1) {
+		// TODO Auto-generated catch block
+		e1.printStackTrace();
+	}
+	list.printBack();
+	
+	//TAMANO DE LA LISTA DESPUES DEL METODO
+	System.out.println("La longitud de la lista es: "+list.darLongitud());
+	
+	}
+	
+	
+	
+	
+
+
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=U2-Arreglos-Apo1/src&amp;lt;{PanelSencillo.java[PanelSencillo&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=n11_organigrama/source&amp;lt;uniandes.cupi2.organigrama.interfaz{InterfazOrganigrama.java[InterfazOrganigrama&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=AerolineaEntreNubes/D:\/Programas\/eclipse-jee-juno-SR1-win32-x86_64\/eclipse\/plugins\/org.junit_4.10.0.v4_10_0_v20120426-0900\/junit.jar&amp;lt;org.junit.runner(JUnitCore.class[JUnitCore&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=AerolineaEntreNubes/src&amp;lt;interfazEntreNubes{interfazEntreNube.java[interfazEntreNube&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Lab sql/src&amp;lt;baseDatos{connector.java[connector&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=AP2_Quiz3TarjetonVirtualServidor/src&amp;lt;interfaz{InterfazTarjetonVirtual.java[InterfazTarjetonVirtual&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="39" key="DIALOG_Y_ORIGIN"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="391" key="DIALOG_X_ORIGIN"/>
+			<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		</section>
+	</section>
+</section>

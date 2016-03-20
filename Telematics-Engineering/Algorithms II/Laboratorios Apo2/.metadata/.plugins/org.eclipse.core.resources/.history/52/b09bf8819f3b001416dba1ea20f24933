@@ -1,0 +1,5 @@
+package TadLista;
+
+public class NodoDoble<T> implements ILista<T> {
+
+}

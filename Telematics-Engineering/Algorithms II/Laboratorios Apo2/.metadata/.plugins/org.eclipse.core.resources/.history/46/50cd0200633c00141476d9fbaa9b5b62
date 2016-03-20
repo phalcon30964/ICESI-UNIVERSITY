@@ -1,0 +1,82 @@
+package TadColaEquipo;
+
+import java.util.Scanner;
+import TadCola.*;
+import TadLista.*;
+
+public class ColadeEquipo {
+	
+	public static void main(String[] args) {
+		
+		ColaPrioridad<Integrante> colaEquipos = new ColaPrioridad<Integrante>();
+		
+		Scanner escaner = new Scanner(System.in);
+		
+		String linea = escaner.nextLine();
+		
+		int numCaso = 1;
+		
+		while(linea!=null && !linea.isEmpty() && !linea.equals(0+"")){
+			
+			int numeroEquipos = Integer.parseInt(linea);
+			
+			Doble<Integrante> aux = new Doble<Integrante>();
+			
+			for (int i = 1; i <= numeroEquipos; i++) {
+				
+				linea = escaner.nextLine();
+				String[] equipo = linea.split(" ");
+				
+				for (int j = 1; j < equipo.length; j++) {
+					aux.agregar(new Integrante(i, equipo[j]));
+				}	
+			}
+			
+			//lee instrucciones
+			
+			System.out.println("\nScenario #"+numCaso);
+			
+			linea = escaner.nextLine();
+			
+			
+			while(!linea.equals("STOP")){
+				
+			
+			String[] instruccion = linea.split(" ");
+			
+				if(instruccion[0].equals("ENQUEUE")){
+				
+					for (int i = 0; i < aux.darLongitud(); i++) {
+					
+						Integrante actual = null;
+					
+						try {
+						actual = aux.darElemento(i);
+						} catch (Exception e) {
+						e.printStackTrace();
+						}
+					
+						if(actual.getNombre().equals(instruccion[1])){
+						colaEquipos.enQueue(actual);
+						}
+					}
+				
+				}else if(instruccion[0].equals("DEQUEUE")){
+				
+				System.out.println(colaEquipos.deQueue().toString());
+				
+				}
+				
+				linea = escaner.nextLine();
+				
+			}
+	
+			linea = escaner.nextLine();
+			numCaso++;
+			
+		}
+		
+		escaner.close();
+	}
+
+}

@@ -1,0 +1,127 @@
+/*#SDTREF(SDL,/home/sdl/PQR/PQR_sistema.ssy,4)*/
+system PQR_sistema;
+/*#SDTREF(SDL,/home/sdl/PQR/PQR_sistema.ssy(1),119(65,70))*/
+block /*#E*/ 
+PQR_bloque referenced;
+/*#SDTREF(SDL,/home/sdl/PQR/PQR_sistema.ssy,4)*/
+endsystem PQR_sistema;
+/*#SDTREF(SDL,/home/sdl/PQR/PQR_bloque.sbk,4)*/
+block PQR_bloque;
+/*#SDTREF(SDL,/home/sdl/PQR/PQR_bloque.sbk(1),143(110,25))*/
+SIGNAL
+confP,
+abortP,
+confQ,
+abortQ,
+confR,
+abortR;
+/*#SDTREF(SDL,/home/sdl/PQR/PQR_bloque.sbk(1),125(80,85))*/
+signalroute /*#E*/ 
+R1 from 
+/*#SDTREF(SDL,/home/sdl/PQR/PQR_bloque.sbk(1),116(35,65))*/
+P to 
+/*#SDTREF(SDL,/home/sdl/PQR/PQR_bloque.sbk(1),122(100,90))*/
+R with 
+/*#SDTREF(SDL,/home/sdl/PQR/PQR_bloque.sbk(1),126(92,80))*/
+confP,abortP;
+from 
+/*#SDTREF(SDL,/home/sdl/PQR/PQR_bloque.sbk(1),122(100,90))*/
+R to 
+/*#SDTREF(SDL,/home/sdl/PQR/PQR_bloque.sbk(1),116(35,65))*/
+P with 
+/*#SDTREF(SDL,/home/sdl/PQR/PQR_bloque.sbk(1),127(55,90))*/
+confR,abortR;
+/*#SDTREF(SDL,/home/sdl/PQR/PQR_bloque.sbk(1),134(80,107))*/
+signalroute /*#E*/ 
+R2 from 
+/*#SDTREF(SDL,/home/sdl/PQR/PQR_bloque.sbk(1),119(35,110))*/
+Q to 
+/*#SDTREF(SDL,/home/sdl/PQR/PQR_bloque.sbk(1),122(100,90))*/
+R with 
+/*#SDTREF(SDL,/home/sdl/PQR/PQR_bloque.sbk(1),135(92,112))*/
+confQ,abortQ;
+from 
+/*#SDTREF(SDL,/home/sdl/PQR/PQR_bloque.sbk(1),122(100,90))*/
+R to 
+/*#SDTREF(SDL,/home/sdl/PQR/PQR_bloque.sbk(1),119(35,110))*/
+Q with 
+/*#SDTREF(SDL,/home/sdl/PQR/PQR_bloque.sbk(1),136(55,102))*/
+confR,abortR;
+/*#SDTREF(SDL,/home/sdl/PQR/PQR_bloque.sbk(1),116(35,65))*/
+process /*#E*/ 
+P referenced;
+/*#SDTREF(SDL,/home/sdl/PQR/PQR_bloque.sbk(1),122(100,90))*/
+process /*#E*/ 
+R referenced;
+/*#SDTREF(SDL,/home/sdl/PQR/PQR_bloque.sbk(1),119(35,110))*/
+process /*#E*/ 
+Q referenced;
+/*#SDTREF(SDL,/home/sdl/PQR/PQR_bloque.sbk,4)*/
+endblock PQR_bloque;
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr,4)*/
+process Q;
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr(1),191(130,10))*/
+DCL
+resQ boolean;
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr(1),149(85,20))*/
+start /*#E*/ 
+;
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr(1),146(85,40))*/
+task /*#E*/ 
+resQ:=any(boolean);
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr(1),143(85,60))*/
+decision /*#E*/ 
+resQ;
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr(1),158(80,67))*/
+(True):
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr(1),140(65,75))*/
+output /*#E*/ 
+confQ;
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr(1),161(117,67))*/
+(False):
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr(1),137(105,75))*/
+output /*#E*/ 
+abortQ;
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr(1),143(85,60))*/
+enddecision;
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr(1),134(85,95))*/
+nextstate /*#E*/ 
+esp_Q;
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr(1),134(85,95))*/
+state /*#E*/ 
+esp_Q;
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr(1),131(60,115))*/
+input /*#E*/ 
+confR;
+grst9271_1:
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr(1),128(85,135))*/
+task /*#E*/ 
+resQ:=any(boolean);
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr(1),125(85,160))*/
+decision /*#E*/ 
+resQ;
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr(1),179(80,167))*/
+(True):
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr(1),122(65,175))*/
+output /*#E*/ 
+confQ;
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr(1),182(117,167))*/
+(False):
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr(1),119(105,175))*/
+output /*#E*/ 
+abortQ;
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr(1),125(85,160))*/
+enddecision;
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr(1),116(85,195))*/
+nextstate /*#E*/ 
+esp_Q;
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr(1),194(110,115))*/
+input /*#E*/ 
+abortR;
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr(1),128(85,135))*/
+join /*#E*/ 
+grst9271_1;
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr(1),134(85,95))*/
+endstate;
+/*#SDTREF(SDL,/home/sdl/PQR/Q.spr,4)*/
+endprocess Q;

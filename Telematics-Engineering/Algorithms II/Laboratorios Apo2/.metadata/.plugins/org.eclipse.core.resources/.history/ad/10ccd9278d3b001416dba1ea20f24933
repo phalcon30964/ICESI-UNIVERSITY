@@ -1,0 +1,74 @@
+package TadLista;
+
+public class ListaSimple<T> implements ILista<T> {
+
+	// ----------------------------------------------------------------------------
+	// ATRIBUTOS
+	// ----------------------------------------------------------------------------
+	
+	private int longitud;
+	
+	private NodoSimple<T> primero;
+	
+	// ----------------------------------------------------------------------------
+	// CONSTRUCTOR
+	// ----------------------------------------------------------------------------
+	
+	public ListaSimple(){
+		
+		longitud = 0;
+		primero = new NodoSimple<T>(null);
+		
+	}
+	
+	// ----------------------------------------------------------------------------
+	// METODOS
+	// ----------------------------------------------------------------------------
+
+	@Override
+	public void agregar(T contenido) {
+		
+		NodoSimple<T> nuevo = new NodoSimple<T>(contenido);
+		
+		NodoSimple<T> actual;
+		for (actual = primero; actual.getSiguiente()!=null ; actual = actual.getSiguiente()) {
+		}
+		
+		actual.setSiguiente(nuevo);
+		longitud++;
+		
+	}
+
+	@Override
+	public void agregar(int pos, T valor) throws Exception {
+		
+		NodoSimple<T> nuevo = new NodoSimple<T>(contenido)
+		
+
+	}
+
+	@Override
+	public void eliminar(int pos) throws Exception {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public T darElemento(int pos) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int darLongitud() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public boolean esVacia() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

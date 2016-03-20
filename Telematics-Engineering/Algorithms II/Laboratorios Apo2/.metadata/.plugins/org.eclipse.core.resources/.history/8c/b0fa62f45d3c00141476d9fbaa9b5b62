@@ -1,0 +1,7 @@
+package TadPila;
+
+public class PilaSimple<T> implements IPila<T> {
+	
+	
+
+}

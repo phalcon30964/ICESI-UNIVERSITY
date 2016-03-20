@@ -1,0 +1,117 @@
+<class-diagram version="1.0.11" icons="false" automaticImage="JPEG" always-add-relationships="true" 
+  generalizations="true" realizations="true" associations="true" dependencies="true" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" name="interfaz.InterfazCafetera" project="C2Lab2Cafetera" 
+    file="/C2Lab2Cafetera/src/interfaz/InterfazCafetera.java" binary="false">    
+    <position height="-1" width="-1" x="519" y="133"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" name="interfaz.PanelRecurso" project="C2Lab2Cafetera" 
+    file="/C2Lab2Cafetera/src/interfaz/PanelRecurso.java" binary="false">    
+    <position height="-1" width="-1" x="167" y="146"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" name="interfaz.PanelVenta" project="C2Lab2Cafetera" 
+    file="/C2Lab2Cafetera/src/interfaz/PanelVenta.java" binary="false">    
+    <position height="-1" width="-1" x="933" y="145"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" name="mundo.CafeIncompletoException" project="C2Lab2Cafetera" 
+    file="/C2Lab2Cafetera/src/mundo/CafeIncompletoException.java" binary="false">    
+    <position height="-1" width="-1" x="220" y="413"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="5" corner="BOTTOM_RIGHT" language="java" name="mundo.ImposiblePrepararCafeException" 
+    project="C2Lab2Cafetera" file="/C2Lab2Cafetera/src/mundo/ImposiblePrepararCafeException.java" binary="false">    
+    <position height="-1" width="-1" x="517" y="413"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="6" corner="BOTTOM_RIGHT" language="java" name="mundo.SuministroRecursoException" project="C2Lab2Cafetera" 
+    file="/C2Lab2Cafetera/src/mundo/SuministroRecursoException.java" binary="false">    
+    <position height="-1" width="-1" x="858" y="458"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <association id="7">    
+    <bendpoint x="710" y="165"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="8" name="panelVenta">        
+        <position height="15" width="61" x="736" y="142"/>      
+      </attribute>      
+      <multiplicity id="9" minimum="0" maximum="1">        
+        <position height="15" width="21" x="813" y="632"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="10">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="11">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <association id="12">    
+    <bendpoint x="712" y="110"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="13" name="principal"/>      
+      <multiplicity id="14" minimum="0" maximum="1">        
+        <position height="15" width="21" x="796" y="615"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="15">    
+    <bendpoint x="381" y="167"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="16" name="principal">        
+        <position height="15" width="47" x="383" y="141"/>      
+      </attribute>      
+      <multiplicity id="17" minimum="0" maximum="1">        
+        <position height="15" width="21" x="746" y="638"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="18">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <association id="19">    
+    <bendpoint x="387" y="104"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="20" name="panelesRecurso">        
+        <position height="15" width="86" x="338" y="87"/>      
+      </attribute>      
+      <multiplicity id="21" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="false" package="false" initial-value="true" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

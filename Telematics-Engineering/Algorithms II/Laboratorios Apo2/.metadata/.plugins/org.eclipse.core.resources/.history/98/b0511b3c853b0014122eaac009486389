@@ -1,0 +1,29 @@
+package TadLista;
+
+public class NodoSimple<T> implements INodo<T> {
+
+	@Override
+	public T cambiarContenido() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void cambiarContenido(T contenido) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public INodo<T> darSiguiente() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void cambiarSiguiente(INodo<T> siguiente) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

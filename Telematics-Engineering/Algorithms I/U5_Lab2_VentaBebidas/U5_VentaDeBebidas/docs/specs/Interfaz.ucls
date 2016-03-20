@@ -1,0 +1,114 @@
+<class-diagram version="1.0.10" icons="false" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" name="icesi.ventabebidas.interfaz.InterfazBebidas" 
+    project="U5_VentaDeBebidas" file="/U5_VentaDeBebidas/src/icesi/ventabebidas/interfaz/InterfazBebidas.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="515" y="350"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" name="icesi.ventabebidas.interfaz.PanelEncabezado" 
+    project="U5_VentaDeBebidas" file="/U5_VentaDeBebidas/src/icesi/ventabebidas/interfaz/PanelEncabezado.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="517" y="152"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" name="icesi.ventabebidas.interfaz.PanelReportes" 
+    project="U5_VentaDeBebidas" file="/U5_VentaDeBebidas/src/icesi/ventabebidas/interfaz/PanelReportes.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="516" y="653"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" name="icesi.ventabebidas.interfaz.PanelVentaBebidaDos" 
+    project="U5_VentaDeBebidas" file="/U5_VentaDeBebidas/src/icesi/ventabebidas/interfaz/PanelVentaBebidaDos.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="888" y="351"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="5" corner="BOTTOM_RIGHT" language="java" name="icesi.ventabebidas.interfaz.PanelVentaBebidaUno" 
+    project="U5_VentaDeBebidas" file="/U5_VentaDeBebidas/src/icesi/ventabebidas/interfaz/PanelVentaBebidaUno.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="130" y="345"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <association id="6">    
+    <bendpoint x="323" y="403"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="7" name="panelVentaBebidaUno">        
+        <position height="14" width="110" x="271" y="372"/>      
+      </attribute>      
+      <multiplicity id="8" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="false"/>  
+  </association>  
+  <association id="9">    
+    <bendpoint x="701" y="407"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="10" name="panelVentaBebidaDos">        
+        <position height="14" width="110" x="648" y="374"/>      
+      </attribute>      
+      <multiplicity id="11" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="false"/>  
+  </association>  
+  <association id="12">    
+    <bendpoint x="700" y="278"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="13" name="principal">        
+        <position height="14" width="44" x="677" y="290"/>      
+      </attribute>      
+      <multiplicity id="14" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="false"/>  
+  </association>  
+  <association id="15">    
+    <bendpoint x="319" y="269"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="16" name="principal">        
+        <position height="14" width="44" x="298" y="282"/>      
+      </attribute>      
+      <multiplicity id="17" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="false"/>  
+  </association>  
+  <association id="18">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="19" name="panelReportes"/>      
+      <multiplicity id="20" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="false"/>  
+  </association>  
+  <association id="21">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="22" name="panelEncabezado"/>      
+      <multiplicity id="23" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="false"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="false"/>
+</class-diagram>

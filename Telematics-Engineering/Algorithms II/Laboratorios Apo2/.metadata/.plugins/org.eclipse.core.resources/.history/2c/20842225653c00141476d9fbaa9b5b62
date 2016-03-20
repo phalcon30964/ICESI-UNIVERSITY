@@ -1,0 +1,89 @@
+package TadCola;
+
+import TadLista.ListaDoble;
+
+public class Cola<T> implements ICola<T>{
+	
+	// ----------------------------------------------------------------------------
+	// ATRIBUTOS
+	// ----------------------------------------------------------------------------
+	
+	private ListaDoble<T> cola;
+
+	// ----------------------------------------------------------------------------
+	// CONSTRUCTOR
+	// ----------------------------------------------------------------------------
+
+	/**
+	 * Metodo constructor de la clase Cola que crea una instancia vacia de la cola
+	 */
+	public Cola(){
+		
+		this.cola = cola;
+	}
+	
+	// ----------------------------------------------------------------------------
+	// METODOS
+	// ----------------------------------------------------------------------------
+
+	/**
+	 * Metodo que agrega un elemento al final de la cola (back)
+	 * 
+	 * @param elemento a insertar dentro de la cola
+	 */
+	@Override
+	public void enQueue(T elemento) {
+		
+		cola.agregar(elemento);
+
+	}
+
+	/**
+	 *Metodo que elimina el primer elemento de la cola (front) 
+	 *
+	 * @return T elemento eliminado de la cola
+	 */
+	@Override
+	public T deQueue(){
+		
+		T elemento = cola.darElemento(0);
+		try {
+			cola.eliminar(0);
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		return null;
+	}
+	
+	/**
+	 * Metodo que informa si la cola esta vacia
+	 * 
+	 * @return true si esta vacia, false de lo contrario
+	 */
+	@Override
+	public boolean isEmpty() {
+
+		return cola.esVacia();
+	}
+
+	@Override
+	public void clear() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public T getFront() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public T getBack() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

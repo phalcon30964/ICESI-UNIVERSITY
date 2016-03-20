@@ -1,0 +1,208 @@
+package TadTablaHash;
+
+import java.lang.reflect.Array;
+
+public class TablaHash<K,E> implements ITablaHash<K,E>{
+	
+	// ----------------------------------------------------------------------------
+	// ATRIBUTOS
+	// ----------------------------------------------------------------------------
+	
+	private int capacidad;
+	
+	private int tamano;
+	
+	private NodoBucket<K,E>[] tabla;
+	
+	// ----------------------------------------------------------------------------
+	// CONSTRUCTOR
+	// ----------------------------------------------------------------------------
+
+	
+	/**
+	 * Metodo constructor de la tabla Hash, iniciliza la tabla has con la capacidad pasada por parametro
+	 * un limite de factor de carga hasta el cual se debe duplicar tamano
+	 * 
+	 * @param capacidad numero de elementos maximos que puede alvergar la tabla
+	 * @param limiteFactorCarga numero entre 0 y 1 que indica cuan cargada puede estamar como maximo
+	 *        la tabla hash
+	 */
+	public TablaHash(int capacidad){
+		
+		this.capacidad = capacidad;
+		@SuppressWarnings("unchecked")
+		final NodoBucket<K,E>[] temp = (NodoBucket<K,E>[])Array.newInstance(NodoBucket.class, capacidad);
+		this.tabla=temp;
+		
+	}
+	
+	// ----------------------------------------------------------------------------
+	// METODOS
+	// ----------------------------------------------------------------------------
+
+	
+	/**
+	 * Metodo fundamental de la tabla hash, calcula en base a un key la direccion del bucket a donde un objeto debe ir.
+	 * Si el objeto que sirve como clave no tiene sobreescrito el metodo hashcode puede darse el caso de que 
+	 * iguales llaves generen direcciones diferentes.
+	 * 
+	 * pre: objeto key debe tener sobreescrito el metodo hashcode
+	 * 
+	 * @param key llave del objeto
+	 * @return int entero indicando la posicion donde debe ir el elemento a insertar
+	 */
+	public int hashFunction(K key){
+		return (int)(tamano*((key.hashCode()*0.61803)%1));
+	}
+	
+	
+	/**
+	 * Metodo que inserta elementos dentro de la tabla hash, este metodo utiliza la tecnica de direccionamiento directo
+	 * y sondeo lineal para resolver colisiones
+	 * 
+	 * pre: la tabla debe estar inicializada
+	 * pos: se ha agregado un nuevo elemento a la tabla hash
+	 * 
+	 * @param K key llave del objeto
+	 * @param E elemento que se guardara 
+	 */
+	@Override
+	public void agregar(K key, E elemento) throws Exception {
+		
+		if(elemento==null || key == null){
+			throw new NullPointerException();
+		}
+		
+		if(tamano==capacidad){
+			throw new Exception("No hay mas espacio en al tabla");
+		}
+		
+		int pos = hashFunction(key);
+		NodoBucket<K, E> nuevo = new NodoBucket<K,E>(key, elemento);
+		
+		if(tabla[pos]==null){
+			tabla[pos]=nuevo;
+		}else{
+
+			tabla[pos].aumentarColisiones();
+			int contador = 0;
+			
+			boolean insertado = false;
+			while(tabla[pos]!= null && !insertado && contador<=capacidad){
+				
+				if(tabla[pos].getKey().equals(key)){
+					throw new Exception("El elemento ya esta en la lista");
+				}
+				contador++;
+				pos = (pos+1)%capacidad;
+			}
+			
+			if(!insertado){
+				tabla[pos] = nuevo;
+				tamano++;
+			}
+		}
+	}
+	
+	/**
+	 * Metodo que inserta elementos dentro de la tabla hash, este metodo utiliza la tecnica de direccionamiento directo
+	 * y sondeo lineal para resolver colisiones
+	 * 
+	 * pre: la tabla debe estar inicializada
+	 * pos: se ha agregado un nuevo elemento a la tabla hash
+	 * 
+	 * @param K key llave del objeto
+	 * @param E elemento que se guardara 
+	 */
+	public void agregarSondeoCuadratico(K key, E elemento) throws Exception {
+		
+		if(elemento==null || key == null){
+			throw new NullPointerException();
+		}
+		
+		if(tamano == capacidad){
+			throw new Exception("No hay mas espacio en al tabla");
+		}
+		
+		
+	}
+	
+
+	@Override
+	public void eliminar(K key) {
+	
+		int pos = hashFunction(key);
+		
+		if(tabla[pos]!=null && tabla[pos].getKey().equals(key)){
+			tabla[pos] = null;
+		}else{
+			
+			if(tabla[pos]!=null && tabla[pos].getElemento()==null){
+				
+				int contador = 0;
+				boolean terminado = false;
+				
+				while(!terminado && contador<=capacidad){
+					
+					if(tabla[pos]!=null && tabla[pos].getKey().equals(key)){
+						tabla[pos] = null;
+						terminado = true;
+						tamano--;
+					}else{
+						pos = (pos+1)%capacidad;
+						contador++;
+					}
+					
+				}
+			}
+		}	
+	}
+
+	@Override
+	public E buscar(K key) {
+		
+		E elemento = null;
+		
+		int pos = hashFunction(key);
+		
+		if(tabla[pos]!=null && tabla[pos].getKey().equals(key)){
+			elemento = tabla[pos].getElemento();
+		}else{
+				int contador = 0;
+				boolean terminado = false;
+				
+				while(!terminado && contador<=capacidad){
+					
+					if(tabla[pos]!=null && tabla[pos].getKey().equals(key)){
+						elemento = tabla[pos].getElemento();
+						terminado = true;
+					}else{
+						pos = (pos+1)%capacidad;
+						contador++;
+					}
+				}
+		}	
+		
+		return elemento;
+	}
+
+	@Override
+	public boolean isEmpty() {
+		
+		return tamano==0;
+	}
+
+	@Override
+	public int getCapacidad() {
+		
+		return capacidad;
+	}
+
+	@Override
+	public double getFactorCarga() {
+		// TODO Auto-generated method stub
+		return tamano/capacidad;
+	}
+	
+	
+}

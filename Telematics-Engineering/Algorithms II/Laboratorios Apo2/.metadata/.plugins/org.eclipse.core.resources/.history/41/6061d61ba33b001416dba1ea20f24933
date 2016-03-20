@@ -1,0 +1,34 @@
+package TadLista;
+
+public class ListaDoble<T> implements ILista<T> {
+	
+	// ----------------------------------------------------------------------------
+	// ATRIBUTOS
+	// ----------------------------------------------------------------------------
+
+	private int longitud;
+
+	private NodoDoble<T> primero;
+
+	private NodoDoble<T> ultimo;
+
+	// ----------------------------------------------------------------------------
+	// CONSTRUCTOR
+	// ----------------------------------------------------------------------------
+
+	/**
+	 * Metodo constructor de la clase Lista Doble, crea instancias vacias de la lista doble
+	 */
+	public ListaDoble() {
+
+		this.longitud = 0;
+		this.primero = new NodoDoble<T>(null);
+		this.ultimo = primero;
+
+	}
+
+	// ----------------------------------------------------------------------------
+	// METODOS
+	// ----------------------------------------------------------------------------
+
+}

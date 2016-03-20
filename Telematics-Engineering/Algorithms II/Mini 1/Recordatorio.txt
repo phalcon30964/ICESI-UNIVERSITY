@@ -1,0 +1,2 @@
+En el constructor de recuerdame debo crear una primera clasificacion por defecto
++anadirTarea(String nombre, String descripcion, String rechaRecordatorio, String Fecha Creacion(no porque la mete es el metodo crearTarea),String Clasificacion):void

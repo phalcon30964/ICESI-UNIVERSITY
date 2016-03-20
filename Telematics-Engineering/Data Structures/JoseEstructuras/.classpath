@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="JTree"/>
+	<classpathentry kind="src" path="JList"/>
+	<classpathentry kind="src" path="JHeap"/>
+	<classpathentry kind="src" path="JQueue"/>
+	<classpathentry kind="src" path="Stack"/>
+	<classpathentry kind="src" path="JHashTable"/>
+	<classpathentry kind="src" path="JGraph"/>
+	<classpathentry kind="src" path="Extras"/>
+	<classpathentry kind="src" path="JSet"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,85 @@
+package TadTablaHash;
+
+public class Bucket<K,E> {
+	
+	// ----------------------------------------------------------------------------
+	// ATRIBUTOS
+	// ----------------------------------------------------------------------------
+
+	private K key;
+
+	private E elemento;
+
+	private int colisiones;
+
+	// ----------------------------------------------------------------------------
+	// CONSTRUCTOR
+	// ----------------------------------------------------------------------------
+
+	public Bucket(K key, E elemento) {
+		
+		this.key = key;
+		this.elemento = elemento;
+		this.colisiones = 0;
+	}
+
+	// ----------------------------------------------------------------------------
+	// METODOS
+	// ----------------------------------------------------------------------------
+
+	
+	/**
+	 * Metodo que retorna la llave del elemento guardado en el bucket
+	 * 
+	 * @return k llave
+	 */
+	public K getKey() {
+		return key;
+	}
+
+	/**
+	 * Metodo que cambia la llave del bucket
+	 * 
+	 * @param key llave por la cual cambiar
+	 */
+	public void setKey(K key) {
+		this.key = key;
+	}
+
+	/**
+	 * Metodo que devuelve el elemento insertado en el bucket
+	 * 
+	 * @return elemento dentro del bucket
+	 */
+	public E getElemento() {
+		return elemento;
+	}
+
+	/**
+	 * Cambia el elemento dentro del bucket
+	 * 
+	 * @param elemento a cambiar
+	 */
+	public void setElemento(E elemento) {
+		this.elemento = elemento;
+	}
+
+	
+	/**
+	 * Metodo que retorna el numero de colisiones que se ha tenido con el bucket
+	 * 
+	 * @return int numero de colisiones
+	 */
+	public int getColisiones() {
+		return colisiones;
+	}
+
+	/**
+	 * Metodo que aumenta el numero de colisiones tenidas con el bucket 
+	 * 
+	 */
+	public void aumentarColisiones() {
+		this.colisiones++;
+	}
+
+}

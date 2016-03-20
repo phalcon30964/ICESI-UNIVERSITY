@@ -1,0 +1,46 @@
+package TadLista;
+
+import javax.management.InstanceNotFoundException;
+
+
+public class NodoSimple<T> implements INodo<T> {
+
+	//----------------------------------------------------------------------------
+	//ATRIBUTOS
+	//----------------------------------------------------------------------------
+	
+	private T contenido;
+	
+	private NodoSimple<T> siguiente;
+	
+	//----------------------------------------------------------------------------
+	//CONSTRUCTOR
+	//----------------------------------------------------------------------------
+	
+	public NodoSimple(T contenido){
+		
+		this.contenido = contenido;
+		
+	}
+	//----------------------------------------------------------------------------
+	//METODOS
+	//----------------------------------------------------------------------------
+
+	public T getContenido() {
+		return contenido;
+	}
+
+	public NodoSimple<T> getSiguiente() {
+		return siguiente;
+	}
+
+	public void setContenido(T contenido) {
+		this.contenido = contenido;
+	}
+
+	public void setSiguiente(INodo<T> siguiente) {
+
+		this.siguiente = (NodoSimple<T>) siguiente;
+	}
+
+}

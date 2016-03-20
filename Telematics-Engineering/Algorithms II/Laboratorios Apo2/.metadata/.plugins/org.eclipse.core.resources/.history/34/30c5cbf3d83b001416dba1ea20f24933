@@ -1,0 +1,129 @@
+package TadLista;
+
+public class ListaOrdenada<T extends Comparable<T>> implements ILista<T> {
+	
+	
+	// ----------------------------------------------------------------------------
+	// ATRIBUTOS
+	// ----------------------------------------------------------------------------
+
+	private int longitud;
+
+	private boolean ascendente;
+
+	private NodoOrdenado<T> primero;
+
+	// ----------------------------------------------------------------------------
+	// CONSTRUCTOR
+	// ----------------------------------------------------------------------------
+	/**
+	 * Metodo constructor que crea una instancia de la clase Lista Ordenada de
+	 * longitud 0 y orde pasado por parametro
+	 * 
+	 * @param boolean ascendente true si se quiere orden de menor a mayor y
+	 *        false si se quiere de mayor a menor
+	 */
+	public ListaOrdenada(boolean ascendente) {
+
+		this.longitud = 0;
+		this.ascendente = ascendente;
+		this.primero = new NodoOrdenado<T>(null);
+
+	}
+	
+	// ----------------------------------------------------------------------------
+	// METODOS
+	// ----------------------------------------------------------------------------
+
+	/**
+	 * Metodo que agrega una nuevo elemento generico a la lista de forma ordenada
+	 * 
+	 * pre: <b/>valor=!null<br>
+	 * pos: la lista tiene un nuevo elemento
+	 * 
+	 * @param valor
+	 *            elemento nuevo que se agregarà a la lista
+	 * */
+	@Override
+	public void agregar(T contenido) {
+		
+		NodoOrdenado<T> nuevo = new NodoOrdenado<T>(contenido);
+		
+		NodoOrdenado<T> actual;
+		for (actual = primero; actual.getSiguiente() != null
+		     && comparar(actual.getSiguiente(),nuevo) <= 0; actual = actual.getSiguiente()) {
+		}
+		
+		nuevo.setSiguiente(actual.getSiguiente());
+		actual.setSiguiente(nuevo);
+		longitud++;
+	}
+
+	/**
+	 * Metodo que agrega una nuevo elemento generico a la lista de forma ordenada
+	 * 
+	 * pre: <b/>valor=!null<br>
+	 * pos: la lista tiene un nuevo elemento
+	 * 
+	 * @param valor
+	 *            elemento nuevo que se agregarà a la lista
+	 * @param int 
+	 * 	          pos, al ser lista ordenada no se tiene en cuenta este parametro
+	 * */
+	@Override
+	public void agregar(int pos, T contenido) throws Exception {
+		agregar(contenido);
+	}
+	
+	public int comparar(NodoOrdenado<T> actual, NodoOrdenado<T> nuevo){
+		
+		int comparacion = actual.comparar(nuevo);
+		
+		if(!ascendente){
+			comparacion = -comparacion;
+		}
+		
+		return comparacion;
+		
+	}
+
+	@Override
+	public void eliminar(int pos) throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public T darElemento(int pos) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int darLongitud() {
+		// TODO Auto-generated method stub
+		return longitud;
+	}
+
+	@Override
+	public boolean esVacia() {
+		// TODO Auto-generated method stub
+		return (longitud==0);
+	}
+
+	@Override
+	public void print() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	public boolean isAscendente() {
+		return ascendente;
+	}
+
+	
+	
+	
+
+
+}

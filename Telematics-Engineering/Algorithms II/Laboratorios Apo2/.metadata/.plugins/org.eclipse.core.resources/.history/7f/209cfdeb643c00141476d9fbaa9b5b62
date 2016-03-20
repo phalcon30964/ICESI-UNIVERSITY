@@ -1,0 +1,65 @@
+package TadCola;
+
+import TadLista.ListaDoble;
+
+public class Cola<T> implements ICola<T>{
+	
+	// ----------------------------------------------------------------------------
+	// ATRIBUTOS
+	// ----------------------------------------------------------------------------
+	
+	private ListaDoble<T> cola;
+
+	// ----------------------------------------------------------------------------
+	// CONSTRUCTOR
+	// ----------------------------------------------------------------------------
+
+	/**
+	 * Metodo constructor de la clase Cola que crea una instancia vacia de la cola
+	 */
+	public Cola(){
+		
+		this.cola = cola;
+	}
+	
+	// ----------------------------------------------------------------------------
+	// METODOS
+	// ----------------------------------------------------------------------------
+
+	@Override
+	public void enQueue(T elemento) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public T deQueue() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public boolean isEmpty() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public void clear() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public T getFront() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public T getBack() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

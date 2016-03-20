@@ -1,0 +1,113 @@
+package TadTablaHash;
+
+import java.lang.reflect.Array;
+
+public class TablaHash<K,E> implements ITablaHash<K,E>{
+	
+	// ----------------------------------------------------------------------------
+	// ATRIBUTOS
+	// ----------------------------------------------------------------------------
+	
+	private int capacidad;
+	
+	private int tamaño;
+	
+	private double limiteFactorCarga;
+	
+	private NodoBucket<K,E>[] tabla;
+	
+	// ----------------------------------------------------------------------------
+	// CONSTRUCTOR
+	// ----------------------------------------------------------------------------
+
+	
+	/**
+	 * Metodo constructor de la tabla Hash, iniciliza la tabla has con la capacidad pasada por parametro
+	 * un limite de factor de carga hasta el cual se debe duplicar tamano
+	 * 
+	 * @param capacidad numero de elementos maximos que puede alvergar la tabla
+	 * @param limiteFactorCarga numero entre 0 y 1 que indica cuan cargada puede estamar como maximo
+	 *        la tabla hash
+	 */
+	public TablaHash(int capacidad, double limiteFactorCarga){
+		
+		this.capacidad = capacidad;
+		this.limiteFactorCarga = limiteFactorCarga;
+		final NodoBucket<K,E>[] temp = (NodoBucket<K,E>[])Array.newInstance(NodoBucket.class, capacidad);
+		this.tabla=temp;
+		
+	}
+	
+	// ----------------------------------------------------------------------------
+	// METODOS
+	// ----------------------------------------------------------------------------
+
+	
+	/**
+	 * Metodo fundamental de la tabla hash, calcula en base a un key la direccion del bucket a donde un objeto debe ir.
+	 * Si el objeto que sirve como clave no tiene sobreescrito el metodo hashcode puede darse el caso de que 
+	 * iguales llaves generen direcciones diferentes.
+	 * 
+	 * pre: objeto key debe tener sobreescrito el metodo hashcode
+	 * 
+	 * @param key llave del objeto
+	 * @return int entero indicando la posicion donde debe ir el elemento a insertar
+	 */
+	public int hashFunction(K key){
+		return (int)(tamaño*((key.hashCode()*0.61803)%1));
+	}
+	
+	
+	/**
+	 * Metodo que inserta elementos dentro de la tabla hash, este metodo utiliza la tecnica de direccionamiento directo
+	 * y sondeo lineal para resolver colisiones
+	 * 
+	 * pre: la tabla debe estar inicializada
+	 * pos: se ha agregado un nuevo elemento a la tabla hash
+	 * 
+	 * @param K key llave del objeto
+	 * @param E elemento que se guardara 
+	 */
+	@Override
+	public void agregar(K key, E elemento) {
+		
+		int pos = hashFunction(key);
+	
+	
+		
+		
+	}
+	
+
+	@Override
+	public void eliminar(K key) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public E buscar(K key) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public boolean isEmpty() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public int getCapacidad() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public double getFactorCarga() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	
+	
+}

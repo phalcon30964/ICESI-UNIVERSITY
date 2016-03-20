@@ -1,0 +1,36 @@
+package TadLista;
+
+public class NodoDoble<T> implements INodo<T> {
+
+	// ----------------------------------------------------------------------------
+	// ATRIBUTOS
+	// ----------------------------------------------------------------------------
+
+	private T contenido;
+
+	private NodoDoble<T> anterior;
+
+	private NodoDoble<T> siguiente;
+
+	// ----------------------------------------------------------------------------
+	// CONSTRUCTOR
+	// ----------------------------------------------------------------------------
+
+	/**
+	 * Metodo constructor de la clase NodoDoble, crea una instancia de una nodo doble
+	 * 
+	 * @param contenido guardara el nodo dentro de la lista
+	 */
+	public NodoDoble(T contenido) {
+		
+		this.contenido = contenido;
+
+	}
+
+	// ----------------------------------------------------------------------------
+	// METODOS
+	// ----------------------------------------------------------------------------
+
+
+
+}

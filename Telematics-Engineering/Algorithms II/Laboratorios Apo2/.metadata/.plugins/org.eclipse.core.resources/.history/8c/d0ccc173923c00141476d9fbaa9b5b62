@@ -1,0 +1,49 @@
+package TadTablaHash;
+
+public class pruebas {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		TablaHash<String, String> tabla = new TablaHash<String, String>(10); 
+		
+		for (int i = 0; i < 10; i++) {
+			
+			try {
+				tabla.agregar(i+"", i+"");
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			
+		}
+		
+		try {
+			tabla.agregar(4.2+"", 4.2+"");
+			tabla.agregar(5.3+"", 5.3+"");
+			tabla.agregar(6+"", 6+"");
+			tabla.agregar(6+"", 6+"");
+			tabla.agregar(7+"", 7+"");
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		
+		for (int i = 0; i < 15; i++) {
+			
+			try {
+				System.out.println(tabla.buscar(i+""));
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			
+		}
+		
+
+	}
+
+}

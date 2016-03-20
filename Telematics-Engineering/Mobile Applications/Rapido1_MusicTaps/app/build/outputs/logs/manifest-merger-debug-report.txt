@@ -1,0 +1,92 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:2:1-28:12
+	xmlns:android
+		ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:3:5-61
+		INJECTED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:5:5-26:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:8:9-41
+	android:allowBackup
+		ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:11:9-40
+activity#christian.lopez.trabajos.com.rapido1_musictaps.PantallaPrincipal
+ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:12:9-91
+	android:screenOrientation
+		ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:12:53-89
+	android:name
+		ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:12:19-52
+activity#christian.lopez.trabajos.com.rapido1_musictaps.PantallaLogin
+ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:14:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:16:17-105
+	android:screenOrientation
+		ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:16:67-103
+	android:name
+		ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:18:17-114
+	android:screenOrientation
+		ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:18:75-111
+	android:name
+		ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:18:27-74
+activity#christian.lopez.trabajos.com.rapido1_musictaps.PantallaJuego
+ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:23:9-88
+	android:screenOrientation
+		ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:23:49-85
+	android:name
+		ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:23:19-48
+activity#christian.lopez.trabajos.com.rapido1_musictaps.PantallaFinal
+ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:24:9-87
+	android:screenOrientation
+		ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:24:49-85
+	android:name
+		ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:24:19-48
+activity#christian.lopez.trabajos.com.rapido1_musictaps.PantallaGanar
+ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:25:9-97
+	android:screenOrientation
+		ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:25:49-85
+	android:name
+		ADDED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml:25:19-48
+uses-sdk
+INJECTED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Documents\8 semestre\Nuevo-final\Rapido1_MusicTaps\app\src\main\AndroidManifest.xml

@@ -1,0 +1,12 @@
+Requerimientos funcionales formatos
+Plantillas psp. Subir enlace a la hoja de trabajo
+
+Diagrama de clases en imagen
+codigo subir la interfaz de usuario
+
+
+planeacion requerimientos y formatos psp
+
+diseño diagramas de clase
+
+codigo interfaz

@@ -1,0 +1,35 @@
+<class-diagram version="1.0.10" icons="false" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" name="icesi.ventabebidas.mundo.TransaccionBebida" 
+    project="U5_VentaDeBebidas" file="/U5_VentaDeBebidas/src/icesi/ventabebidas/mundo/TransaccionBebida.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="546" y="160"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" name="icesi.ventabebidas.mundo.VentaDeBebidas" 
+    project="U5_VentaDeBebidas" file="/U5_VentaDeBebidas/src/icesi/ventabebidas/mundo/VentaDeBebidas.java" 
+    binary="false">    
+    <position height="-1" width="-1" x="185" y="160"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <association id="3">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="4" name="ventas"/>      
+      <multiplicity id="5" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

@@ -1,0 +1,115 @@
+package TadLista;
+
+public class ListaDoble<T> implements ILista<T> {
+	
+	// ----------------------------------------------------------------------------
+	// ATRIBUTOS
+	// ----------------------------------------------------------------------------
+
+	private int longitud;
+
+	private NodoDoble<T> primero;
+
+	private NodoDoble<T> ultimo;
+
+	// ----------------------------------------------------------------------------
+	// CONSTRUCTOR
+	// ----------------------------------------------------------------------------
+
+	/**
+	 * Metodo constructor de la clase Lista Doble, crea instancias vacias de la lista doble
+	 */
+	public ListaDoble() {
+
+		this.longitud = 0;
+		this.primero = new NodoDoble<T>(null);
+		this.ultimo = primero;
+
+	}
+	
+	// ----------------------------------------------------------------------------
+	// METODOS
+	// ----------------------------------------------------------------------------
+
+	/**
+	 * Metodo que agrega una nuevo elemento generico a la lista
+	 * 
+	 * pre: <b/>valor=!null<br>
+	 * pos: la lista tiene un nuevo elemento
+	 * 
+	 * @param valor
+	 *            elemento nuevo que se agregarà a la lista
+	 * */
+	@Override
+	public void agregar(T contenido) {
+		
+		NodoDoble<T> nuevo = new NodoDoble<T>(contenido);
+		
+		ultimo.setSiguiente(nuevo);
+		nuevo.setAnterior(ultimo);
+		ultimo = nuevo;
+		longitud++;
+		
+	}
+
+	/**
+	 * Metodo que agrega una nuevo elemento generico a la lista en una posicion
+	 * especifica
+	 * 
+	 * pre: <b/>valor=!null<br>
+	 * pre: <b/>pos>=0<br>
+	 * pos: la lista tiene un nuevo elemento en la posicion indicada
+	 * 
+	 * @param pos
+	 *            posicion del elemento a agregar
+	 * @param valor
+	 *            elemento nuevo que se agregara a la lista
+	 * @throws arroja
+	 *             excepcion cuando el valor pasado por parametro excede el
+	 *             tamano de la lista
+	 * */
+	@Override
+	public void agregar(int pos, T contenido) throws Exception {
+		
+		if(pos<0 || pos>longitud){
+			throw new Exception("Error, posicion invalido");
+		}
+		
+		if(pos==longitud){
+			agregar(contenido);
+		}
+		
+
+	}
+
+	@Override
+	public void eliminar(int pos) throws Exception {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public T darElemento(int pos) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int darLongitud() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public boolean esVacia() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public void print() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

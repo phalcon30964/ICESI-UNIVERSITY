@@ -1,0 +1,34 @@
+package TadLista;
+
+public class NodoOrdenado<T> implements INodo<T>{
+
+	// ----------------------------------------------------------------------------
+	// ATRIBUTOS
+	// ----------------------------------------------------------------------------
+
+	private T contenido;
+
+	private NodoOrdenado<T> siguiente;
+
+	// ----------------------------------------------------------------------------
+	// CONSTRUCTOR
+	// ----------------------------------------------------------------------------
+
+	/**
+	 * Metodo constructor de la clase Nodo Ordenado, crea una instancia de una nodo
+	 * 
+	 * 
+	 * @param contenido
+	 *            guardara el nodo dentro de la lista
+	 */
+	public NodoOrdenado(T contenido) {
+
+		this.contenido = contenido;
+
+	}
+
+	// ----------------------------------------------------------------------------
+	// METODOS
+	// ----------------------------------------------------------------------------
+
+}

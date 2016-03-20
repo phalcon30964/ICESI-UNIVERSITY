@@ -1,0 +1,7 @@
+Fri Feb 14 08:43:06 COT 2014
+Cafe agotado
+Cafe 0%
+Agua 0%
+Vasos 0%
+Azucar 0%
+Pitillos 0%

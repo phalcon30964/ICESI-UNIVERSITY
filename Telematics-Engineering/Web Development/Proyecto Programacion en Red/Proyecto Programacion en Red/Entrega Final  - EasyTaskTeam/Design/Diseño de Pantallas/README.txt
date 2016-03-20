@@ -1,0 +1,1 @@
+Los diagramas de pantallas anteriores fueron anexados en la primera entrega

@@ -1,0 +1,182 @@
+<class-diagram version="1.0.11" icons="false" automaticImage="JPEG" always-add-relationships="true" 
+  generalizations="true" realizations="true" associations="true" dependencies="true" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" name="uniandes.cupi2.figuras.mundo.Color" project="U1_FigurasLab2" 
+    file="/U1_FigurasLab2/source/uniandes/cupi2/figuras/mundo/Color.java" binary="false">    
+    <position height="-1" width="-1" x="401" y="462"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" name="uniandes.cupi2.figuras.mundo.Punto" project="U1_FigurasLab2" 
+    file="/U1_FigurasLab2/source/uniandes/cupi2/figuras/mundo/Punto.java" binary="false">    
+    <position height="-1" width="-1" x="583" y="358"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" name="uniandes.cupi2.figuras.mundo.Triangulo" 
+    project="U1_FigurasLab2" file="/U1_FigurasLab2/source/uniandes/cupi2/figuras/mundo/Triangulo.java" binary="false">    
+    <position height="257" width="231" x="82" y="5"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" name="uniandes.cupi2.figuras.mundo.Rectangulo" 
+    project="U1_FigurasLab2" file="/U1_FigurasLab2/source/uniandes/cupi2/figuras/mundo/Rectangulo.java" binary="false">    
+    <position height="-1" width="-1" x="928" y="470"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="5" corner="BOTTOM_RIGHT" language="java" name="uniandes.cupi2.figuras.mundo.Circulo" 
+    project="U1_FigurasLab2" file="/U1_FigurasLab2/source/uniandes/cupi2/figuras/mundo/Circulo.java" binary="false">    
+    <position height="-1" width="-1" x="519" y="740"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="true" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <association id="6">    
+    <bendpoint x="605" y="496"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="7" name="colorLineas">        
+        <position height="15" width="63" x="668" y="493"/>      
+      </attribute>      
+      <multiplicity id="8" minimum="0" maximum="1">        
+        <position height="15" width="21" x="869" y="945"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="9">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="10" name="colorLineas">        
+        <position height="15" width="63" x="250" y="348"/>      
+      </attribute>      
+      <multiplicity id="11" minimum="0" maximum="1">        
+        <position height="15" width="21" x="807" y="926"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="12">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="13" name="colorRelleno">        
+        <position height="15" width="66" x="305" y="316"/>      
+      </attribute>      
+      <multiplicity id="14" minimum="0" maximum="1">        
+        <position height="15" width="21" x="711" y="907"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="15">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="16" name="esquinaSuperiorIzquierda">        
+        <position height="15" width="130" x="669" y="395"/>      
+      </attribute>      
+      <multiplicity id="17" minimum="0" maximum="1">        
+        <position height="15" width="21" x="768" y="913"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="18">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="19" name="punto2">        
+        <position height="15" width="40" x="384" y="248"/>      
+      </attribute>      
+      <multiplicity id="20" minimum="0" maximum="1">        
+        <position height="15" width="21" x="713" y="947"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="21">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="22" name="punto1">        
+        <position height="15" width="40" x="352" y="272"/>      
+      </attribute>      
+      <multiplicity id="23" minimum="0" maximum="1">        
+        <position height="15" width="21" x="794" y="906"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="24">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="25" name="colorLineas">        
+        <position height="15" width="63" x="362" y="590"/>      
+      </attribute>      
+      <multiplicity id="26" minimum="0" maximum="1">        
+        <position height="15" width="21" x="811" y="909"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="27">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="28" name="colorRelleno">        
+        <position height="15" width="66" x="442" y="584"/>      
+      </attribute>      
+      <multiplicity id="29" minimum="0" maximum="1">        
+        <position height="15" width="21" x="738" y="922"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="30">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="31" name="colorRelleno">        
+        <position height="15" width="66" x="665" y="451"/>      
+      </attribute>      
+      <multiplicity id="32" minimum="0" maximum="1">        
+        <position height="15" width="21" x="827" y="922"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="34" name="punto3">        
+        <position height="15" width="40" x="429" y="229"/>      
+      </attribute>      
+      <multiplicity id="35" minimum="0" maximum="1">        
+        <position height="15" width="21" x="814" y="909"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="36">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="37" name="centro">        
+        <position height="15" width="38" x="551" y="569"/>      
+      </attribute>      
+      <multiplicity id="38" minimum="0" maximum="1">        
+        <position height="15" width="21" x="769" y="906"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="false" package="false" initial-value="true" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

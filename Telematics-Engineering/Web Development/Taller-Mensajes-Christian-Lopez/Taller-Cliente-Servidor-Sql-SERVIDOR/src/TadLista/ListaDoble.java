@@ -1,0 +1,280 @@
+package TadLista;
+
+public class ListaDoble<T> implements ILista<T> {
+	
+	// ----------------------------------------------------------------------------
+	// ATRIBUTOS
+	// ----------------------------------------------------------------------------
+
+	private int longitud;
+
+	private NodoDoble<T> primero;
+
+	private NodoDoble<T> ultimo;
+
+	// ----------------------------------------------------------------------------
+	// CONSTRUCTOR
+	// ----------------------------------------------------------------------------
+
+	/**
+	 * Metodo constructor de la clase Lista Doble, crea instancias vacias de la lista doble
+	 */
+	public ListaDoble() {
+
+		this.longitud = 0;
+		this.primero = new NodoDoble<T>(null);
+		this.ultimo = primero;
+
+	}
+	
+	// ----------------------------------------------------------------------------
+	// METODOS
+	// ----------------------------------------------------------------------------
+
+	/**
+	 * Metodo que agrega una nuevo elemento generico a la lista
+	 * 
+	 * pre: <b/>valor=!null<br>
+	 * pos: la lista tiene un nuevo elemento
+	 * 
+	 * @param valor
+	 *            elemento nuevo que se agregarà a la lista
+	 * */
+	@Override
+	public void agregar(T contenido) {
+		
+		NodoDoble<T> nuevo = new NodoDoble<T>(contenido);
+		
+		ultimo.setSiguiente(nuevo);
+		nuevo.setAnterior(ultimo);
+		ultimo = nuevo;
+		longitud++;
+		
+	}
+
+	/**
+	 * Metodo que agrega una nuevo elemento generico a la lista en una posicion
+	 * especifica
+	 * 
+	 * pre: <b/>valor=!null<br>
+	 * pre: <b/>pos>=0<br>
+	 * pos: la lista tiene un nuevo elemento en la posicion indicada
+	 * 
+	 * @param pos
+	 *            posicion del elemento a agregar
+	 * @param valor
+	 *            elemento nuevo que se agregara a la lista
+	 * @throws arroja
+	 *             excepcion cuando el valor pasado por parametro excede el
+	 *             tamano de la lista
+	 * */
+	@Override
+	public void agregar(int pos, T contenido) throws Exception {
+		
+		if(pos<0 || pos>longitud){
+			throw new Exception("Error, posicion invalido");
+		}
+		
+		if(pos==longitud){
+			
+			agregar(contenido);
+			
+		}else{
+			
+			NodoDoble<T> nuevo = new NodoDoble<T>(contenido);
+			
+			NodoDoble<T> actual = primero;
+			for (int i = 0;  i <= (pos) && actual.getSiguiente()!=null; i++ ) {
+				actual = actual.getSiguiente();
+			}
+			
+			nuevo.setSiguiente(actual);
+			nuevo.setAnterior(actual.getAnterior());
+			actual.getAnterior().setSiguiente(nuevo);
+			actual.setAnterior(nuevo);
+			
+			
+			longitud++;
+		}
+		
+
+	}
+
+	/**
+	 * Metodo que elimina el elemento en la posicion pasada por parametro
+	 * 
+	 * pre: <b/>longitud>pos>=0<br>
+	 * pre: <b/>lista!=null<br>
+	 * pos: la lista tiene elemento menos
+	 * 
+	 * 
+	 * @param pos
+	 *            posicion del elemento a agregar
+	 * @throws Exception
+	 *             si no existen elementos en la lista 
+	 *             si la posicion no es igual a longitud , el rango valido va de 0 a longitud-1 
+	 *             si la posicion por parametro es negativa
+	 * */
+	@Override
+	public void eliminar(int pos) throws Exception {
+
+		if (esVacia()) {
+			throw new Exception("Error, no hay elementos en la lista");
+		}
+
+		if (pos < 0 || pos >= longitud) {
+			throw new Exception("Error, posicion invalido");
+		}
+
+		if (pos == longitud - 1) {
+			// aunque el caso del ultimo es cubierto por el caso promedio, se
+			// crea un caso aparte para hacer que
+			// la eliminacion del ultimo sea en O(1)
+
+			NodoDoble<T> anterior = ultimo.getAnterior();
+
+			anterior.setSiguiente(null);
+			ultimo.setAnterior(null);
+			ultimo = anterior;
+
+			longitud--;
+
+		} else {
+
+			NodoDoble<T> actual = primero;
+			for (int i = 0; i <= (pos) && actual.getSiguiente() != null; i++) {
+				actual = actual.getSiguiente();
+			}
+
+			actual.getSiguiente().setAnterior(actual.getAnterior());
+			actual.getAnterior().setSiguiente(actual.getSiguiente());
+			actual.setSiguiente(null);
+			actual.setAnterior(null);
+			
+			longitud--;
+		}
+
+	}
+	
+	/**
+	 * Metodo que elimina un elemento de la lista segun su contenido, para esto los objetos contenido
+	 * deben tener sobreescrito su metodo equals para mas precision
+	 * 
+	 * pos: la lista tiene un elemento menos
+	 * 
+	 * @param elemento a eliminar de la lista
+	 * @throws Exception si no se encontro el elemento pasado por parametro en la lista
+	 */
+	public void eliminar(T elemento) throws Exception{ 
+		
+		NodoDoble<T> actual = primero.getSiguiente();
+		
+		int pos;
+		
+		for (pos = 0; actual!=null &&  !actual.getContenido().equals(elemento) ; pos++ ) {
+			actual = actual.getSiguiente();
+		}
+		
+		if(actual==null){
+			throw new Exception("No se encontronco el elemento a eliminar");
+		}else{
+			eliminar(pos);
+		}
+		
+	}
+	
+	public NodoDoble<T> getIterador(){
+		return primero;
+	}
+
+	/**
+	 * Metodo que retorna un elemento de la lista
+	 * 
+	 * pre: <b/>pos>=0<br>
+	 * pre: <b/longitud<=pos<br>
+	 * pre: <b/>lista!=null<br>
+	 * 
+	 * @param pos
+	 *            posicion del elemento a retornar
+	 * @return T elemento en la posicion indicada o null si no lo encuentra
+	 * */
+	@Override
+	public T darElemento(int pos) {
+
+		T elemento = null;
+
+		if (pos >= 0 || pos < longitud) {
+
+			if (pos == longitud - 1) {
+				elemento = ultimo.getContenido();	
+			} else {
+				
+				NodoDoble<T> actual = primero;
+				for (int i = 0; i <= (pos) && actual.getSiguiente() != null; i++) {
+					actual = actual.getSiguiente();
+				}
+				elemento = actual.getContenido();
+			}
+		}
+
+		return elemento;
+	}
+
+	/**
+	 * Metodo que retorna la longitud de la lista
+	 * 
+	 * @return int longitud de la lista
+	 * */
+	@Override
+	public int darLongitud() {
+		return longitud;
+	}
+
+	/**
+	 * Metodo que retorna si la lista esta vacia
+	 * 
+	 * @return boolean true si esta vacia, false si no.
+	 * */
+	@Override
+	public boolean esVacia() {
+
+		return longitud == 0;
+	}
+
+	
+	/**
+	 * Metodo que escribe en consola los elementos internos desde el primero hacia el ultimo 
+	 * */
+	@Override
+	public void print() {
+		NodoDoble<T> actual = primero.getSiguiente();
+		for (int i = 0; i < darLongitud(); i++) {
+			System.out.println(actual.getContenido().toString());
+			actual = actual.getSiguiente();
+		}
+
+	}
+
+	/**
+	 * Metodo que escribe en consola los elementos internos desde el ultimo hacia el primero
+	 * */
+	public void printBack() {
+		NodoDoble<T> actual = ultimo;
+		for (int i = darLongitud(); i > 0; i--) {
+			System.out.println(actual.getContenido().toString());
+			actual = actual.getAnterior();
+		}
+	}
+	
+	/**
+	 * Metodo que reinicia la lista
+	 * 
+	 * pos: la lista queda limpia de elementos
+	 * */
+	public void limpiar(){
+		this.longitud = 0;
+		this.primero = new NodoDoble<T>(null);
+		this.ultimo = primero;
+	}
+
+}

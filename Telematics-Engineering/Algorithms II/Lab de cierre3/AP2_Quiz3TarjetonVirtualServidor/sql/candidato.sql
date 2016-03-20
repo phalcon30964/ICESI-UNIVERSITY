@@ -1,0 +1,6 @@
+CREATE TABLE Candidatos2(codigo integer, nombre varchar(50), partido varchar(50), votos integer)
+INSERT INTO Candidatos2(codigo, nombre, partido, votos) VALUES (1234, 'Leonard Hofstadter', 'Fisica experimental', 0)
+INSERT INTO Candidatos2(codigo, nombre, partido, votos) VALUES  (1357, 'Howard Wolowitz', 'Ingeniería Aeroespacial', 0)
+INSERT INTO Candidatos2(codigo, nombre, partido, votos) VALUES  (1479, 'Rajesh Koothappali', 'Astrofísica', 0)
+INSERT INTO Candidatos2(codigo, nombre, partido, votos) VALUES (2468, 'Penny', 'Actuación', 0)
+INSERT INTO Candidatos2(codigo, nombre, partido, votos) VALUES (5678, 'Sheldon Cooper', 'Fisica experimental', 0)

@@ -1,0 +1,190 @@
+package TadLista;
+
+
+
+public class TestLista {
+
+	public static void main(String[] args) {
+				
+	Doble<String> list = new Doble<String>();
+		
+	//QUE PRUEBA DESEA REALIZAR 0= lista con 0 elementos, 1= lista con 1 elemento, 2= lista con varios elementos
+	int tipoPrueba = 4;
+
+	//CODIGO DE PRUEBA
+	switch (tipoPrueba) {
+	case 0:
+		
+		System.out.println("la logitud es " + list.darLongitud());
+		try {
+//			System.out.println(list.darElemento(0));
+			list.eliminar(0);
+		} catch (Exception e2) {
+			// TODO Auto-generated catch block
+			e2.printStackTrace();
+			System.out.println("Prueba exitosa");
+		}
+
+		break;
+		
+	case 1:
+		
+		try {
+			
+			list.agregar("1");
+			System.out.println("Se agrego elemento :" + list.darElemento(0));
+			System.out.println(list.darElemento(list.darLongitud()-1));
+//			System.out.println(list.darElemento(list.darLongitud()));
+			
+			list.eliminar(0);
+			
+			
+			list.agregar(0, "1 otra vez");
+			
+			System.out.println("Se agrego elemento: " + list.darElemento(0));
+			System.out.println(list.darElemento(list.darLongitud()-1));
+			
+			list.eliminar(list.darLongitud()-1);
+			System.out.println("Se elimino ultimo elemento agregado ");
+			
+			if (list.darLongitud()==0) {
+				
+				System.out.println("Prueba exitosa");
+				
+			}
+		
+			
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		
+		break;
+		
+	case 2:
+		
+		for (int i = 1; i < 100; i++) {
+		
+		list.agregar(i+"");
+		System.out.println("se agrego elemento : " + i);
+		
+		}
+		
+		try {
+			int pos = 0;
+			
+			list.agregar(pos, "inicio");
+			System.out.println("se agrego elemento : " + list.darElemento(0));
+			
+			pos= list.darLongitud()/2;
+			list.agregar(list.darLongitud()/2, "medio");
+			System.out.println("se agrego elemento : " + list.darElemento(list.darLongitud()/2));
+			
+			pos=list.darLongitud();
+			list.agregar(list.darLongitud(), "ultimo");
+			System.out.println("se agrego elemento : " + list.darElemento(list.darLongitud()-1));
+			
+			
+			
+			list.agregar(4,"este");
+			System.out.println("se agrego elemento : " + list.darElemento(4));
+			
+
+//			list.eliminar(0);		
+//			list.eliminar(3);
+//			list.eliminar((list.darLongitud()/2)-1);
+//			list.eliminar(list.darLongitud()-1);
+
+			
+			if(list.darLongitud()==9){
+				System.out.println("Prueba Exitosa");
+			}
+			
+			
+			try {
+				System.out.println("el primero es:"+ list.darElemento(0));
+				System.out.println("el ultimo elemento es:" + list.darElemento(list.darLongitud()-1));
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			
+			
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		break;
+		
+		case 3:
+		
+		for (int i = 1; i <= 100; i++) {
+			
+			try {
+				list.agregar(list.darLongitud(), i+"");
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			System.out.println("se agrego elemento : " + i);
+			
+			}
+		
+		for (int i = 1; i <= 98; i++) {
+			try {
+				list.eliminar(list.darLongitud()-1);
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+		
+		break;
+		
+		case 4:
+			
+			for (int i = 1; i <= 10; i++) {
+				
+				try {
+					list.agregar(list.darLongitud(), i+"");
+				} catch (Exception e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+				System.out.println("se agrego elemento : " + i);
+				
+				}
+			
+			list.print();
+			list.printBack();
+			
+		break;
+	}
+		
+	
+	//IMPRESION DE COMO QUEDO LA LISTA DESPUES DEL METODO
+	System.out.println("\n\n" + "Lista de elementos de la lista despuedes de la prueba: ");
+	
+	for (int i = 0; i < list.darLongitud(); i++) {
+		try {
+			System.out.println(list.darElemento(i));
+		} catch (Exception e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+	}
+	
+	
+	//TAMANO DE LA LISTA DESPUES DEL METODO
+	System.out.println("La longitud de la lista es: "+list.darLongitud());
+	
+	}
+	
+	
+	
+	
+
+
+}

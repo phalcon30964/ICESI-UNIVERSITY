@@ -1,0 +1,18 @@
+package TadPila;
+
+public class PruebaPila {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		Pila<String> pila = new Pila<String>();
+		
+		for (int i = 1; i < 10; i++) {
+			
+		}
+
+	}
+
+}
