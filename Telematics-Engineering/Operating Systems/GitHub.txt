@@ -1,0 +1,33 @@
+git clone repositorio
+git push -u
+git add . -agrega todo
+git pull
+
+para conectarse desde 0 en la consola
+git config --global user.name "Christian Lopez"
+git config --global user.email "cdlopezmorcillo@gmail.com"
+crear clave ssh:
+ssh-keygen, pongo la ruta donde la guarda y le pone una contraseña.
+copio y pego contraseña en setting-ssh en github
+
+luego creo una carpta y pongo alli
+git init
+git add archivos
+git commit -m " registra cambios"
+git remote add origin githubrepositorio
+(si se hizo bien lo del ssh entonces dejara hacerlo)
+git pull origins master(traigo del repositorio)
+git push origins master(envio a reppsitorios
+
+git branch nombreRama - crea una rama
+
+git branch -muestra las ramas que hay
+
+git checkout nombreRama cambia a otra branch
+
+en otras ramas cambio el proyecto como quiera. Luego cuando ya sepa que quedo bien. doy
+
+Estando en la rama master, doy git merge  nombreRamaOtra y uno master con la otra rama 
+
+
+
